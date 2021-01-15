@@ -3,9 +3,9 @@ title: AEM Forms發行
 description: 包含所有AEM Forms版本和對應套件的清單
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 72047e39b9ee80a80b91d2d9b96c9ba6e51ea0e9
 workflow-type: tm+mt
-source-wordcount: '12231'
+source-wordcount: '12261'
 ht-degree: 0%
 
 ---
@@ -41,6 +41,7 @@ Adobe Experience Manager [!DNL Forms]是部署在AEM上的應用程式。 它將
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.234.zip">適用於Linux的AEM Forms附加元件套件</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.234.zip">AEM Forms Add-on package for Windows</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.234.zip">適用於Mac OS X [2]的AEM Forms附加元件套件</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.32.zip">AEM Forms相容性套件</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/adobe-lc-mobileworkspace-src-2.5.24.zip">AEM Forms應用程式來源</a></li>
       <br><b>JEE修補程式安裝程式</b></br>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Jboss/Win/AEMForms-6.5.0-0020_jboss_win.zip">JBoss Windows</a></li>
@@ -55,7 +56,7 @@ Adobe Experience Manager [!DNL Forms]是部署在AEM上的應用程式。 它將
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms Client SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE安裝程式：AEMForms-6.5.0-0020<br /> </p> AEM Forms Add-on Packages:6.0.234</p> <p>用戶端SDK:6.0.234<br /> </p></td> 
+    <td><p>AEM Forms JEE安裝程式：AEMForms-6.5.0-0020<br /> </p> AEM Forms Add-on Packages:6.0.234</p> <p>AEM Forms相容性套件：2.0.32</p><p>用戶端SDK:6.0.234<br /> </p></td> 
    </tr> 
    <tr> 
     <td>2020年9月3日</td> 
@@ -266,7 +267,7 @@ Adobe Experience Manager [!DNL Forms]是部署在AEM上的應用程式。 它將
   <tr> 
    <td>2019年12月12日</td> 
    <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0版AEM Forms Service Pack 7 Forms附加元件套件</a></td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
+   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-FORMS-6.4.7.0-LX.zip">適用於Linux的AEM Forms附加元件套件</a><br /> </li> 
@@ -330,7 +331,7 @@ Adobe Experience Manager [!DNL Forms]是部署在AEM上的應用程式。 它將
   <tr> 
    <td>2018年12月20日</td> 
    <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0版AEM Forms Service Pack 3 Forms附加元件套件</a></td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.7.0</a></td> 
+   <td><a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/sp-release-notes.html">AEM 6.4.3.0</a></td> 
    <td> 
     <ul> 
      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq640/servicepack/fd/AEM-Forms-6.4.3.0-AIX">AEM Forms Add-on package for AIX</a></li> 
