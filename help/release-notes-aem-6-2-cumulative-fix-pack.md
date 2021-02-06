@@ -1,11 +1,11 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
-description: 'null'
-translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
-source-wordcount: '19954'
-ht-degree: 100%
+description: Experience Manager 6.2 Cumulative Fix Pack發行說明。 深入探討Experience Manager元件中各種累積修補程式套件中修正的問題。
+translation-type: tm+mt
+source-git-commit: 98d91e0367912d8962bb2f45ae972f50ccb71b5f
+workflow-type: tm+mt
+source-wordcount: '19975'
+ht-degree: 99%
 
 ---
 
@@ -45,10 +45,13 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 >[!NOTE]
 >
 >* AEM Cumulative Fix Pack 6.2 SP1-CFP10 隨附新的 Sling `discovery-  api` 套件組合 Johnzon 1.0.0。此外，在 CRX 存放庫中為 */var/discovery* 節點新增了服務使用者 sling-discovery，其具有讀取和寫入權限。
->
->* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
->
->* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
+   >
+   >
+* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
+   >
+   >
+* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
+
 >
 
 
@@ -221,7 +224,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](
 
 * 由於特殊字元長破折號，Publisher 在排清快取時發生問題。NPR-27199：CQ-4242790 的 Hotfix
 
-### Granite {#granite-1}
+### 花崗岩{#granite-1}
 
 * 套件驗證器沒有驗證 CFP/SP 中包含的套件。NPR-26775：Granite-22825 的 Hotfix
 
@@ -298,7 +301,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 * 發生覆寫錯誤時未正確記錄。NPR-25308：CQ-4249402 的 Hotfix
 * 將 Forms AEM 6.2 Forms CFP8 安裝至 CFP14 會導致 Apache POI 失敗。NPR-25053：Granite-21771 的 Hotfix
 
-### Granite {#granite-2}
+### 花崗岩{#granite-2}
 
 * 使用者同步程序失敗，出現 OakConstraint0022 例外狀況。NPR-25729：Oak-7428 的 Hotfix
 
@@ -399,7 +402,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * Salesforce 整合容易遭受伺服器端請求偽造 (SSRF) 攻擊。NPR-24289：CQ-4245277 的 Hotfix
 * ReportingServicesProxyServlet 中出現伺服器端請求偽造 (SSRF) 漏洞。NPR-24657：CQ-4246880 的 Hotfix
 
-### Granite {#granite-3}
+### 花崗岩{#granite-3}
 
 * 中繼資料讀取作業不會終止。NPR-24240：Granite-19866 的 Hotfix
 * 將 Jetty 更新為 9.4.11.v20180605 以修正漏洞。NPR-25033：Granite-22120 的 Hotfix
@@ -1324,8 +1327,10 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 >
 >* 從 Word/Web 複製貼上到 CM 文字編輯器時，內容中顯示分行符號。NPR-19530
 >* CM 文字編輯器中沒有分行符號的內容不會換行。NPR-19449
+
 >
->這些問題將在未來的 CFP 中解決。
+>
+這些問題將在未來的 CFP 中解決。
 
 #### 適用性表單 {#adaptive-forms-9}
 
@@ -1496,7 +1501,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 * 選取資產並按一下「開發人員工具」時，不一定會以緩慢的連線顯示動作列中的工具列動作，而且必須重新載入頁面。NPR-17568；CQ-108365 的 Hotfix
 * 動作列應更新為使用兩個容器：coral-actionbar-primary 和 coral-actionbar-secondary，而非 coral-actionbar-container。NPR-17591；GRANITE-15225 的 Hotfix
 
-### Mobile-on-demand {#mobile-on-demand-2}
+### 隨選行動裝置{#mobile-on-demand-2}
 
 * 擁有 AEM Mobile 應用程式「唯讀」權限的使用者，無法從 AEM Mobile 的「內容管理」頁面預覽內容。NPR-17390；CQ-4209690 的 Hotfix
 
@@ -2333,7 +2338,7 @@ CFP12.1 中包含 NPR-21355。若要安裝 CFP12.1 或更新版本，請執行�
 
 1. 為位於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ 的 jsafeFIPS.jar、jsafeJCEFIPS.jar 和 certjFIPS.jar 檔案建立備份，並從上述目錄中刪除檔案。
 
-   請聯絡 [Adobe 支援](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)以取得新的 JAR 檔案。將向 [Adobe 支援](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)取得的 JAR 檔案放置於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   請聯絡 [Adobe 支援](https://helpx.adobe.com/marketing-cloud/contact-support.html)以取得新的 JAR 檔案。將向 [Adobe 支援](https://helpx.adobe.com/marketing-cloud/contact-support.html)取得的 JAR 檔案放置於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (僅限 Windows) 修改 `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` 或 `domain.conf.bat` 設定檔：
 
