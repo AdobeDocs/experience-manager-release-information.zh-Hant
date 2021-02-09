@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 36b873676460cf1d276e9b1a0ee7ecfb7fb26932
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '403'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -29,12 +29,12 @@ ht-degree: 98%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | 每月發行 | 2021 年 3 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 每月發行 | 2021 年 4 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 每月發行 | 2021 年 5 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 每月發行 | 2021年6月24日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 每月發行 | 2021年7月29日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 每月發行 | 2021年8月26日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 每月發行 | 2021年9月30日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 每月發行 | 2021年10月28日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 每月發行 | 2021年12月2日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.6.0 | 2021.6.0 | 每月發行 | 2021 年 6 月 24 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.7.0 | 2021.7.0 | 每月發行 | 2021 年 7 月 29 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.8.0 | 2021.8.0 | 每月發行 | 2021 年 8 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.9.0 | 2021.9.0 | 每月發行 | 2021 年 9 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.10.0 | 2021.10.0 | 每月發行 | 2021 年 10 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 每月發行 | 2021 年 12 月 2 日 |
 
 除了每月發行外，[!DNL Experience Manager] as a [!DNL Cloud Service] 還會每日提供各種重要更新。
 
@@ -75,8 +75,8 @@ ht-degree: 98%
 
 >[!MORELIKETHIS]
 >
->* [EOL 矩陣](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] 發行與更新](https://helpx.adobe.com/tw/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] 學習與支援](https://helpx.adobe.com/tw/support/experience-manager.html)
+>* [EOL 矩陣](https://helpx.adobe.com/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager] 發行與更新](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] 學習與支援](https://helpx.adobe.com/support/experience-manager.html)
 >* [[!DNL Experience Manager] 更新發行工具定義](/help/update-release-vehicle-definitions.md)
 
