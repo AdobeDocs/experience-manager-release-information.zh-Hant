@@ -45,13 +45,10 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 >[!NOTE]
 >
 >* AEM Cumulative Fix Pack 6.2 SP1-CFP10 隨附新的 Sling `discovery-  api` 套件組合 Johnzon 1.0.0。此外，在 CRX 存放庫中為 */var/discovery* 節點新增了服務使用者 sling-discovery，其具有讀取和寫入權限。
-   >
-   >
-* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
-   >
-   >
-* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
-
+>
+>* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
+>
+>* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
 >
 
 
@@ -1327,10 +1324,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 >
 >* 從 Word/Web 複製貼上到 CM 文字編輯器時，內容中顯示分行符號。NPR-19530
 >* CM 文字編輯器中沒有分行符號的內容不會換行。NPR-19449
-
 >
->
-這些問題將在未來的 CFP 中解決。
+>這些問題將在未來的 CFP 中解決。
 
 #### 調適型表單 {#adaptive-forms-9}
 
