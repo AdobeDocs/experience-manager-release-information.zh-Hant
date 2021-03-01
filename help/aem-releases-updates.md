@@ -2,11 +2,11 @@
 title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
-translation-type: ht
-source-git-commit: 6435add7b1aee2a5a2b1d0f0a0d37c3c55885672
-workflow-type: ht
-source-wordcount: '334'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 2e6a43b1608d07adfcafe5a5db6747b9ec966977
+workflow-type: tm+mt
+source-wordcount: '310'
+ht-degree: 92%
 
 ---
 
@@ -23,11 +23,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager] as a [!DNL Cloud Service] 每月會有新版本。因此，[!DNL Experience Manager] 將於每月持續更新並提供新功能。
 
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)
-
-* [[!DNL Experience Manager] as a [!DNL Cloud Service] 2020.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-2020-10-0.html)
-
-每月的發行說明也包含依元件名稱分類的新功能區段。如需先前 [!DNL Experience Manager]as a [!DNL Cloud Service] 版本的詳細資訊，請參閱 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 的所有發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html)。
+如需目前（最新）版本的詳細資訊，請參閱[[!DNL Experience Manager]  as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)。 您也可以從這裡導覽至舊版的詳細資訊（按時間順序排列）。
 
 ## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
 
