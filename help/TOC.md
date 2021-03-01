@@ -6,16 +6,16 @@ audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和藍圖
 breadcrumb-title: AEM 發行資訊
 user-guide-description: 請參閱最新的 AEM 版本更新。
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
 ---
 
 
-# Adobe Experience Manager 版本更新和藍圖{#aem-release-updates}
+# Adobe Experience Manager 版本更新和藍圖 {#aem-release-updates}
 
 + [發行資訊首頁](home.md)
 + [AEM 發行更新](aem-releases-updates.md)
