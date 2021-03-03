@@ -94,7 +94,7 @@ ht-degree: 99%
 | --- | --- | --- |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | Adobe 的目標是在程式碼、說明文件和體驗上使用精準的術語。<br>因此，我們正在針對此說明文件集進行一系列的更新，未來也將持續致力於此。 |
 | 2020 年 3 月 30 日 | Dynamic Media - 智慧型影像處理 | 新資訊已更新至智慧型影像處理說明主題。<br>請參閱[智慧型影像處理。](https://helpx.adobe.com/tw/experience-manager/6-3/assets/using/imaging-faq.html) |
-| 2020 年 3 月 5 日 | [!DNL Experience Manager] 6.3.3.8 | 適用於 [!DNL Experience Manager] 6.3 的[ Cumulative Fix Pack 6.3.3.8](/content/help/tw/zh-Hant/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) 可供使用。 |
+| 2020 年 3 月 5 日 | [!DNL Experience Manager] 6.3.3.8 | 適用於 [!DNL Experience Manager] 6.3 的[ Cumulative Fix Pack 6.3.3.8](https://helpx.adobe.com/cn/experience-manager/release-notes--aem-6-3-cumulative-fix-pack.html) 可供使用。 |
 
 ## [!DNL Experience Manager] 6.2 {#aem-62}
 
