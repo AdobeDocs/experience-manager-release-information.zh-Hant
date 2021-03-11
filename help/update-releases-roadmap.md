@@ -1,11 +1,11 @@
 ---
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
-translation-type: ht
-source-git-commit: 74b03cd0ac3868b956512c82097a94797714458a
-workflow-type: ht
-source-wordcount: '403'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+workflow-type: tm+mt
+source-wordcount: '347'
+ht-degree: 93%
 
 ---
 
@@ -24,8 +24,6 @@ ht-degree: 100%
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.1.0 | 2021.1.0 | 每月發行 | 2021 年 1 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.2.0 | 2021.2.0 | 每月發行 | 2021 年 2 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.3.0 | 2021.3.0 | 每月發行 | 2021 年 3 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.4.0 | 2021.4.0 | 每月發行 | 2021 年 4 月 29 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.5.0 | 2021.5.0 | 每月發行 | 2021 年 5 月 27 日 |
@@ -48,7 +46,6 @@ ht-degree: 100%
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 8 | 6.5.8.0 | Service Pack | 2021 年 3 月 11 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 9 | 6.5.9.0 | Service Pack | 2021 年 5 月 27 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 10 | 6.5.10.0 | Service Pack | 2021 年 8 月 26 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 11 | 6.5.11.0 | Service Pack | 2021 年 11 月 25 日 |
@@ -59,19 +56,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 產品更新會透過每季 CFP 提供。上述包括錯誤修正。最新發行 CFP 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 套件發行說明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
-
-| 發行 | 版本 | 類型 | 計劃 |
-|---|---|---|---|
-| [!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 | 6.4.8.4 | Cumulative Fix Pack | 2021 年 2 月 25 日 |
-
->[!NOTE]
->
->[!DNL Experience Manager] Forms 會在排程的[!DNL Experience Manager] Cumulative Fix Pack 發行日期一週後發行附加元件的套件。
-
->[!NOTE]
->
->[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是 [!DNL Experience Manager] 6.4 的最後一個 CFP。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4是 [!DNL Experience Manager] 6.4的最後一個CFP。如需最新版CFP的詳細資訊，請參閱 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
 
 >[!MORELIKETHIS]
 >
