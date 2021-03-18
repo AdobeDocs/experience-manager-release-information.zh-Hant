@@ -3,10 +3,10 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 translation-type: tm+mt
-source-git-commit: b3acdf6aa6510fd8ff05483c9ce22bc1e3246aac
+source-git-commit: e15774a3cc034e946ec7443a51181e4c636debaf
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '13231'
+ht-degree: 99%
 
 ---
 
@@ -50,9 +50,9 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Linux/AEMForms-6.5.0-0025_weblogic_linux.tar.gz">WebLogic Linux</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebLogic/Solaris/AEMForms-6.5.0-0025_weblogic_solaris.tar.gz">WebLogic Solaris</a></li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Win/AEMForms-6.5.0-0025_websphere_win.zip">WebSphere Windows</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Linux/AEMForms-6.5.0-0020_websphere_linux.tar.gz">WebSphere Linux</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/Solaris/AEMForms-6.5.0-0020_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
-      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0020/Websphere/AIX/AEMForms-6.5.0-0020_websphere_aix.tar.gz">WebSphere AIX</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Linux/AEMForms-6.5.0-0025_websphere_linux.tar.gz">WebSphere Linux</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/Solaris/AEMForms-6.5.0-0025_websphere_solaris.tar.gz">WebSphere Solaris</a></li>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEMForms-6-5-0-0025/WebSphere/AIX/AEMForms-6.5.0-0025_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms 用戶端 SDK [1]</li>  
      </ul> </td> 
     <td><p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0025<br /> </p> AEM Forms 附加元件套件：6.0.334</p> <p>AEM Forms 相容性套件：2.0.36</p><p>用戶端 SDK：6.0.334<br /> </p></td> 
