@@ -6,11 +6,15 @@ audience: end-user
 user-guide-title: Adobe Experience Manager 版本更新和藍圖
 breadcrumb-title: AEM 發行資訊
 user-guide-description: 請參閱最新的 AEM 版本更新。
+feature-set: Experience Manager
+feature: 發行資訊
+role: 領導者、架構師、開發人員、資料架構師、資料工程師、管理員、業務從業人員
+level: 初學者、中級、經驗豐富
 translation-type: tm+mt
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: c9654d3e8d6a5b46036c3d1b01d80ab00148f63a
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 100%
+source-wordcount: '94'
+ht-degree: 86%
 
 ---
 
