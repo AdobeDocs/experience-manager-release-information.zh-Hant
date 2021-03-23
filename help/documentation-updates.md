@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 近期說明文件更新'
 description: ' [!DNL Experience Manager]  說明文件新內容、更新或變更'
 contentOwner: trushton
 translation-type: tm+mt
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
 workflow-type: tm+mt
-source-wordcount: '3254'
+source-wordcount: '3247'
 ht-degree: 99%
 
 ---
@@ -13,7 +13,7 @@ ht-degree: 99%
 
 # [!DNL Experience Manager] 說明文件：近期說明文件更新 {#aem-documentation-recent-documentation-updates}
 
-本頁面列出自今年起的 [!DNL Adobe Experience Manager] 重要說明文件變更和更新。
+本頁列出[!DNL Adobe Experience Manager]的重要文檔更改和更新。
 
 您也可以檢視[先前說明文件更新](previous-documentation-updates.md)。
 
@@ -58,7 +58,7 @@ ht-degree: 99%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
-| 2021年3月11日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 可供使用。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 可供使用。 |
 | 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 可供使用。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
