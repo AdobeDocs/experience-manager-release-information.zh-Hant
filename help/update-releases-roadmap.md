@@ -1,18 +1,18 @@
 ---
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 持續為使用本產品[!DNL Cloud Service]、託管服務和內部部署產品的使用者提供新功能並增強現有功能，以及錯誤修正。本文章列出[!DNL Experience Manager]的近期發行。
+[!DNL Adobe Experience Manager] 持續為使用本產品 [!DNL Cloud Service]、託管服務和內部部署產品的使用者提供新功能並增強現有功能，以及錯誤修正。本文章列有 [!DNL Experience Manager] 即將發行的版本。
 
 >[!NOTE]
 >
@@ -20,7 +20,7 @@ ht-degree: 93%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 會維持每月發行。因此，[!DNL Experience Manager] 將於每月持續更新並提供新功能。[!DNL Experience Manager] as a [!DNL Cloud Service] 的近期發行如下。
+[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 會維持每月發行。因此，[!DNL Experience Manager] 將於每月持續更新並提供新功能。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行版本如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
@@ -42,7 +42,7 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。上述包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)。
+[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html)。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
@@ -52,16 +52,16 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] Forms 會在排程的[!DNL Experience Manager] Service Pack 發行日期一週後發行附加元件的套件。
+>[!DNL Experience Manager] Forms 會在排程的 [!DNL Experience Manager] Service Pack 發行日期一週後發行附加元件的套件。
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4是 [!DNL Experience Manager] 6.4的最後一個CFP。如需最新版CFP的詳細資訊，請參閱 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack版本注意事項](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是[!DNL Experience Manager] 6.4 的最後一版 CFP。若要了解關於最新版本 CFP 的詳細資訊，請參閱「[[!DNL Experience Manager] 6.4 Cumulative Fix Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)」。
 
 >[!MORELIKETHIS]
 >
->* [EOL 矩陣](https://helpx.adobe.com/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] 發行與更新](https://helpx.adobe.com/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] 學習與支援](https://helpx.adobe.com/support/experience-manager.html)
+>* [EOL 矩陣](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)
+>* [[!DNL Experience Manager] 發行與更新](https://helpx.adobe.com/tw/experience-manager/aem-releases-updates.html)
+>* [[!DNL Experience Manager] 學習與支援](https://helpx.adobe.com/tw/support/experience-manager.html)
 >* [[!DNL Experience Manager] 更新發行工具定義](/help/update-release-vehicle-definitions.md)
 
