@@ -6,7 +6,7 @@ translation-type: tm+mt
 source-git-commit: ad6014815c1b15b66e549653bf0f66fc26b1d2f4
 workflow-type: tm+mt
 source-wordcount: '13263'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
     <td><strong>組建版本</strong></td> 
    </tr>
    <tr> 
-    <td>2021年3月18日</td> 
+    <td>2021 年 3 月 18 日</td> 
     <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/release-notes/service-pack/sp-release-notes.html">適用於 AEM 6.5.8.0 的 AEM Forms Service Pack 8 Forms 附加元件套件</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.8.0</a></td> 
     <td> 
@@ -86,7 +86,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
    </tr> 
    <tr> 
     <td>2020 年 9 月 3 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">適用於 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加元件套件</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant">適用於 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加元件套件</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
      <ul> 
@@ -812,7 +812,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
    <td><p>AEM Forms 附加元件套件和用戶端 SDK：<strong>3.2.212</strong></p> <p>AEM Forms JEE 安裝程式：<strong>6.2.0-0043</strong></p> </td> 
   </tr> 
   <tr> 
-   <td>2019年 3 月 7 日</td> 
+   <td>2019 年 3 月 7 日</td> 
    <td><a href="/help/release-notes-aem-6-2-cumulative-fix-pack.md#forms">適用於 AEM 6.2 Cumulative Fix Pack 19 的 AEM Forms 附加元件套件</a></td> 
    <td>AEM 6.2 Cumulative Fix Pack 19</td> 
    <td> 
