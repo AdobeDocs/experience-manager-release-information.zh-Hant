@@ -10,9 +10,9 @@ feature-set: Experience Manager
 feature: 發行資訊
 role: 領導者, 架構者, 開發人員, 資料架構者, 資料工程師, 管理員, 商業從業者
 level: 初級, 中級, 資深
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 7377dceaae71f356b1b14670df64ade13e8992ea
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '94'
 ht-degree: 100%
 
