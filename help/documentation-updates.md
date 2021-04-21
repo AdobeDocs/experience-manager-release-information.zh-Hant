@@ -2,14 +2,14 @@
 title: '[!DNL Experience Manager] 近期說明文件更新'
 description: ' [!DNL Experience Manager]  說明文件新內容、更新或變更'
 contentOwner: trushton
+exl-id: 8c136a03-f961-4854-af38-45457b85d289
 translation-type: ht
-source-git-commit: 3299408b2206020ab8d31d905307d24f96c95368
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '3247'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] 說明文件：近期說明文件更新 {#aem-documentation-recent-documentation-updates}
 
