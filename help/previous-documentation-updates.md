@@ -2,14 +2,14 @@
 title: 先前說明文件更新內容
 description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明文件變更和更新內容。
 contentOwner: alvawb
+exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 translation-type: ht
-source-git-commit: 47b391ed659264b611f08d2fa9e45a923be5c445
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '9351'
 ht-degree: 100%
 
 ---
-
 
 # 先前說明文件更新內容{#previous-documentation-updates}
 
@@ -435,7 +435,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 8 月 29 日<br /> </td> 
    <td>AEM Assets</td> 
-   <td>若要設定 oAuth 整合，可在<a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。</td> 
+   <td>若要設定 oAuth 整合，可在<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
@@ -485,7 +485,7 @@ ht-degree: 100%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>MC-CC 整合<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
@@ -1309,7 +1309,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 11 月 22 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/aem-assets-6-1-feature-pack-1.html">AEM Assets 6.1 FP1</a></td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/assets/aem-assets-6-1-feature-pack-1.html">AEM Assets 6.1 FP1</a></td> 
    <td>此 Feature Pack 包含適用於 AEM Assets 6.1 的擴充性、效能和易用性改善項目。</td> 
   </tr>
   <tr>
@@ -1344,12 +1344,12 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 10 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/viewer-presets.html">Dynamic Media 檢視器</a></td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/viewer-presets.html">Dynamic Media 檢視器</a></td> 
    <td>AEM 6.2 檢視器現已在 AEM 6.1 中提供使用。</td> 
   </tr>
   <tr>
    <td>2016 年 10 月 11 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20Dynamic%20Media%20Color%20Management">Dynamic Media 色彩管理</a></td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20Dynamic%20Media%20Color%20Management">Dynamic Media 色彩管理</a></td> 
    <td>AEM 6.1 的新 Feature Pack 可讓您在 Dynamic Media 媒體資產之前，先對其進行色彩校正。</td> 
   </tr>
   <tr>
@@ -1364,7 +1364,7 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 9 月 21 日</td> 
-   <td>AEM Asset Formats <a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/assets/assets-formats.html">6.1</a></td> 
+   <td>AEM Asset Formats <a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/assets/assets-formats.html">6.1</a></td> 
    <td>新增有關 PSB 影像原生支援的資訊</td> 
   </tr>
   <tr>
@@ -1379,18 +1379,18 @@ ht-degree: 100%
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Setting%20up%20Authentication">設定驗證</a></td> 
-   <td>與<a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。</td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Setting%20up%20Authentication">設定驗證</a></td> 
+   <td>與<a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20the%20Replication%20Agent">設定複寫代理</a></td> 
-   <td>與<a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Configuring%20the%20Replication%20Agent">設定複寫代理</a></td> 
+   <td>與<a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Troubleshooting%20Authentication">排解驗證疑難問題</a></td> 
-   <td>與<a href="https://docs.adobe.com/content/docs/en/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
+   <td><a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html#Troubleshooting%20Authentication">排解驗證疑難問題</a></td> 
+   <td>與<a href="https://docs.adobe.com/content/docs/zh-Hant/aem/6-1/administer/content/dynamic-media/config-dynamic.html">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 12 日</td> 
