@@ -1,14 +1,14 @@
 ---
 title: AEM 6.3 Cumulative Fix Pack
 description: AEM 6.3 Cumulative Fix Pack 發行說明
+exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 translation-type: ht
-source-git-commit: 050be3e2fc20242d222344bc9202752eda336b2e
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '15916'
 ht-degree: 100%
 
 ---
-
 
 # AEM 6.3 Cumulative Fix Pack 發行說明 {#release-notes-aem-cumulative-fix-pack}
 
@@ -29,7 +29,7 @@ Adobe 針對發行修正推出單一交付模式。Adobe 現在改採每個月�
 * 提高品質保證
 * 簡化安裝程序 (使用者以無相依性的單一套件安裝 CFP 即可，但最新版 Service Pack 除外)
 
-如需更多有關 CFP 和其他發行版本的相關資訊，請參閱[維護版本工具定義](https://docs.adobe.com/content/docs/en/aem/6-3/deploy/maintenance-release-vehicle-definitions.html)。
+如需更多有關 CFP 和其他發行版本的相關資訊，請參閱[維護版本工具定義](https://docs.adobe.com/content/docs/zh-Hant/aem/6-3/deploy/maintenance-release-vehicle-definitions.html)。
 
 ## 關於發行版本 {#about-the-release}
 
@@ -1743,7 +1743,7 @@ AEM Cumulative Fix Pack 6.3.0.1 為重要更新，包含自 2017 年 4 月正式
 >
 >建議您在嘗試安裝之前，先對每個新安裝套件都執行驗證。安裝之前預先驗證程序會分析並報告所有發現的錯誤，並主動警告使用者出現這些錯誤。
 >
->如需驗證選項的說明文件，請前往 [https://docs.adobe.com/content/docs/en/aem/6-3/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/en/aem/6-3/administer/content/package-manager.html#Package%20Validator)
+>如需驗證選項的說明文件，請前往 [https://docs.adobe.com/content/docs/zh-Hant/aem/6-3/administer/content/package-manager.html#Package%20Validator](https://docs.adobe.com/content/docs/zh-Hant/aem/6-3/administer/content/package-manager.html#Package%20Validator)
 
 * AEM 6.3.3.0 是 CFP 的必備條件。請參閱[升級說明文件](https://docs.adobe.com/docs/en/aem/6-3/deploy/upgrade.html)，取得有關將 AEM 安裝升級為 AEM 6.3 的詳細指示。
 * 針對使用 RDBMK 或 MongoDB 的叢集部署，CFP 套件可安裝在使用套件管理器的任何製作執行個體上。
@@ -1969,6 +1969,6 @@ Restrictions : rep:glob=&quot;/*/jcr:content/*&quot;
 >* [AEM 6.3 Hotfix 頁面](https://helpx.adobe.com/tw/experience-manager/kb/aem63-available-hotfixes.html)
 >* [AEM 6.3 發行說明](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
 >* [AEM 產品頁面](http://www.adobe.com/solutions/web-experience-management.html)
->* [AEM 6.3 檔案](https://docs.adobe.com/content/docs/en/aem/6-3.html)
+>* [AEM 6.3 檔案](https://docs.adobe.com/content/docs/zh-Hant/aem/6-3.html)
 >* 訂閱 [Adobe 優先產品更新](https://www.adobe.com/subscription/priority-product-update.html)
 
