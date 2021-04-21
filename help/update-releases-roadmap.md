@@ -1,14 +1,14 @@
 ---
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
+exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 translation-type: ht
-source-git-commit: 4303e4f7b0e0e544434221d8f7dbf9fef44164f9
+source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
 workflow-type: ht
 source-wordcount: '347'
 ht-degree: 100%
 
 ---
-
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
