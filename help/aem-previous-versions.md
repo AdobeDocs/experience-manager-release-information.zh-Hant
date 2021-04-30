@@ -2,11 +2,11 @@
 title: AEM、CQ 和 CRX 的較舊版本
 description: 舊版 Adobe Experience Manager、CQ 和 CRX 的文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 30feacd82cd68428b8c06044d6290f8f5328aa7a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '793'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -14,11 +14,11 @@ ht-degree: 93%
 
 ## 舊版 [!DNL Experience Manager] 說明文件 {#older-version-aem-documentation}
 
-本頁所列的 [!DNL Experience Manager]、CQ 和 CRX 版本已終止服務，Adobe 不再正式販售。您可自助使用這些較舊版本的最新版本官方說明文件。建議您升級至最新版本 (目前為 [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html))。
+本頁所列的 [!DNL Experience Manager]、CQ 和 CRX 版本已終止服務，Adobe 不再正式販售。您可自助使用這些較舊版本的最新版本官方說明文件。建議您升級至最新版本 (目前為 [[!DNL Experience Manager] 6.5](https://experienceleague.adobe.com/docs/experience-manager-65.html?lang=zh-Hant))。
 
 >[!NOTE]
 >
->若要了解 [!DNL Experience Manager] 版本何時結束核心支援，請參閱[產品和技術支援期間](https://helpx.adobe.com/support/programs/eol-matrix.html)並搜尋 `AEM`。
+>若要了解 [!DNL Experience Manager] 版本何時結束核心支援，請參閱[產品和技術支援期間](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)並搜尋 `AEM`。
 
 ### 安裝之前 {#before-installation}
 
@@ -36,7 +36,7 @@ ht-degree: 93%
 您需有有效 Adobe ID：
 
 * 如果您沒有 Adobe ID，可在 www.adobe.com 建立 Adobe ID
-如果您需要建立或管理 Adobe ID 的協助，[請參閱這份指南](https://helpx.adobe.com/manage-account.html)
+如果您需要建立或管理 Adobe ID 的協助，[請參閱這份指南](https://helpx.adobe.com/tw/manage-account.html)
 
 | [!DNL Experience Manager] 版本 | Software Distribution 連結 |
 |:-----------:|:--------------------------------------------------:|
@@ -73,7 +73,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->對AEM於6.2，您可能需要使用以下命令啟動本地實例：` java -jar -XX:MaxPermSize=2048m aem-author.jar`
+>對於 AEM 6.2，您可能必須以增加的堆積大小上限來啟動本機執行個體。例如，使用此命令：` java -jar -XX:MaxPermSize=2048m aem-author.jar`
 
 1. 開啟 [!DNL Experience Manager] 使用者介面。在網頁瀏覽器中輸入：`http://localhost:4502/`。以管理員身分登入。
 
@@ -81,7 +81,7 @@ ht-degree: 93%
 
 1. 在套件管理程式 UI 中，選取&#x200B;**[!UICONTROL 上傳套件]**。
 
-1. 瀏覽至您下載套件的位AEM置。
+1. 瀏覽至下載 AEM 套件的位置。
 
 1. 選取該套件，然後按一下&#x200B;**[!UICONTROL 確定]**。
 
@@ -91,7 +91,7 @@ ht-degree: 93%
 
 1. 在確認對話方塊中，再次選取&#x200B;**[!UICONTROL 安裝]**。注意：安裝需要幾分鐘時間。
 
-1. 在網頁瀏覽器中，啟動說明文件頁面。使用AEM5.6.1範例時，URL會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在網頁瀏覽器中，啟動說明文件頁面。以 AEM 5.6.1 當作範例，URL 會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 取得 [!DNL Experience Manager] 社群的協助 {#get-help-from-aem-community}
 
