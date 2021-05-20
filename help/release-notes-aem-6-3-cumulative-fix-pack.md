@@ -2,9 +2,8 @@
 title: AEM 6.3 Cumulative Fix Pack
 description: AEM 6.3 Cumulative Fix Pack 發行說明
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '15916'
 ht-degree: 100%
 
@@ -35,7 +34,7 @@ Adobe 針對發行修正推出單一交付模式。Adobe 現在改採每個月�
 
 AEM Cumulative Fix Pack 6.3.3.8 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -95,13 +94,13 @@ AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您�
 * Designer：如果表格中有合併的儲存格，協助工具測試就無法輸出透過輸出服務從 XDP 表單轉換而來的 PDF 檔案 (NPR-32068)。
 * 文件安全性：`DisableGlobalOfflineSynchronizationData` 選項若設為 `True`，受保護的 PDF 檔案就無法離線開啟 (NPR-32080)。
 
-## 先前版本 Cumulative Fix Pack 中包含的 Hotfix 和 Feature Pack{#previous}
+## 先前版本 Cumulative Fix Pack 中包含的 Hotfix 和 Feature Pack {#previous}
 
 ### Cumulative Fix Pack 6.3.3.7 {#cumulative-fix-pack-1}
 
 AEM Cumulative Fix Pack 6.3.3.7 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 資產 {#assets-1}
 
@@ -169,7 +168,7 @@ AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.6 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 資產 {#assets-2}
 
@@ -223,7 +222,7 @@ AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.5 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -291,7 +290,7 @@ AEM 6.3.3.5 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.4 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -399,7 +398,7 @@ AEM 6.3.3.4 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.3 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -627,7 +626,7 @@ AEM 6.3.3.2 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.1 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -1819,7 +1818,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 >[!NOTE]
 >
->若您是安裝 6.3.3.0 或更新版本，請執行以下程序來配置 JBoss 應用程式伺服器的設定。若您是在 Oracle WebLogic 或 IBM WebSpehere 應用程式伺服器上所執行的 AEM Forms 伺服器上安裝 6.3.3.0，則無需進行額外設定。如需更多詳細資訊，請參閱 [AEM 6.3.3.0 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+>若您是安裝 6.3.3.0 或更新版本，請執行以下程序來配置 JBoss 應用程式伺服器的設定。若您是在 Oracle WebLogic 或 IBM WebSpehere 應用程式伺服器上所執行的 AEM Forms 伺服器上安裝 6.3.3.0，則無需進行額外設定。如需更多詳細資訊，請參閱 [AEM 6.3.3.0 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ## 更新 Search&amp;Promote 整合的設定{#configuration-updates-for-search-promote-integration}
 
@@ -1846,7 +1845,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 >[!NOTE]
 >
->若您受到這兩個問題其中任何一個的影響，請聯絡 [AEM 客戶服務](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)。
+>若您受到這兩個問題其中任何一個的影響，請聯絡 [AEM 客戶服務](https://helpx.adobe.com/marketing-cloud/contact-support.html)。
 
 * 由於管理搜尋功能中有大量請求，出現高 CPU 使用量問題。NPR-24229
 * 重新開啟元件時沒有選取 pathBrowser 中的 PathField。NPR-24177
@@ -1891,25 +1890,25 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
 Restrictions : rep:glob=&quot;/*/jcr:content&quot;\
-`b)` Principal : reference-adjustment-service\
-Type : Allow\
-Privileges : jcr:read , jcr:modifyProperties\
+`b)` 主體：參考調整服務\
+類型：允許\
+權限：jcr:read , jcr:modifyProperties\
 Restrictions : rep:glob=&quot;/*/jcr:content/*&quot;
 
 `2)` At &quot;/content/usergenerated&quot; path\
-`a)` Principal : reference-adjustment-service\
-Type : Allow\
+`a)` 主體：參考調整服務\
+類型：允許\
 Privileges : jcr:write
 
 `3)` At &quot;/etc&quot; path\
-`a)` Principal : reference-adjustment-service\
-Type : Allow\
-Privileges : jcr:read , jcr:modifyProperties\
-Restrictions : rep:glob=&quot;/*/jcr:content&quot;\
-`b)` Principal : reference-adjustment-service\
-Type : Allow\
-Privileges : jcr:read , jcr:modifyProperties\
-Restrictions : rep:glob=&quot;/*/jcr:content/*&quot;
+`a)` 主體：參考調整服務\
+類型：允許\
+權限：jcr:read , jcr:modifyProperties\
+限制：rep:glob=&quot;/*/jcr:content&quot;\
+`b)` 主體：參考調整服務\
+類型：允許\
+權限：jcr:read , jcr:modifyProperties\
+限制：rep:glob=&quot;/*/jcr:content/*&quot;
 
 ## NPR-19450 所需的配置設定 {#configuration-settings-required-for-npr-2}
 
