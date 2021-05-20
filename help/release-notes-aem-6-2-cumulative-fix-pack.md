@@ -2,9 +2,8 @@
 title: AEM 6.2 Cumulative Fix Pack
 description: Experience Manager 6.2 Cumulative Fix Pack 版本注意事項。深入了解 Experience Manager 元件中各類 Cumulative Fix Pack 所修復的問題。
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19975'
 ht-degree: 100%
 
@@ -45,10 +44,13 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 >[!NOTE]
 >
 >* AEM Cumulative Fix Pack 6.2 SP1-CFP10 隨附新的 Sling `discovery-  api` 套件組合 Johnzon 1.0.0。此外，在 CRX 存放庫中為 */var/discovery* 節點新增了服務使用者 sling-discovery，其具有讀取和寫入權限。
->
->* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
->
->* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
+   >
+   >
+* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
+   >
+   >
+* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
+
 >
 
 
@@ -1115,7 +1117,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 增強調適型表單，可在 Safari 中附加 PDF 作為附件。為支援現有表格的相同功能，我們需要變更附件小工具和「支援的檔案類型」中的設定，以更新值 application/pdf 而非 .pdf。NPR-19623
 
-#### Forms Manager {#forms-manager-1}
+#### Forms管理員{#forms-manager-1}
 
 * 如果沒有在調適型表單欄位上定義 validationState，且發生了 elementFocusChanged 事件，則會傳回錯誤事件 (errorState) 至 Adobe Analytics 伺服器。NPR-19513
 
@@ -1212,7 +1214,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 >* 在文件片段中，無法對動態內容 (例如資料字典元素值或變數值) 進行搜尋。
 
 
-#### Forms Manager {#forms-manager-2}
+#### Forms管理員{#forms-manager-2}
 
 * 在 AEM 6.2 上套用 CFP6 後，無法編輯調適型表單的 XML 結構屬性。CQ-4219684 的 Hotfix
 * 重新啟動伺服器時，沒有啟動 AEM Forms Manager 核心套件組合的所有服務。CQ-4217014 的 Hotfix
@@ -1324,8 +1326,10 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 >
 >* 從 Word/Web 複製貼上到 CM 文字編輯器時，內容中顯示分行符號。NPR-19530
 >* CM 文字編輯器中沒有分行符號的內容不會換行。NPR-19449
+
 >
->這些問題將在未來的 CFP 中解決。
+>
+這些問題將在未來的 CFP 中解決。
 
 #### 調適型表單 {#adaptive-forms-9}
 
@@ -1528,7 +1532,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 * 編輯信函時，在文字模組中新增的變數不會顯示在「資料繫結」面板中。NPR-17940
 * HTML 提交動作使用 POST 方法時，通信管理 UI 不會啟動。NPR-17595
 
-**Forms Manager**
+**Forms經理**
 
 * 在針對 AB 測試設定的調適型表單中，按一下「開始 AB 測試」時不會開始測試，且會擲回瀏覽器控制台錯誤。NPR-17838
 
