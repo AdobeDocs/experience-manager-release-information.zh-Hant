@@ -2,9 +2,8 @@
 title: '[!DNL Adobe Experience Manager] 版本更新和藍圖'
 description: '[!DNL Adobe Experience Manager] 版本更新和藍圖'
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-translation-type: ht
 source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '69'
 ht-degree: 100%
 
@@ -26,7 +25,7 @@ ht-degree: 100%
 ## [!DNL Experience Manager] Forms 版本更新
 
 * [[!DNL Experience Manager] Forms 版本](aem-forms-releases.md)
-* [在  [!DNL Experience Manager] Forms JEE](install-cfp-aem-forms-jee.md) 安裝 Cumulative Fix Pack
+* [在  [!DNL Experience Manager] Forms JEE 安裝 Cumulative Fix Pack](install-cfp-aem-forms-jee.md)
 
 ## 說明文件更新
 
