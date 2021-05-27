@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 近期說明文件更新'
 description: ' [!DNL Experience Manager]  說明文件新內容、更新或變更'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: fa68729be0642a7369e2a1bef643fac32a76bc3e
+source-git-commit: faf5d9e8303daec9484062f756f430428e280dd7
 workflow-type: tm+mt
-source-wordcount: '3247'
+source-wordcount: '3262'
 ht-degree: 100%
 
 ---
@@ -57,7 +57,8 @@ ht-degree: 100%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
-| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant#service-pack) 可供使用。 |
+| 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant#service-pack) 可供使用。 |
+| 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 可供使用。 |
 | 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hant#dynamic)。 |
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 可供使用。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
