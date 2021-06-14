@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 733e77a10f0003ed10a1560d0f5b20f0368cf757
 workflow-type: tm+mt
 source-wordcount: '13746'
-ht-degree: 97%
+ht-degree: 99%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
     <td><strong>組建版本</strong></td> 
    </tr>
    <tr> 
-    <td>2021年6月3日</td> 
+    <td>2021 年 6 月 3 日</td> 
     <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/release-notes/service-pack/sp-release-notes.html">適用於 AEM 6.5.9.0 的 AEM Forms Service Pack 9 Forms 附加元件套件</a></td> 
     <td><a href="https://docs.adobe.com/content/help/en/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.9.0</a></td> 
     <td> 
@@ -55,7 +55,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0028/websphere/aix/AEMForms-6.5.0-0028_websphere_aix.tar.gz">WebSphere AIX</a></li>
       <li>AEM Forms 用戶端 SDK [1]</li>  
      </ul> </td> 
-    <td><p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0028<br /> </p> AEM Forms 附加元件套件：6.0.434</p> <p>用戶端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>Livecycle 內嵌套件：5.0.14</p></td> 
+    <td><p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0028<br /> </p> AEM Forms 附加元件套件：6.0.434</p> <p>用戶端 SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>LiveCycle 內嵌套件：5.0.14</p></td> 
    </tr>
    <tr> 
     <td>2021 年 3 月 18 日</td> 
