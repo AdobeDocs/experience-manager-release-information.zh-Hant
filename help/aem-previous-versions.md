@@ -3,7 +3,7 @@ title: AEM、CQ 和 CRX 的較舊版本
 description: 舊版 Adobe Experience Manager、CQ 和 CRX 的文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 8c3d816af4db91ea06cb26041376027767fac6bc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '820'
 ht-degree: 100%
 
@@ -55,7 +55,7 @@ ht-degree: 100%
 
 ## 如何安裝說明文件套件 {#how-to-install-documentation-package}
 
-若要安裝舊版說明文件套件，您必須安裝 [!DNL Experience Manager]，並在本機硬碟或網路硬碟上執行。
+若要安裝舊版說明文件套件，您必須將 [!DNL Experience Manager] 安裝在本機硬碟或網路硬碟上並執行它。
 
 ### 下載說明文件套件 {#download-documentation-package}
 
@@ -95,4 +95,4 @@ ht-degree: 100%
 
 ## 取得 [!DNL Experience Manager] 社群的協助 {#get-help-from-aem-community}
 
-如果您對使用 Experience Manager 有任何疑問，建議[在 [!DNL Experience Manager] 論壇中聯絡經驗豐富的社群專家](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)。
+如果您對使用 Experience Manager 有任何疑問，建議您[在  [!DNL Experience Manager] 論壇](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community)中聯繫我們經驗豐富的社群專家。
