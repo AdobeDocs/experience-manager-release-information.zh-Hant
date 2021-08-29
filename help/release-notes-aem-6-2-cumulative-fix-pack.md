@@ -2,10 +2,10 @@
 title: AEM 6.2 Cumulative Fix Pack
 description: Experience Manager 6.2 Cumulative Fix Pack 版本注意事項。深入了解 Experience Manager 元件中各類 Cumulative Fix Pack 所修復的問題。
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: c56b6919de7740901a7f71635ac6efd22bdf9a15
 workflow-type: tm+mt
-source-wordcount: '19975'
-ht-degree: 100%
+source-wordcount: '19969'
+ht-degree: 99%
 
 ---
 
@@ -48,8 +48,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 >* 新增 Apache Commons **org.apache.commons/commons-email/1.5** 的電子郵件套件組合，取代了 **com.day.commons.osgi.wrapper/com.day.commons.osgi.wrapper.commons-email/1.2.0-0002**。
 >
 >* Adobe 建議針對 AEM 執行個體上有大量使用者的客戶，透過安裝資料夾來部署 CFP。
->
 
+>
 
 
 ## 包括的問題 {#issues-included}
@@ -85,7 +85,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 >
 >AEM Forms 附加元件套件用於協助讓表單功能與 AEM Service Pack 和 Cumulative Fix Pack 一致。因此，必須先安裝任何 AEM Service Pack、Cumulative Fix Pack 或 Feature Pack，才能安裝 AEM Forms 附加套件。
 
-#### 調適型表單 {#adaptive-forms}
+#### 適用性表單 {#adaptive-forms}
 
 * iOS 12.1 裝置上的手寫元件可用性問題。NPR- 29082：CQ-4261765 的 Hotfix
 
@@ -93,7 +93,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 * 使用 PDF 進階電子簽名 (PAdES) 驗證的 PDF 中，所有簽名都會擲回 InvalidOperationException。NPR-27848：CQ-4244837 的 Hotfix
 
-#### Forms - 通信{#forms-correspondence}
+#### Forms - 通信 {#forms-correspondence}
 
 * 以 PDF 預覽信函時，置於主版頁面的文字欄位沒有遵循從資料索引標籤輸入的值或資料連結指定的值。NPR-29239：CQ-4266856 的 Hotfix。
 
@@ -105,7 +105,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 * Forms JEE 安裝程式中沒有新的 AEM Forms 修正。
 
-## 先前版本 Cumulative Fix Pack 中包含的 Hotfix 和 Feature Pack{#hotfixes-and-feature-packs-included-in-previous-cumulative-fix-packs}
+## 先前版本 Cumulative Fix Pack 中包含的 Hotfix 和 Feature Pack {#hotfixes-and-feature-packs-included-in-previous-cumulative-fix-packs}
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
@@ -162,7 +162,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP19 為重要更新，包含自 [AEM 6.2 SP1](
 
 ### Forms 附加元件套件 {#forms-add-on-package-1}
 
-#### 調適型表單 {#adaptive-forms-1}
+#### 適用性表單 {#adaptive-forms-1}
 
 * AEM 表單出現 XML 插入漏洞。NPR-27843：CQ-4257315 的 Hotfix
 
@@ -287,7 +287,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 * 使用輸出時產生空白轉譯。NPR-25295：CQ-4246792 的 Hotfix
 * 頁面啟動時，從製作環境刪除的體驗都不會從發佈網站中移除。NPR-24869：CQ-4247832 的 Hotfix
 
-### DAM - DM 用戶端{#dam-dm-client}
+### DAM - DM 用戶端 {#dam-dm-client}
 
 * (Chrome、Firefox) VideoPlayer 會忽略支援觸控功能的裝置上的滑鼠點按。CQ-4247370 的 Hotfix
 
@@ -317,15 +317,15 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 
 ### Forms 附加元件套件 {#forms-add-on-package-3}
 
-#### 調適型表單 {#adaptive-forms-2}
+#### 適用性表單 {#adaptive-forms-2}
 
 * 從調適型表單提交資料時編碼錯誤。NPR-25539
 
-#### 表單 - 管理{#forms-management}
+#### 表單 - 管理 {#forms-management}
 
 * 發佈頁面時，不相關的表單資產會報告為參考。NPR-26167：CQ-4251004 的 Hotfix
 
-### Forms - JEE 安裝程式 {#forms-jee-installer-3}
+### Forms - JEE安裝程式 {#forms-jee-installer-3}
 
 #### 文件安全性 {#document-security}
 
@@ -408,7 +408,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * 排序頁面時 PageComparator 擲回 ClassCastException。NPR-24123：CQ-4244048 的 Hotfix
 * 表單下拉式元件的顯示/隱藏功能未如預期運作。NPR-24562：CQ-4222853 的 Hotfix
 
-### 使用者介面{#user-interface}
+### 使用者介面 {#user-interface}
 
 * 由於管理搜尋功能中有大量請求，出現高 CPU 使用量問題。NPR-23588：Granite-21286 的 Hotfix
 * (傳統 UI) 如果相關的表單資料模型服務設為空白欄位，元件會顯示預設值。NPR-21903：GRANITE-19744 的 Hotfix
@@ -434,7 +434,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * 透過預設預覽來預覽信函時，版面片段對應沒有顯示，而按一下預覽按鈕時，同樣的版面片段對應則會正確顯示。NPR-22993：CQ-4237745 的 Hotfix
 * 將社會安全號碼模式套用至範本時，文字欄位的 HTML 預覽出現問題。NPR-23205
 
-#### 調適型表單 {#adaptive-forms-3}
+#### 適用性表單 {#adaptive-forms-3}
 
 * 將 AEM 表單新增至 parsys 元件時發生「Guidelib 未定義」錯誤。NPR-24269：CQ-4244546 的 Hotfix
 
@@ -508,7 +508,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 
 * 在翻譯設定上將資產設定為「不翻譯」時，系統會建立資產語言副本。NPR-22540：CQ-4237962 的 Hotfix
 
-### 使用者介面{#user-interface-1}
+### 使用者介面 {#user-interface-1}
 
 * 搭配連字號查詢使用 Omnisearch 時會傳回伺服器錯誤。NPR-22999：Granite-19674 的 Hotfix
 * 日期挑選器不支援手動設定隱藏欄位所設定的外部類型提示。變更類型提示會出現對話錯誤。NPR-23333：Granite-21194 的 Hotfix
@@ -639,11 +639,11 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 
 * 發現預覽功能出現問題。NPR-22201：CQ-4223753 的 Hotfix
 
-### 使用者介面{#user-interface-2}
+### 使用者介面 {#user-interface-2}
 
 * (傳統 UI) 如果相關的表單資料模型服務設為空白欄位，元件會顯示預設值。NPR-21903：GRANITE-19744 的 Hotfix
 
-### WCM - Foundation 元件 {#wcm-foundation-components-3}
+### WCM - Foundation 元件  {#wcm-foundation-components-3}
 
 * 發佈指向 Adobe Campaigns 中匯入工具頁面的 Live Copy 頁面時發生錯誤。NPR-22470：CQ-4237164 的 Hotfix
 * 開啟體驗片段編輯器時發生 JavaScript 錯誤。NPR-22598：CQ-4238415 的 Hotfix
@@ -658,11 +658,11 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 AEM Forms 發行版本。
 
-#### 調適型表單 {#adaptive-forms-4}
+#### 適用性表單 {#adaptive-forms-4}
 
 * IE11 和 Chrome 之間調適型表單中的下拉式清單預留位置值不一致。NPR-22405：CQ-4227096 的 Hotfix
 
-### Forms JEE 安裝程式 {#forms-jee-installer-6}
+### Forms JEE安裝程式 {#forms-jee-installer-6}
 
 #### 安裝 LCM {#install-lcm}
 
@@ -732,7 +732,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP13 為重要更新，包含自 AEM 6.2 SP1 �
 
 ### Forms 附加元件套件 {#forms-add-on-package-7}
 
-#### 調適型表單 {#adaptive-forms-5}
+#### 適用性表單 {#adaptive-forms-5}
 
 * 調適型表單中出現 XML 外部實體插入 (XXE)。NPR-21982：CQ-109878 的 Hotfix
 * (iOS11) 按一下檔案附件元件時，檔案附件會開啟相機而非裝置檔案瀏覽器。NPR-21926：CQ-4214348 的 Hotfix
@@ -742,7 +742,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP13 為重要更新，包含自 AEM 6.2 SP1 �
 
 * 轉譯包含特殊字元的 xml 資料時發生問題。NPR-21712：CQ-4229137 的 Hotfix
 
-### Forms JEE 安裝程式 {#forms-jee-installer-7}
+### Forms JEE安裝程式 {#forms-jee-installer-7}
 
 #### 組合器服務 {#assembler-service}
 
@@ -804,7 +804,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 為重要更新，包含自 AEM 6.2 SP1 
 * 翻譯工作流程因為 lang_country 代碼長度超過 2 個字元而失敗。NPR-21088：CQ-4197439 的 Hotfix
 * 專案完成之前，不應允許將資產頁面重新提交至翻譯專案。NPR-21219：CQ-4209908 的 Hotfix
 
-### 使用者介面{#user-interface-3}
+### 使用者介面 {#user-interface-3}
 
 * 提交表單期間，選取元件不會刪除目標屬性。NPR-21163：GRANITE-14125 的 Hotfix
 * HTTP.encodePathOfURI 展開時會對加號「+」進行雙重編碼。NPR-21417：GRANITE-16340 的 Hotfix
@@ -827,12 +827,12 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 為重要更新，包含自 AEM 6.2 SP1 
 * 選取資產連結類型時，「資產選擇器」視窗不會在「編輯信函資料繫結」精靈中開啟。NPR-21164：CQ-4194567 的 Hotfix
 * 若要編輯內嵌或可編輯的文字模組，請點一下相關的「編輯」圖示，或在信函預覽中按兩下相關的文字模組。NPR-21402
 
-#### 調適型表單 {#adaptive-forms-6}
+#### 適用性表單 {#adaptive-forms-6}
 
 * AEM Forms 按鈕元件顯示 type=&quot;button&quot; 而非 type=&quot;submit&quot;。NPR-21007
 * 為可重複面板新增或刪除新面板時，資料仍持續存在。NPR-21408
 
-### Forms JEE 安裝程式 {#forms-jee-installer-8}
+### Forms JEE安裝程式 {#forms-jee-installer-8}
 
 #### 核心 {#core-2}
 
@@ -948,7 +948,7 @@ AEM Forms 的關鍵重點為：
 
 * (通信 UI) 按一下後停用提交按鈕。NPR-21078
 
-### Forms JEE 安裝程式 {#forms-jee-installer-9}
+### Forms JEE安裝程式 {#forms-jee-installer-9}
 
 #### 組合器服務 {#assembler-service-1}
 
@@ -1014,7 +1014,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 
 * 建立相同頁面的產品時，不會顯示確認或重新導向快顯訊息。NPR-20257：CQ-4223414 的 Hotfix
 
-### 使用者介面{#user-interface-4}
+### 使用者介面 {#user-interface-4}
 
 * 如果「日期挑選器」是多欄位中的一個欄位，編輯元件時，儲存在日期欄位中的值不會持續存在。NPR-20077：GRANITE-19147 的 Hotfix
 * 觸發連續查詢時沒有中止先前的查詢，導致了錯誤的結果。NPR-20397：GRANITE-19306 的 Hotfix
@@ -1029,7 +1029,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 
 ### Forms 附加元件套件 {#forms-add-on-package-10}
 
-#### 調適型表單 {#adaptive-forms-7}
+#### 適用性表單 {#adaptive-forms-7}
 
 * 透過 UI 變更時，valueCommit 指令碼會對 DropDownList 執行兩次。NPR-19989：CQ-110212 的 Hotfix
 
@@ -1110,11 +1110,11 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 啟用可在預覽信函時搜尋文件片段中實際文字的功能。NPR-19712
 
-#### 調適型表單 {#adaptive-forms-8}
+#### 適用性表單 {#adaptive-forms-8}
 
 * 增強調適型表單，可在 Safari 中附加 PDF 作為附件。為支援現有表格的相同功能，我們需要變更附件小工具和「支援的檔案類型」中的設定，以更新值 application/pdf 而非 .pdf。NPR-19623
 
-#### Forms管理員{#forms-manager-1}
+#### Forms經理 {#forms-manager-1}
 
 * 如果沒有在調適型表單欄位上定義 validationState，且發生了 elementFocusChanged 事件，則會傳回錯誤事件 (errorState) 至 Adobe Analytics 伺服器。NPR-19513
 
@@ -1211,7 +1211,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 >* 在文件片段中，無法對動態內容 (例如資料字典元素值或變數值) 進行搜尋。
 
 
-#### Forms管理員{#forms-manager-2}
+#### Forms經理 {#forms-manager-2}
 
 * 在 AEM 6.2 上套用 CFP6 後，無法編輯調適型表單的 XML 結構屬性。CQ-4219684 的 Hotfix
 * 重新啟動伺服器時，沒有啟動 AEM Forms Manager 核心套件組合的所有服務。CQ-4217014 的 Hotfix
@@ -1226,7 +1226,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 增強桌面應用程式的觸控式 UI 按鈕。NPR-18676
 
-## CFP8 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp}
+## CFP8 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp}
 
 AEM 6.2SP1-CFP8 中更新的 OSGi 套件組合清單
 
@@ -1323,10 +1323,11 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 >
 >* 從 Word/Web 複製貼上到 CM 文字編輯器時，內容中顯示分行符號。NPR-19530
 >* CM 文字編輯器中沒有分行符號的內容不會換行。NPR-19449
+
 >
 >這些問題將在未來的 CFP 中解決。
 
-#### 調適型表單 {#adaptive-forms-9}
+#### 適用性表單 {#adaptive-forms-9}
 
 * 為可重複面板新增面板時，會刪除上一個面板中下拉式欄位的值。NPR-18772
 * 標記為僅接受整數的調適型表單欄位也接受數字鍵盤上的幾個特殊字元。NPR-18680
@@ -1337,13 +1338,13 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 表單處於離線模式或未連線至網路時，表單無法在 AEM Forms App 中正確轉譯。CQ-4218368
 
-### Forms JEE 安裝程式{#forms-jee-installer-13}
+### Forms JEE 安裝程式  {#forms-jee-installer-13}
 
 #### PDFG 服務 {#pdfg-service-3}
 
 * PDF 產生器無法產生含有指定書籤層級的 PDF 文件。CQ-4211102 的 Hotfix
 
-## CFP7 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp-1}
+## CFP7 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-1}
 
 AEM 6.2SP1-CFP7 中更新的 OSGi 套件組合清單
 
@@ -1437,7 +1438,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 * AEM Forms UI 從最舊到最新列出所有資產。使用者無法從最新到最舊重新排序資產。NPR-18451
 
-### Forms JEE 安裝程式{#forms-jee-installer-14}
+### Forms JEE 安裝程式  {#forms-jee-installer-14}
 
 **輸出服務**
 
@@ -1447,7 +1448,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 無法使用遠端硬體安全性模組簽署 PDF 檔案。NPR-18017
 
-## CFP6 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp-2}
+## CFP6 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-2}
 
 AEM 6.2SP1-CFP6 中更新的 OSGi 套件組合清單
 
@@ -1568,7 +1569,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 信函預覽期間在文字編輯器中編輯片段時，應顯示處理過的文字以供編輯，而非片段中使用的內嵌條件。NPR-15748、NPR-17504
 
-### CFP5 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp-3}
+### CFP5 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-3}
 
 AEM6.2 SP1-CFP5 之間更新的 OSGi 套件組合清單
 
@@ -1696,7 +1697,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 
 * AEM Forms OSGI 安裝中的特定檔案不是 Reader Extended。NPR-16625
 
-#### Forms JEE 安裝程式{#forms-jee-installer-16}
+#### Forms JEE 安裝程式  {#forms-jee-installer-16}
 
 **核心**
 
@@ -1726,7 +1727,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 增強用於通信管理的內嵌條件編輯器。NPR-10981
 
-### CFP4 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp-4}
+### CFP4 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-4}
 
 AEM 6.2 SP1 和 CFP4 之間更新的 OSGi 套件組合清單
 
@@ -1827,7 +1828,7 @@ CFP3 的關鍵重點為：
 
 * 條碼式表單服務 (BCF) 的靜態程式碼分析報告了問題。NPR-13855
 
-#### Forms JEE 安裝程式{#forms-jee-installer-17}
+#### Forms JEE 安裝程式  {#forms-jee-installer-17}
 
 **處理程序管理 - HTML 工作區**
 
@@ -1850,7 +1851,7 @@ CFP3 的關鍵重點為：
 * 在通信管理中刪除任何資產時，都應將警告訊息記錄在 error.log 檔案中。NPR-13225
 * 增強在通信管理中預覽信函時的搜尋功能，以啟用搜尋文字片段內容中的文字，而不是只搜尋信函標題或標籤。NPR-16103
 
-### CFP3 中包含的 OSGi 套件組合{#osgi-bundles-included-in-cfp-5}
+### CFP3 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-5}
 
 AEM 6.2 SP1 和 CFP3 之間更新的 OSGi 套件組合清單
 
@@ -1932,7 +1933,7 @@ Cumulative Fix Pack 2 的關鍵重點為：
 * 使用 data-sly-resource 名稱包含點或句號 (.) 的資產時，不會解析為相同資產，而輸出路徑會在該點終止。NPR-15069：CQ-4195914 的 Hotfix
 * AEM 6.2 升級至 Service Pack1 後，將資產同步至 Scene7 失敗。即使是已發佈的資產，dam:Scene7FileStatus 屬性也會顯示「`UploadFailed`」狀態。NPR-15269：CQ-4197708 的 Hotfix
 
-### 使用者介面{#user-interface-5}
+### 使用者介面 {#user-interface-5}
 
 * 在&#x200B;**[!UICONTROL 觸控式 UI]** 中，使用 Internet Chrome 瀏覽器 56.0.2924.87 版時，針對沒有 type=&#39;datetime’ 的日期欄位，不會顯示儲存的日期。NPR-15383：Granite-16481 的 Hotfix
 * 在&#x200B;**[!UICONTROL 觸控式 UI]** 中，RTF 編輯器會在轉譯 HTML 表格時，從 HTML 表格中移除執行緒和註解元素。NPR-15267：CRTE-41 的 Hotfix
@@ -1987,7 +1988,7 @@ Cumulative Fix Pack 2 的關鍵重點為：
 * 預填服務無法用於 XDP 表單。NPR-15466
 * 將調適型表單草稿和提交項目儲存到資料庫時，資料庫連線若因任何原因 (例如長時間閒置) 而失敗，調適型表單的狀態會損毀。NPR-15297
 
-#### Forms JEE 安裝程式{#forms-jee-installer-18}
+#### Forms JEE 安裝程式  {#forms-jee-installer-18}
 
 `**Core**`
 
@@ -2095,11 +2096,11 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 * 起始工作流程時，使用者無法從工作流程收件匣控制台預覽裝載。NPR-13226：CQ-100275 的 Hotfix
 * 使用 SAML 驗證處理常式設定的「saml_request_path」Cookie 會顯示以額外「?」字元設定的 Cookie。此外，將 SAML 回應發佈回 AEM 時，AEM「saml_request_path」Cookie 會因為字元已編碼而傳回無效值。NPR-13517：GRANITE-11722 和 GRANITE-14414 的主動式 Hotfix
 
-### 解決方案整合{#solution-integration}
+### 解決方案整合 {#solution-integration}
 
 * 將 AEM 6.2 與 Search&amp;Promote 整合後，如果使用者搜尋傳回橫幅的詞彙，搜尋功能就會停止回應。NPR-14549：CQ-109631 的 CFP
 
-### 動態媒體 {#dynamic-media}
+### Dynamic Media {#dynamic-media}
 
 * 在 AEM 啟動的過程中建立和取消的許多 AEM-Scene7 Sling 工作，在進行複寫期間會記錄為封存工作。NPR-12835：CQ-86115 的 Hotfix
 
@@ -2258,7 +2259,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 1. 下載適用於您作業系統的 [AEM Forms 發行版本](aem-forms-releases.md)所列出的對應 Forms 附加套件。
 1. 依照[安裝 AEM Forms 附加元件套件](https://helpx.adobe.com/experience-manager/6-2/forms/using/installing-configuring-aem-forms-osgi.html)中的說明安裝 Forms 附加元件套件。
 
-#### 安裝 AEM Forms JEE 套件組合套件{#install-aem-forms-jee-bundles-package}
+#### 安裝 AEM Forms JEE 套件組合套件 {#install-aem-forms-jee-bundles-package}
 
 AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有關在 JEE 版 AEM Forms 上安裝 CFP 的資訊，請參閱[在 AEM Forms JEE 上安裝 CFP](install-cfp-aem-forms-jee.md)。
 
@@ -2268,7 +2269,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 1. 在歡迎畫面中按一下&#x200B;**「更新」**。安裝程序隨即會開始。
 1. 安裝完成後，請按一下&#x200B;**「完成」**。
 
-## DTM、Analytics、Target、Search&amp;Promote 連線的使用者可設定逾時參數{#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
+## DTM、Analytics、Target、Search&amp;Promote 連線的使用者可設定逾時參數 {#user-configurable-timeout-parameters-for-dtm-analytics-target-search-promote-connections}
 
 在 AEM Cumulative Fix Pack 6.2 SP1-CFP7 及更新版本中，已可針對上述所有連線設定連線逾時期間，詳細資訊如下：
 
@@ -2301,7 +2302,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
    418                },
    ```
 
-## 最新的 Java 8 Update 131 擲回一個例外狀況 (NPR-21355){#latest-java-update-throws-an-exception-npr}
+## 最新的 Java 8 Update 131 擲回一個例外狀況 (NPR-21355) {#latest-java-update-throws-an-exception-npr}
 
 >[!NOTE]
 >
@@ -2450,5 +2451,5 @@ CFP12.1 中包含 NPR-21355。若要安裝 CFP12.1 或更新版本，請執行�
 >* [AEM 6.2 發行說明](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM 產品頁面](http://www.adobe.com/solutions/web-experience-management.html)
 >* [AEM 6.2 檔案](https://docs.adobe.com/content/docs/zh-Hant/aem/6-2.html)
->* [訂](https://campaign.adobe.com/webApp/adbePriorityProductSubscribe)閱 [Adobe 優先產品更新](https://docs.adobe.com/content/help/zh-Hant/release-notes/experience-cloud/current.html)
+>* [Adobe優先順序產品更新](https://docs.adobe.com/content/help/zh-Hant/release-notes/experience-cloud/current.html)
 
