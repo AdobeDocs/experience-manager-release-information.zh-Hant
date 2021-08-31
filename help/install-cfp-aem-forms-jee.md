@@ -3,16 +3,16 @@ title: Installing Cumulative Fix Packs on AEM Forms JEE
 description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 894a2a98b9d1a135a2f488f2167ec3302c122339
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '1102'
+source-wordcount: '1044'
 ht-degree: 100%
 
 ---
 
 # 在 AEM[!DNL  Forms] JEE 上安裝 Cumulative Fix Pack{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
-## 在 AEM 6.3 [!DNL Forms JEE] 上安裝 CFP {#install-cfp-forms-6-3}
+## 在 AEM 6.3 [!DNL Forms JEE] 上安裝 CFP  {#install-cfp-forms-6-3}
 
 以指定順序執行下列步驟，在 AEM 6.3 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack。
 
@@ -23,7 +23,7 @@ ht-degree: 100%
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package}
 
-[AEM[!DNL  Forms JEE] 套件](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq630/cumulativefixpack/fd/AEM-FORMS-6.3-CFP1-JEE-PKG) (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms JEE] 的 [!DNL Forms] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
+AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
 ### CQ-4208044 的其他說明 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ ht-degree: 100%
 
 1. 再次匯入修改的檔案，然後重新執行同步。
 
-## 在 AEM 6.2 [!DNL  Forms JEE] 上安裝 CFP {#install-cfp-on-aem-62-forms-jee}
+## 在 AEM 6.2 [!DNL  Forms JEE] 上安裝 CFP  {#install-cfp-on-aem-62-forms-jee}
 
 以指定順序執行下列步驟，在 AEM 6.2 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack。
 
@@ -48,14 +48,14 @@ ht-degree: 100%
 
 1. 聯絡 [Adobe 支援](https://www.adobe.com/account/sign-in.supportportal.html)取得 AEM 6.2 [!DNL Forms JEE] 安裝程式，以安裝 CFP。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
-1. 安裝 [AEM Hotfix 12785 7.0 版](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/hotfix/cq-6.2.0-hotfix-12785)。
+1. 安裝 AEM Hotfix 12785 7.0 版。
 1. 安裝 [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
 1. 安裝最新 [AEM 6.2 Service Pack 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md)。
 1. 安裝適用於 [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md) 的 [!DNL Forms] 附加元件套件。
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package-1}
 
-[AEM Forms JEE 套件](https://www.adobeaemcloud.com/content/packageshare/tools/login.html?resource=%2Fcontent%2Fmarketplace%2FmarketplaceProxy.html%3FpackagePath%3D%2Fcontent%2Fcompanies%2Fpublic%2Fadobe%2Fpackages%2Fcq620%2Fcumulativefixpack%2Ffd%2FAEM-FORMS-6.2-SP1-CFP5-JEE-PKG&amp;$$login$$=%24%24login%24%24) (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM [!DNL Forms JEE] 的 [!DNL Forms] 使用者提供在與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
+AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者提供在與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
 ### 為元件層級操作設定逾時 (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 

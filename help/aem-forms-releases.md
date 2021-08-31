@@ -3,9 +3,9 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 90a8b515d9cb567a700714c215581361ef05f310
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '9745'
+source-wordcount: '9735'
 ht-degree: 100%
 
 ---
@@ -218,7 +218,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 參照站台套件</a></li> 
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms 政府參照站台套件</a></li> 
      </ul> </td> 
-    <td><p>AEM Forms 附加元件套件和用戶端 SDK：<a href="https://repo.adobe.com/nexus/content/repositories/public/com/adobe/aemfd/aemfd-client-sdk/6.0.80/">6.0.80</a></p> <p>AEM Websphere 全域安全設定套件：6.5.0.20190329.1.935745</p> <p>AEM Forms 應用程式來源：5.0.16</p> <p> </p> </td> 
+    <td><p>AEM Forms 附加元件套件和用戶端 SDK：6.0.80</p> <p>AEM Websphere 全域安全設定套件：6.5.0.20190329.1.935745</p> <p>AEM Forms 應用程式來源：5.0.16</p> <p> </p> </td> 
    </tr> 
   </tbody> 
  </table>

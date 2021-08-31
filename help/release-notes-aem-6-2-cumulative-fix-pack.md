@@ -1,9 +1,9 @@
 ---
 title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Cumulative Fix Pack 發行說明.
-source-git-commit: 3c798116db7314f4220f8a183a989c2b37678054
+source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
 workflow-type: tm+mt
-source-wordcount: '19953'
+source-wordcount: '19928'
 ht-degree: 99%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 99%
 | **產品** | Adobe Experience Manager |
 |---|---|
 | **版本** | 6.2 |
-| **發行** | [Cumulative Fix Pack 6.2 SP1-CFP20](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) |
+| **發行** | Cumulative Fix Pack 6.2 SP1-CFP20 |
 | **必備條件** | [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html) |
 | **正式發行** | 2019 年 6 月 6 日 |
 
@@ -2206,7 +2206,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 
 * AEM 6.2 Service Pack 1 是 CFP 的必備條件。如需安裝指示，請參閱 [AEM 6.2 Service Pack 1 發行說明](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
 
-* Cumulative Fix Pack 下載項目可於 [Software Distribution](https://www.adobeaemcloud.com/content/marketplace/marketplaceProxy.html?packagePath=/content/companies/public/adobe/packages/cq620/cumulativefixpack/AEM-6.2-SP1-CFP20) (可直接從 AEM 執行個體存取) 取得。
+* Cumulative Fix Pack 下載項目可於 [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html) (可直接從 AEM 執行個體存取) 取得。
 * 針對使用 (RDBMK 或 MongoDB) 的叢集部署，CFP 套件可安裝在使用套件管理器的任何製作執行個體上。
 
 * 安裝 Cumulative Fix Pack 之前，請務必拍攝快照或備份您的 AEM 執行個體。
