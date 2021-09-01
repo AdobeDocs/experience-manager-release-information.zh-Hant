@@ -28,12 +28,12 @@ ht-degree: 72%
 >
 >Experience Manageras aCloud Service每月發行。
 >
->如需了解個別發行版 (目前和先前版本) 的相關文件，請參閱[發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html)。
+>如需了解個別發行版 (目前和先前版本) 的相關文件，請參閱[發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/release-notes/release-notes-current.html?lang=zh-Hant)。
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
-| 2020 年 12 月 2 日 | 批次集預設集 | 了解如何使用 Dynamic Media 中的批次集預設集自動建立影像集和迴轉集。請參閱[批次集預設集](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia)。 |
-| 2020 年 12 月 2 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/accessibility-dm.html#dynamicmedia)。 |
+| 2020 年 12 月 2 日 | 批次集預設集 | 了解如何使用 Dynamic Media 中的批次集預設集自動建立影像集和迴轉集。請參閱[批次集預設集](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html?lang=zh-Hant#dynamicmedia)。 |
+| 2020 年 12 月 2 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/accessibility-dm.html?lang=zh-Hant#dynamicmedia)。 |
 | 2020 年 10 月 29 日 | 核心元件 | 核心元件 2.12.0 版推出新的 POST 表單處理常式；透過上下文感知組態包含自訂 CSS、JavaScript 和中繼資料標記；以及 **DataLayerBuilderutility** 簡化自訂元件中的資料層整合。此版本提供 [Authoring 說明文件](https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=en)和[開發人員詳細資訊，並可透過 GitHub 下載專案。](https://github.com/adobe/aem-core-wcm-components) |
 | 2020 年 9 月 24 日 | 新 Dynamic Media 組態的收件匣通知 | 新Dynamic Media設定完成設定時，您會在Experience Manager的收件匣內收到狀態通知。 通知會告知您組態是否成功。如果組態失敗，通知將會提供錯誤碼。請於聯絡 Adobe Care 時使用此錯誤碼。<br>請參閱[新 Dynamic Media 組態疑難排解](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html?lang=en)。 |
 | 2020 年 9 月 24 日 | 在 Dynamic Media 組態中重設密碼。 | 在Dynamic Media內允許首次使用臨時密碼和後續重設密碼，而非透過Dynamic Media Classic。 請參閱在Cloud Services](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html?lang=en#configuring-dynamic-media-cloud-services)、步驟6和步驟7中建立新的Dynamic Media配置，以及[更改Dynamic Media的密碼。](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/config-dm.html?lang=en#change-dm-password)[ |
@@ -63,10 +63,10 @@ ht-degree: 72%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
-| 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
+| 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant#service-pack) 現已推出。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
 | 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
-| 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
+| 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hant#dynamic)。 |
 | 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | [Experience Manager6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 已推出。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 2020 年 9 月 3 日 | 在 Dynamic Media 中使用選擇性發佈 | 您可以在資料夾層級選擇從Experience Manager或Dynamic Media發佈或取消發佈資產。 您需使用&#x200B;**[!UICONTROL 管理出版物]**&#x200B;或&#x200B;**[!UICONTROL 快速發佈]**&#x200B;來完成此工作，而非僅能依賴設定與Dynamic Media執行個體的所有資料夾相同的&#x200B;**Dynamic Media設定**。<br>請參閱[在 Dynamic Media 中使用選擇性發佈](https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
@@ -103,7 +103,7 @@ ht-degree: 72%
 | 2020 年 11 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 7 | [[!DNL Experience Manager] 6.5 Service Pack 7](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 2020 年 9 月 3 日 | 在 Dynamic Media 中使用選擇性發佈 | 您可以在資料夾層級選擇使用「**管理出版物**」或「**快速發佈**」，從 [!DNL Experience Manager] 或 Dynamic Media (或以其為目標) 發佈或取消發佈資產，而非僅能依賴在 **Dynamic Media** 例項使用相同資料夾設定的 Dynamic Media 組態。<br>請參閱[在 Dynamic Media 中使用選擇性發佈](https://docs.adobe.com/content/help/en/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
-| 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.5 Service Pack 6 | [[!DNL Experience Manager] 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html) 現已推出。 |
+| 2020 年 9 月 3 日 | [!DNL Experience Manager] 6.5 Service Pack 6 | [[!DNL Experience Manager] 6.5 Service Pack 6](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant) 現已推出。 |
 | 2020 年 7 月 29 日 | 多站點管理員 | [建立新同步化動作](https://docs.adobe.com/content/help/en/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-synchronization-action)和[建立新轉出設定](https://docs.adobe.com/content/help/en/experience-manager-65/developing/extending-aem/extending-msm.html#creating-a-new-rollout-configuration)程序已更新。 |
 | 2020 年 7 月 15 日 | Sling 速查表 | [Sling 速查表](https://docs.adobe.com/content/help/en/experience-manager-65/developing/platform/sling-cheatsheet.html)完成更新以參照 [HTL。](https://docs.adobe.com/content/help/en/experience-manager-htl/using/overview.html) |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | Adobe 的目標是在程式碼、說明文件和體驗上使用精準的術語。<br>因此，我們正在針對此說明文件集進行一系列的更新，未來也將持續致力於此。 |
