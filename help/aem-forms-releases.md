@@ -3,9 +3,9 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: d944b1690e0a57512b270961f77bb6aaaa7db12c
+source-git-commit: 7643bdd0f4ec4e9b30bcbc36e07b38f6ed017ff0
 workflow-type: tm+mt
-source-wordcount: '9918'
+source-wordcount: '9921'
 ht-degree: 99%
 
 ---
@@ -42,7 +42,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.490.zip">適用於 Mac OS X 的 AEM Forms 附加元件套件 [2]</a></li>            
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/adobe-aemfd-compat-pkg-2.0.40.zip">AEM Forms 相容性套件</a></li>        
       <br><b>SDK</b></br>
-      <li><a href="https://mvnrepository.com/artifact/com.adobe.aemfd/aemfd-client-sdk">AEM Forms 用戶端 SDK</a></li>      
+      <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.490/">AEM Forms 用戶端 SDK</a></li>      
      </ul> </td> 
     <td>AEM Forms 附加元件套件：6.0.490</p> <p>用戶端 SDK：6.0.490<br /> </p><p>AEM Forms 相容性套件：2.0.40</p><p>AEM Forms Designer 修補程式：650.017</p></td> 
    </tr>
