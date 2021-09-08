@@ -139,7 +139,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
    </tr> 
    <tr> 
     <td>2020 年 9 月 3 日</td> 
-    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">適用於 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加元件套件</a></td> 
+    <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant">適用於 AEM 6.5.6.0 的 AEM Forms Service Pack 6 Forms 附加元件套件</a></td> 
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5.6.0</a></td> 
     <td> 
      <ul> 
