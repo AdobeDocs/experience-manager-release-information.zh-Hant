@@ -2,9 +2,9 @@
 title: AEM 6.3 Cumulative Fix Pack
 description: AEM 6.3 Cumulative Fix Pack 發行說明。
 source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '15893'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 99%
 | **產品** | Adobe Experience Manager |
 |---|---|
 | **版本** | 6.3 |
-| **發行** | [Software Distribution](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip)上的Cumulative Fix Pack 6.3.3.8 |
+| **發行** | [軟體發佈](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq630/cumulativefixpack/aem-6.3.3-cfp-8.0.zip) 上的 Cumulative Fix Pack 6.3.3.8 |
 | **必備條件** | [AEM 6.3 Service Pack 3 (6.3.3.0)](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html) |
 | **正式發行** | 2020 年 3 月 5 日 |
 
@@ -33,7 +33,7 @@ Adobe 針對發行修正推出單一交付模式。Adobe 現在改採每個月�
 
 AEM Cumulative Fix Pack 6.3.3.8 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -75,11 +75,11 @@ AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您�
 * 在製作執行個體中變更元件的內容然後啟用，但在元件重新啟動前不會顯示在發佈執行個體中&#x200B;**com.day.cq.personalization.impl.TargetedContentManagerImpl** (NPR-32489 和 NPR-32232)。
 * 發佈時 Contexthub 效能當機 (NPR-31170)。
 
-### 品牌入口網站 {#brand-portal}
+### Brand Portal {#brand-portal}
 
 * Adobe I/O 沒有針對 Brand Portal 與 Adobe Experience Manager 6.3 整合 (NPR-32056)。
 
-### 表單 {#forms}
+### Forms {#forms}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -99,7 +99,7 @@ AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.7 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 資產 {#assets-1}
 
@@ -131,7 +131,7 @@ AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 * 未儲存 Jetty 型 HTTP 服務的緩衝區大小設定更新 (NPR-30925)。
 
-### 表單 {#forms-1}
+### Forms {#forms-1}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -141,15 +141,15 @@ AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您�
 >
 >AEM Forms 附加元件套件用於協助讓表單功能與 AEM Service Pack 和 Cumulative Fix Pack 一致。因此，必須先安裝任何 AEM Service Pack、Cumulative Fix Pack 或 Feature Pack，才能安裝 AEM Forms 附加套件。
 
-#### 適用性表單 {#adaptive-forms}
+#### 調適型表單 {#adaptive-forms}
 
 * 使用指令碼計算的浮動值沒有正確以屬於表單集的形式顯示 (NPR-30802)。
 
-#### HTML5 表單 {#html-forms}
+#### HTML5 Forms {#html-forms}
 
 * 新增子表單的例項時，產生 XDP 表單的 HTML5 預覽後出現閃爍畫面 (NPR-30908)。
 
-### Forms JEE安裝程式 {#forms-jee-installer}
+### Forms - JEE 安裝程式 {#forms-jee-installer}
 
 #### 文件服務 {#document-services}
 
@@ -167,7 +167,7 @@ AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.6 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ### 資產 {#assets-2}
 
@@ -193,7 +193,7 @@ AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您�
 * 翻譯問題 - 使用機器翻譯時只翻譯了幾個元件。NPR-30079：CQ-4273764 的 Hotfix
 * 使用翻譯架構時，對多個翻譯工作新增頁面會觸發錯誤。NPR-29746：CQ-4270953 的 Hotfix
 
-### 表單 {#forms-2}
+### Forms {#forms-2}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -203,15 +203,15 @@ AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您�
 >
 >AEM Forms 附加元件套件用於協助讓表單功能與 AEM Service Pack 和 Cumulative Fix Pack 一致。因此，必須先安裝任何 AEM Service Pack、Cumulative Fix Pack 或 Feature Pack，才能安裝 AEM Forms 附加套件。
 
-#### HTML5 表單 {#html-forms-1}
+#### HTML5 Forms {#html-forms-1}
 
-* 以瀏覽模式使用 NonVisual Desktop Access 來讀取 HTML5 表單時，Chrome 瀏覽器在表單設計中的每個可縮放向量圖形 (SVG) 之前讀到「graphic」。NPR-30451：CQ-4274732 的 Hotfix
+* 以瀏覽模式使用 NonVisual Desktop Access 來讀取 HTML5 Forms時，Chrome 瀏覽器在表單設計中的每個可縮放向量圖形 (SVG) 之前讀到「graphic」。NPR-30451：CQ-4274732 的 Hotfix
 
 #### Forms - 後端整合 {#forms-backend-integration}
 
 * 建立表單資料模型 (FDM) 時無法查看資料庫連線的服務/資料來源。NPR-30108：CQ-4273359 的 Hotfix
 
-### Forms JEE安裝程式 {#forms-jee-installer-1}
+### Forms - JEE 安裝程式 {#forms-jee-installer-1}
 
 #### Forms - 文件服務 {#forms-document-services}
 
@@ -221,7 +221,7 @@ AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.5 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -263,7 +263,7 @@ AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您�
 * 複寫代理元件疑似為漏洞，向未獲授權的使用者洩漏了敏感資訊。NPR-29613：Granite-25070 的 Hotfix
 * `cq/replication/components/agent` 元件中，使用者提供的資料沒有在輸出上逸出，導致儲存型跨網站指令碼 (XSS) 漏洞。NPR-29452：CQ-4266263 的 Hotfix
 
-### 表單 {#forms-3}
+### Forms {#forms-3}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -271,7 +271,7 @@ AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 * Forms 附加套件中沒有新的 AEM Forms 修正。
 
-### Forms JEE安裝程式 {#forms-jee-installer-2}
+### Forms - JEE 安裝程式 {#forms-jee-installer-2}
 
 * Forms JEE 安裝程式中沒有新的 AEM Forms 修正。
 
@@ -289,7 +289,7 @@ AEM 6.3.3.5 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.4 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -351,7 +351,7 @@ AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 * CSRF 保護架構對 AEM Foundation 表單無效。NPR-28612：GRANITE-22231 的 Hotfix
 
-### 表單 {#forms-4}
+### Forms {#forms-4}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -375,11 +375,11 @@ AEM Forms 的關鍵重點為：
 
 * OSGi Forms 組合器無法用於 Acrobat 檔案。NPR-29049：CQ-4254426 的 Hotfix
 
-#### HTML5 表單 {#html-forms-2}
+#### HTML5 Forms {#html-forms-2}
 
 * 在 Designer 中以 PDF 預覽 XDP 和以 HTML 預覽相同 XDP 時出現不同的行為。NPR-28602：CQ-4260239 的 Hotfix
 
-### Forms JEE安裝程式 {#forms-jee-installer-3}
+### Forms - JEE 安裝程式 {#forms-jee-installer-3}
 
 * Forms JEE 安裝程式中沒有新的 AEM Forms 修正。
 
@@ -397,7 +397,7 @@ AEM 6.3.3.4 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.3 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -464,7 +464,7 @@ AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 * MS Translator 升級為 API v3.0 後，AEM 6.3 啟用了對 MS Translator 服務的支援。NPR-28365：CQ-4259096 的 Hotfix
 
-### 表單 {#forms-5}
+### Forms {#forms-5}
 
 ### Forms 附加元件套件 {#forms-add-on-package-5}
 
@@ -477,11 +477,11 @@ AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您�
 * 無法在在 Admin Console 中查看原則集檢視中前 1000 個以外的任何原則集。NPR-28060、NPR-26047：CQ-4249865 的 Hotfix
 * 系統擲回例外狀況並出現名稱 java.lang.IllegalArgumentException 訊息：無列舉常數 com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE 導致短期處理程序無法完成。NPR-28652
 
-#### Forms - 適用性表單 {#forms-adaptive-forms}
+#### Forms - 調適型表單 {#forms-adaptive-forms}
 
 * 勾選核取方塊項目時，新增/移除下拉式清單中的項目沒有更新。NPR-28224：CQ-4252834 的 Hotfix
 
-### Forms - JEE安裝程式 {#forms-jee-installer-4}
+### Forms - JEE 安裝程式 {#forms-jee-installer-4}
 
 * Forms JEE 安裝程式中沒有新的 AEM Forms 修正。
 
@@ -588,7 +588,7 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 經由 sourceEdit 功能輸入的文字儲存後會遺失。CQ-4259273 的 Hotfix
 
-### 表單 {#forms-6}
+### Forms {#forms-6}
 
 ### Forms 附加元件套件 {#forms-add-on-package-6}
 
@@ -600,12 +600,12 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 在 WebSphere 上根據 SOAP 建立表單資料模型時失敗。NPR-27692：CQ-4253702 的 Hotfix
 
-#### Forms - 適用性表單 {#forms-adaptive-forms-1}
+#### Forms - 調適型表單 {#forms-adaptive-forms-1}
 
 * AEM 表單出現 XML 插入漏洞。NPR-27863：CQ-4257315 的 Hotfix
 * 在網站頁面上設定了錯誤的表單時，AEM Forms 容器元件會隱藏，且會選取「表單涵蓋整個頁面寬度」核取方塊。NPR-25972：CQ-4239287、CQ-4249133 的 Hotfix
 
-### Forms JEE安裝程式 {#forms-jee-installer-5}
+### Forms - JEE 安裝程式 {#forms-jee-installer-5}
 
 #### Foundation JEE {#foundation-jee-1}
 
@@ -625,7 +625,7 @@ AEM 6.3.3.2 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.1 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -751,7 +751,7 @@ AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您�
 * (Coral。多欄位) 巢狀多欄位使用錯誤的範本來建立項目。NPR-25649：CUI-6743 的 Hotfix
 * 更新 granite coralui2 和 coralui3 clientlibs 以從組建中移除 Handlebars。NPR-25606：Granite-22116 的 Hotfix
 
-### 表單 {#forms-7}
+### Forms {#forms-7}
 
 ### Forms 附加元件套件 {#forms-add-on-package-7}
 
@@ -788,7 +788,7 @@ AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 * Forms Manager 的附註索引標籤中出現儲存型跨網站指令碼 (XSS) 漏洞。NPR-27157：CQ-4255556 的 Hotfix
 
-### Forms JEE安裝程式 {#forms-jee-installer-6}
+### Forms - JEE 安裝程式 {#forms-jee-installer-6}
 
 #### Foundation JEE {#foundation-jee-2}
 
@@ -967,11 +967,11 @@ AEM Cumulative Fix Pack 6.3.2.2 依存於 AEM 6.3 Service Pack 2。因此，您�
 
 * 請求進行處理後或定期從背景工作執行個體清除資產的機制。NPR-23638：Granite-21337 的 Hotfix
 
-## 表單 {#forms-8}
+## Forms {#forms-8}
 
 ### Forms 附加元件套件 {#forms-add-on-package-8}
 
-#### 適用性表單 {#adaptive-forms-1}
+#### 調適型表單 {#adaptive-forms-1}
 
 * 將 ReCaptchaConfigService 移至內部套件。CQ-4217459 的 Hotfix
 * 數值欄位無視最小值。NPR-23967：CQ-4244830 的 Hotfix
@@ -979,7 +979,7 @@ AEM Cumulative Fix Pack 6.3.2.2 依存於 AEM 6.3 Service Pack 2。因此，您�
 
 #### 後端整合 {#backend-integration}
 
-* (FDM) (WebService) 支援 WSDL 解析程式中的 WSDL 延伸模組結構。NPR-23640、NPR:23236: 4205821的Hotfix
+* (FDM) (WebService) 支援 WSDL 解析程式中的 WSDL 延伸模組結構。 NPR-23640、NPR:23236: 4205821 的 Hotfix
 * 在 Forms 附加用戶端 SDK 中包含 SDLInvokerParams。NPR-23157
 
 ### Forms JEE 安裝程式 {#forms-jee-installer-7}
@@ -1044,7 +1044,7 @@ AEM Cumulative Fix Pack 6.3.2.1 為重要更新，包含自 2018 年 4 月正式
 * 當一個 PDF 資產有多個相關的關鍵字時，系統無法妥善擷取和正確修改 PDF 關鍵字中繼資料。為了解決問題，已移除 PDF 資產的「主旨」欄位中繼資料屬性。但是您可編輯中繼資料結構來為「主旨」欄位新增一個多值文字欄位。NPR-21972：4215741 的 Hotfix****
 * 如果 2 個快顯視窗顯示之間變更了選取的資料夾，系統會刪除錯誤的資產。NPR-21980：CQ-4233675 的 Hotfix
 * (DAM) 新增至集合精靈時出現多個跨網站指令碼 (XSS) 漏洞。NPR-22432：CQ-4327086 的 Hotfix
-* 透過 Safari 在 Assets 中使用數位版權管理時，資產下載失敗。使用者無法下載含有免責聲明和檔名很長的資產。NPR-22747：CQ-4236460 和 CQ-4235274 的 Hotfix
+* 透過 Safari 在 Assets 中使用 Digital Rights Management 時，資產下載失敗。使用者無法下載含有免責聲明和檔名很長的資產。NPR-22747：CQ-4236460 和 CQ-4235274 的 Hotfix
 * 將公開共用設為將資產發佈至 Brand Portal 時的預設選項。NPR-21931：CQ-4218816 的 Hotfix
 
 ### 網站 {#sites-9}
@@ -1141,7 +1141,7 @@ AEM Cumulative Fix Pack 6.3.2.1 為重要更新，包含自 2018 年 4 月正式
 
 * (傳統 UI) 啟用或停用工作流程啟動器會導致行為異常。NPR-22907：CQ-4239153 的 Hotfix
 
-## 表單 {#forms-9}
+## Forms {#forms-9}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 AEM Forms 發行版本。
 
@@ -1160,7 +1160,7 @@ AEM Forms 的關鍵重點為：
 
 * 檢查 ECM 連接器設定頁面的密碼欄位時會以純文字顯示密碼。NPR-22508：CQ-4236065 的 Hotfix
 
-#### 表單服務 {#forms-service}
+#### Forms 服務 {#forms-service}
 
 * SSL 啟用時，無法搭配 Form Analytics 使用提交和放棄事件。NPR-22637；CQ-4237973 的 Hotfix
 
@@ -1168,7 +1168,7 @@ AEM Forms 的關鍵重點為：
 
 * 由於 cglib-nodep 版本錯誤而無法同步 LDAP。NPR-22493：CQ-4234099 的 Hotfix
 
-#### 適用性表單 {#adaptive-forms-2}
+#### 調適型表單 {#adaptive-forms-2}
 
 * 規則編輯器的自訂函數在函數後面新增了一個額外的「;」，因此即使自訂函數傳回 true，仍無法驗證。NPR-22481：CQ-4235499 的 Hotfix
 * 顯示驗證訊息下限和上限時，無論選取的日期模式為何，日期選取器元件都不會依循該模式。NPR-22444：CQ-4236269 的 Hotfix
@@ -1197,7 +1197,7 @@ AEM Forms 的關鍵重點為：
 
 * 有關 PDF/A-1b 合規性檢查錯誤的 Acrobat DC 和 AEM 報表之間出現不一致。NPR-22051、NPR-22050：CQ-4226128、CQ-4227671 的 Hotfix
 
-### Forms JEE安裝程式 {#forms-jee-installer-8}
+### Forms - JEE 安裝程式 {#forms-jee-installer-8}
 
 #### Workbench {#workbench}
 
@@ -1346,13 +1346,13 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 * 系統沒有通知使用者其收件匣中收到工作流程任務。NPR-20213：CQ-4221639 的 Hotfix
 * 在工作流程模型的對話參與者步驟中，按下拉式清單時，OOTB Granite 使用者選取器沒有載入任何使用者。NPR-20236
 
-## 表單 {#forms-10}
+## Forms {#forms-10}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 AEM Forms 發行版本。
 
 ### Forms 附加元件套件 {#forms-add-on-package-10}
 
-#### 適用性表單 {#adaptive-forms-3}
+#### 調適型表單 {#adaptive-forms-3}
 
 * 缺少對重複面板彙總運算式的支援。NPR-20861
 * 即使相關的表單資料模型服務沒有傳回值，下拉式清單仍會顯示最後儲存的值。NPR-20710
@@ -1370,11 +1370,11 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 管理工作流程提交只列出十個應用程式。CQ-4230193
 
-#### HTML5 表單 {#html-forms-3}
+#### HTML5 Forms {#html-forms-3}
 
 * 如果沒有在協助工具設定中定義名稱，XDP 表單物件 (例如子表單) 的名稱會顯示為其工作提示。NPR-20523
 
-### Forms JEE安裝程式 {#forms-jee-installer-9}
+### Forms - JEE 安裝程式 {#forms-jee-installer-9}
 
 #### 處理程序管理 {#process-management-2}
 
@@ -1384,7 +1384,7 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 針對重大安全漏洞安裝最新 CTJPEG2K 程式庫。這會影響 XMLFM (AEM 和 IfBA)、RM、PDFG 模組。NPR-20625：NPR-21337。
 
-### 包含的 Feature Pack {#feature-packs-included}
+### 包含 Feature Pack {#feature-packs-included}
 
 #### AEM Forms 應用程式 {#aem-forms-app}
 
@@ -1485,20 +1485,20 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 使用 Google Chrome 瀏覽器時，使用者無法在觸控式 UI 中使用欄檢視來載入頁面/資產的完整清單。NPR-19566：CQ-4214248 的 Hotfix
 
-### 品牌入口網站 {#brand-portal-1}
+### Brand Portal {#brand-portal-1}
 
 * 無法從 AEM 發佈包含評論和附註的資產。NPR-19590：CQ-4218386 的 Hotfix
 * 啟用透過標記管理員/標記控制台將標記從 AEM 發佈至 Brand Portal 的功能。NPR-20271：CQ-4223948 的 Hotfix
 * 修正 Brand Portal 雲端服務設定 UI 上的「已啟用」欄位。CQ-4211101 的 Hotfix
 * 搜尋表單複寫失敗。CQ-4220080 的 Hotfix
 
-## 表單 {#forms-11}
+## Forms {#forms-11}
 
 透過附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 AEM Forms 發行版本。
 
 ### Forms 附加元件套件 {#forms-add-on-package-11}
 
-#### 適用性表單 {#adaptive-forms-4}
+#### 調適型表單 {#adaptive-forms-4}
 
 * 提交至 JEE 工作流程沒有從 JEE 端傳回輸出參數至 AEM，並擲回「因為值非原始值而忽略」錯誤。NPR-20265
 * 在 Safari 中適用性表單不允許 PDF 作為附件。NPR-19625
@@ -1523,11 +1523,11 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 允許 HTTP 呼叫透過 Proxy 連線的工作流程簽署步驟。NPR-20529
 
-#### HTML5 表單 {#html-forms-4}
+#### HTML5 Forms {#html-forms-4}
 
 * 新增對 preSubmit 事件的支援。NPR-20604
 
-### Forms JEE安裝程式 {#forms-jee-installer-10}
+### Forms - JEE 安裝程式 {#forms-jee-installer-10}
 
 #### 處理程序管理 {#process-management-3}
 
@@ -1550,7 +1550,7 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 
 * 當 JBoss 應用程式上以叢集設定執行的 AEM Forms 伺服器停止時，應用程式伺服器會中斷與資料庫的連線。這可能導致資料損毀問題。NPR-19724
 
-### 包含的 Feature Pack {#feature-packs-included-1}
+### 包含 Feature Pack {#feature-packs-included-1}
 
 * 因為資產缺少必要欄位驗證，因此下拉式中繼資料結構欄位無法設為必要。NPR-17882：CQ-4208373 的 FP
 
@@ -1621,7 +1621,7 @@ AEM Cumulative Fix Pack 的關鍵重點為：
    * `com.day.cq.wcm.workflow.impl.WcmWorkflowServiceImpl` NPR-17494：CQ-4208669 的 CFP
    * `com.day.crx.delite.impl.AuthHttpContext` NPR-17493：GRANITE-17404 的 CFP
 
-### 整合 {#integrations-1}
+### Integrations {#integrations-1}
 
 * 解決 AEM Day HTTP Client 3.1 OSGI 設定的 Proxy 要求進行摘要式驗證時可能出現的 AEM 搜尋元件錯誤。NPR 18128：NPR-18029 的 Hotfix
 * 透過傳統 UI 個人化促銷活動和相關體驗時發生問題。NPR-18127：CQ-4211559 的 Hotfix
@@ -1644,7 +1644,7 @@ AEM Cumulative Fix Pack 的關鍵重點為：
 * 上傳 LDAP 使用者的顯示圖片影像時發生問題。NPR-16561
 * 請求在 Apache Sling API 中使用 org.apache.sling.servlets.post servlet 的升級版本 (2.3.22) 以搶先遏止 XSS 漏洞。NPR-18963
 
-## 表單 {#forms-12}
+## Forms {#forms-12}
 
 透過 Forms 附加套件和發行版本隨附的其他修補安裝程式來提供 AEM Forms 修正。如需詳細資訊，請參閱 [AEM Forms 發行版本](aem-forms-releases.md)。
 
@@ -1675,7 +1675,7 @@ AEM Forms 的關鍵重點為：
 
 * 使用工作流程選擇處理檔案時，在建立監看資料夾期間，顯示的工作流程模型選擇下拉式清單遭截斷。NPR-17566
 
-**HTML5 表單**
+**HTML5 Forms**
 
 * AEM Forms 沒有擷取手寫簽名欄位的稽核事件。NPR-15286
 
@@ -1687,7 +1687,7 @@ AEM Forms 的關鍵重點為：
 
 為 com.adobe.livecycle.content 類別新增 JavaDocs。NPR-18468
 
-### Forms JEE安裝程式 {#forms-jee-installer-11}
+### Forms - JEE 安裝程式 {#forms-jee-installer-11}
 
 **PDF 產生器**
 
@@ -1703,7 +1703,7 @@ AEM Forms 的關鍵重點為：
 * Microsoft Excel 和 Microsoft PowerPoint 花很長的時間開啟受到 Microsoft Office 版 AEM 文件安全性延伸模組保護的文件。CQ-4212358
 * 建立新原則且名稱與現有原則相同時，會發生內部伺服器錯誤。NPR-18247
 
-## 包含的 Feature Pack {#feature-packs-included-2}
+## 包含 Feature Pack {#feature-packs-included-2}
 
 * 要求 AEM 中使用者權限變更具有可稽核性。NPR-17061
 
@@ -1817,7 +1817,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 >[!NOTE]
 >
->若您是安裝 6.3.3.0 或更新版本，請執行以下程序來配置 JBoss 應用程式伺服器的設定。若您是在 Oracle WebLogic 或 IBM WebSpehere 應用程式伺服器上所執行的 AEM Forms 伺服器上安裝 6.3.3.0，則無需進行額外設定。如需更多詳細資訊，請參閱 [AEM 6.3.3.0 發行說明](https://helpx.adobe.com/experience-manager/6-3/release-notes/sp3-release-notes.html)。
+>若您是安裝 6.3.3.0 或更新版本，請執行以下程序來配置 JBoss 應用程式伺服器的設定。若您是在 Oracle WebLogic 或 IBM WebSpehere 應用程式伺服器上所執行的 AEM Forms 伺服器上安裝 6.3.3.0，則無需進行額外設定。如需更多詳細資訊，請參閱 [AEM 6.3.3.0 發行說明](https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/sp3-release-notes.html)。
 
 ## 更新 Search&amp;Promote 整合的設定 {#configuration-updates-for-search-promote-integration}
 
@@ -1836,7 +1836,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
    * org.apache.sling.engine.impl.DefaultErrorHandler 錯誤處理常式失敗：java.io.IOException
    * *錯誤* [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR (org.osgi.framework.ServiceException：服務工廠傳回 null。(元件：com.day.cq.dam.handler.standard.ps.PostScriptHandler))
 
-**品牌入口網站**
+**Brand Portal**
 
 * 自 6.3.1.2 開始，移除了智慧型集合的「發佈至 Brand Portal」按鈕。
 
@@ -1844,7 +1844,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 >[!NOTE]
 >
->若您受到這兩個問題其中任何一個的影響，請聯絡 [AEM 客戶服務](https://helpx.adobe.com/marketing-cloud/contact-support.html)。
+>若您受到這兩個問題其中任何一個的影響，請聯絡 [AEM 客戶服務](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)。
 
 * 由於管理搜尋功能中有大量請求，出現高 CPU 使用量問題。NPR-24229
 * 重新開啟元件時沒有選取 pathBrowser 中的 PathField。NPR-24177
@@ -1889,25 +1889,25 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
 Restrictions : rep:glob=&quot;/*/jcr:content&quot;\
-`b)` 主體：參考調整服務\
-類型：允許\
-權限：jcr:read , jcr:modifyProperties\
+`b)` Principal : reference-adjustment-service\
+Type : Allow\
+Privileges : jcr:read , jcr:modifyProperties\
 Restrictions : rep:glob=&quot;/*/jcr:content/*&quot;
 
 `2)` At &quot;/content/usergenerated&quot; path\
-`a)` 主體：參考調整服務\
-類型：允許\
+`a)` Principal : reference-adjustment-service\
+Type : Allow\
 Privileges : jcr:write
 
 `3)` At &quot;/etc&quot; path\
-`a)` 主體：參考調整服務\
-類型：允許\
-權限：jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/*/jcr:content&quot;\
-`b)` 主體：參考調整服務\
-類型：允許\
-權限：jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/*/jcr:content/*&quot;
+`a)` Principal : reference-adjustment-service\
+Type : Allow\
+Privileges : jcr:read , jcr:modifyProperties\
+Restrictions : rep:glob=&quot;/*/jcr:content&quot;\
+`b)` Principal : reference-adjustment-service\
+Type : Allow\
+Privileges : jcr:read , jcr:modifyProperties\
+Restrictions : rep:glob=&quot;/*/jcr:content/*&quot;
 
 ## NPR-19450 所需的配置設定 {#configuration-settings-required-for-npr-2}
 
@@ -1966,7 +1966,7 @@ Privileges : jcr:write
 >* [AEM 發行版本和更新](https://helpx.adobe.com/tw/experience-manager/aem-releases-updates.html)
 >* [AEM 6.3 Hotfix 頁面](https://helpx.adobe.com/tw/experience-manager/kb/aem63-available-hotfixes.html)
 >* [AEM 6.3 發行說明](https://docs.adobe.com/docs/en/aem/6-3/release-notes.html)
->* [AEM 產品頁面](http://www.adobe.com/solutions/web-experience-management.html)
+>* [AEM 產品頁面](http://www.adobe.com/tw/solutions/web-experience-management.html)
 >* [AEM 6.3 檔案](https://docs.adobe.com/content/docs/zh-Hant/aem/6-3.html)
->* 訂閱 [Adobe 優先產品更新](https://www.adobe.com/subscription/priority-product-update.html)
+>* 訂閱 [Adobe 優先產品更新](https://www.adobe.com/tw/subscription/priority-product-update.html)
 
