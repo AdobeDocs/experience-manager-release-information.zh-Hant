@@ -4,9 +4,9 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 83a535170db2fb2c2d4b306710935298c2ee8cf5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '9196'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -26,12 +26,12 @@ ht-degree: 92%
    <tr>
    <td>2019 年 12 月 12 日</td> 
    <td>預覽 3D 資產<br /> </td> 
-   <td><p>AEM 的製作流程支援 3D 資產的上傳、傳送和互動式預覽。您可從 AEM 中的資產詳細資訊頁面取得互動式 3D 檢視器。這個檢視器還包含一系列互動式相機控制項，可用來環繞、縮放和平移 3D 資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=en" target="_blank">預覽 3D 資產</a>。</p> </td> 
+   <td><p>AEM 的製作流程支援 3D 資產的上傳、傳送和互動式預覽。您可從 AEM 中的資產詳細資訊頁面取得互動式 3D 檢視器。這個檢視器還包含一系列互動式相機控制項，可用來環繞、縮放和平移 3D 資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/previewing-3d-assets.html?lang=zh-Hant" target="_blank">預覽 3D 資產</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 12 月 12 日</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/sp-release-notes.html?lang=en">AEM 6.5 Service Pack 3</a> 已推出。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/sp-release-notes.html?lang=zh-Hant">AEM 6.5 Service Pack 3</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 12 日</td> 
@@ -46,22 +46,22 @@ ht-degree: 92%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>AEM 專案原型<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/developing/archetype/overview.html">AEM 專案原型</a>建立了以最佳實務為基礎的 Adobe Experience Manager 專案，可作為您專屬 AEM 專案的起點。<br /> </td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/developing/archetype/overview.html">AEM 專案原型</a>建立了以最佳實務為基礎的 Adobe Experience Manager 專案，可作為您專屬 AEM 專案的起點。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>無頭式體驗管理<br /> </td> 
-   <td>已經以文件說明用於在伺服器端轉譯單頁應用程式的<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=en">遠端內容轉譯器</a>功能。<br /> </td> 
+   <td>已經以文件說明用於在伺服器端轉譯單頁應用程式的<a href="https://experienceleague.adobe.com/docs/experience-manager-65/developing/headless/spas/spa-ssr.html?lang=zh-Hant">遠端內容轉譯器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。請參閱現在應該使用的 </a>Adobe Analytics 提供的 ActivityMap 外掛程式<a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=en" target="_blank">。 </a></p> </td> 
+   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。請參閱現在應該使用的 </a>Adobe Analytics 提供的 ActivityMap 外掛程式<a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=zh-Hant" target="_blank">。 </a></p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
    <td>Cloud Manager</td> 
-   <td><p>Cloud Manager 2019.10.0 版已於 2019 年 10 月 10 日發行。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=en"> 2019.10.0</a> 版的發行說明，其中聚焦說明<i>新增功能</i>以及部署步驟和 Maven 專案版本處理方式的更新。<br /> </p> </td> 
+   <td><p>Cloud Manager 2019.10.0 版已於 2019 年 10 月 10 日發行。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/release-notes/release-notes-current.html?lang=zh-Hant"> 2019.10.0</a> 版的發行說明，其中聚焦說明<i>新增功能</i>以及部署步驟和 Maven 專案版本處理方式的更新。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 8 日</td> 
@@ -86,22 +86,22 @@ ht-degree: 92%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>AEM Assets 搜尋<br /> </td> 
-   <td>有關資產搜尋和挖掘的最新內容就像是一站式服務，提供使用、設定、疑難排解、限制和秘訣的相關資訊。請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=en" target="_blank">搜尋資產</a>。</td> 
+   <td>有關資產搜尋和挖掘的最新內容就像是一站式服務，提供使用、設定、疑難排解、限制和秘訣的相關資訊。請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/using/search-assets.html?lang=zh-Hant" target="_blank">搜尋資產</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>Scene7：重新處理資產工作流程<br /> </td> 
-   <td><p>若資料夾中已有您後來加以變更的現有處理設定檔，您現在可以重新處理該資料夾中的資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">重新處理資料夾中的資產</a>。<br /> </p> </td> 
+   <td><p>若資料夾中已有您後來加以變更的現有處理設定檔，您現在可以重新處理該資料夾中的資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/processing-profiles.html?lang=zh-Hant#reprocessing-assets" target="_blank">重新處理資料夾中的資產</a>。<br /> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>整合 Dynamic Media 檢視器以及 Adobe Analytics 和 Adobe Launch</td> 
-   <td><p>適用於 Adobe Launch 的 Dynamic Media 檢視器擴充功能及 Dynamic Media 檢視器 5.13 版的發行，可讓 Dynamic Media、Adobe Analytics 和 Adobe Launch 的客戶以其 Adobe Launch 設定使用 Dynamic Media 檢視器專屬的事件和資料。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=en" target="_blank">整合 Dynamic Media 檢視器與 Adobe Analytics 和 Adobe Launch</a>。 </p> </td> 
+   <td><p>適用於 Adobe Launch 的 Dynamic Media 檢視器擴充功能及 Dynamic Media 檢視器 5.13 版的發行，可讓 Dynamic Media、Adobe Analytics 和 Adobe Launch 的客戶以其 Adobe Launch 設定使用 Dynamic Media 檢視器專屬的事件和資料。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/tags.html?lang=zh-Hant" target="_blank">整合 Dynamic Media 檢視器與 Adobe Analytics 和 Adobe Launch</a>。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> 已推出。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant">AEM 6.5 Service Pack 2 (6.5.2.0)</a> 已推出。</td>
   </tr>
   <tr>
    <td>2019 年 9 月 9 日</td> 
@@ -136,12 +136,12 @@ ht-degree: 92%
   <tr>
    <td>2019 年 7 月 25 日</td> 
    <td>AEM Assets 不同授權底下的功能</td> 
-   <td>針對 AEM 6.5 版更新以獨立 DAM 授權和以 AEM MediaLibrary 提供的 AEM Assets <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=en" target="_blank">功能清單</a>。<br /> </td> 
+   <td>針對 AEM 6.5 版更新以獨立 DAM 授權和以 AEM MediaLibrary 提供的 AEM Assets <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/administer/medialibrary.html?lang=zh-Hant" target="_blank">功能清單</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日</td> 
    <td>在 Dynamic Media Classic 中上傳檔案</td> 
-   <td>Dynamic Media Classic 中的<a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=en#upload-options">「上傳工作選項」對話方塊</a>主題已重寫並更新。</td> 
+   <td>Dynamic Media Classic 中的<a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/upload-publish/uploading-files.html?lang=zh-Hant#upload-options">「上傳工作選項」對話方塊</a>主題已重寫並更新。</td> 
   </tr>
   <tr>
    <td>2019 年 7 月 08 日</td> 
@@ -156,7 +156,7 @@ ht-degree: 92%
   <tr>
    <td>2019 年 7 月 03 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
@@ -186,17 +186,17 @@ ht-degree: 92%
   <tr>
    <td>2019 年 5 月 14 日</td> 
    <td>檢視器參考指南</td> 
-   <td>現已透過文件說明 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=en">Video</a>、<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=en">Video360</a> 檢視器中視訊播放器的修飾元預先載入。</td> 
+   <td>現已透過文件說明 <a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload.html?lang=zh-Hant">Video</a>、<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload.html?lang=zh-Hant">Video360</a> 檢視器中視訊播放器的修飾元預先載入。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 14 日</td> 
    <td>Dynamic Media Classic</td> 
-   <td>Adobe Scene7 使用手冊現已改名為 <i>Adobe Dynamic Media Classic</i>。請參閱 <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=en">Dynamic Media Classic 說明文件</a>。<br /> </td> 
+   <td>Adobe Scene7 使用手冊現已改名為 <i>Adobe Dynamic Media Classic</i>。請參閱 <a href="https://experienceleague.adobe.com/docs/dynamic-media-classic/using/home.html?lang=zh-Hant">Dynamic Media Classic 說明文件</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 5 月 13 日</td> 
    <td>IS/IR API</td> 
-   <td>已將新的 BFC (瀏覽器格式轉換) 值新增到<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=en">「影像目錄屬性」參考區段</a>。</td> 
+   <td>已將新的 BFC (瀏覽器格式轉換) 值新增到<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/image-serving-api/attributes/r-bfc.html?lang=zh-Hant">「影像目錄屬性」參考區段</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 8 日</td> 
@@ -206,7 +206,7 @@ ht-degree: 92%
   <tr>
    <td>2019 年 5 月 1 日</td> 
    <td>檢視器參考指南</td> 
-   <td><p>新的 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=en">360/VR 視訊說明文件</a>。</p> </td> 
+   <td><p>新的 <a href="https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/360-video.html?lang=zh-Hant">360/VR 視訊說明文件</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 4 月 18 日</td> 
@@ -230,7 +230,7 @@ ht-degree: 92%
   <tr>
    <td>2019 年 4 月 8 日</td> 
    <td>AEM Assets</td> 
-   <td>已棄用資料夾共用功能。請參閱<a href="https://docs.adobe.com/content/help/en/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">資料夾共用最佳實務</a>。</td> 
+   <td>已棄用資料夾共用功能。請參閱<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-65/assets/administer/aem-cc-folder-sharing-best-practices.html" target="_blank">資料夾共用最佳實務</a>。</td> 
    </tr>
  </tbody>
 </table>
@@ -257,17 +257,17 @@ ht-degree: 92%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>Scene7：重新處理資產工作流程</td> 
-   <td><p>若資料夾中已有您後來加以變更的現有處理設定檔，您現在可以重新處理該資料夾中的資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=en#reprocessing-assets" target="_blank">重新處理資料夾中的資產</a>。</p> </td> 
+   <td><p>若資料夾中已有您後來加以變更的現有處理設定檔，您現在可以重新處理該資料夾中的資產。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/administer/processing-profiles.html?lang=zh-Hant#reprocessing-assets" target="_blank">重新處理資料夾中的資產</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.4 Service Pack 6<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 6 (6.4.6.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 9日<br /> </td> 
    <td>AEM 桌面應用程式</td> 
-   <td>AEM 桌面應用程式 v2. 0 已公開提供給創意人員、行銷人員和業務線使用者，以搭配 AEM Assets 使用。請參閱<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html" target="_blank">發行說明</a>。</td> 
+   <td>AEM 桌面應用程式 v2. 0 已公開提供給創意人員、行銷人員和業務線使用者，以搭配 AEM Assets 使用。請參閱<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/introduction.html" target="_blank">發行說明</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 9 月 6 日</td> 
@@ -287,7 +287,7 @@ ht-degree: 92%
   <tr>
    <td>2019 年 7 月 03 日</td> 
    <td>AEM 6.4 Service Pack 5</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 5 (6.4.5.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 17 日</td> 
@@ -302,7 +302,7 @@ ht-degree: 92%
   <tr>
    <td>2019 年 4 月 04 日</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 2 月 22 日</td> 
@@ -318,7 +318,7 @@ ht-degree: 92%
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=zh-Hant">Dispatcher</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=zh-Hant">HTL</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hant">Cloud Manager</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=en">Adobe Experience Cloud Library</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=zh-Hant">Adobe Experience Cloud Library</a></li> 
     </ul> <p>內容與簡報中的一些改善項目相同。更令人興奮的是新功能是，您可以透過提取請求來貢獻您的說明文件建議，或是透過每個頁面上的<strong>「編輯此頁面」</strong>和<strong>「登錄問題」</strong>連結來回報 GitHub 問題。歡迎您踴躍貢獻內容！</p> </td> 
   </tr>
   <tr>
@@ -339,7 +339,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 12 月 20 日</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 17 日</td> 
@@ -384,7 +384,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 11 月 2 日</td> 
    <td>AEM Screens</td> 
-   <td>AEM Screens 說明文件已從 Sites 分支移至 Screens 專用分支。如需完整的彙總說明文件，請參閱 <a href="https://docs.adobe.com/content/help/en/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens 使用手冊</a>。</td> 
+   <td>AEM Screens 說明文件已從 Sites 分支移至 Screens 專用分支。如需完整的彙總說明文件，請參閱 <a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-screens/user-guide/aem-screens-introduction.html">AEM Screens 使用手冊</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 11 月 1 日</td> 
@@ -394,7 +394,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 10 月 25 日</td> 
    <td>Dynamic Media 中的直接連結保護</td> 
-   <td>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=en" target="_blank">在 Dynamic Media 中啟用直接連結保護</a>。</td> 
+   <td>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/hotlink-protection.html?lang=zh-Hant" target="_blank">在 Dynamic Media 中啟用直接連結保護</a>。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 16 日</td> 
@@ -414,7 +414,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 10 月 3 日</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 9 月 18 日</td> 
@@ -429,17 +429,17 @@ ht-degree: 92%
   <tr>
    <td>2018 年 8 月 29 日<br /> </td> 
    <td>AEM Assets</td> 
-   <td>若要設定 oAuth 整合，可在<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=en" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。</td> 
+   <td>若要設定 oAuth 整合，可在<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/brandportal/configure-aem-assets-with-brand-portal.html?lang=zh-Hant" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>RTF 編輯器<br /> </td> 
-   <td>以更好的結構改寫<a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">設定 RTE 文章</a>，新增一些遺漏的資訊、新增工作流程圖例，以及分割長篇文章。</td> 
+   <td>以更好的結構改寫<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">設定 RTE 文章</a>，新增一些遺漏的資訊、新增工作流程圖例，以及分割長篇文章。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>單頁應用程式<br /> </td> 
-   <td>更新並延伸適用於 AEM SPA Editor 的<a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">單頁應用程式 (SPA)</a> 開發說明文件。<br /> </td> 
+   <td>更新並延伸適用於 AEM SPA Editor 的<a href="https://helpx.adobe.com/tw/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">單頁應用程式 (SPA)</a> 開發說明文件。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日</td> 
@@ -454,17 +454,17 @@ ht-degree: 92%
   <tr>
    <td>2018 年 7 月 19 日</td> 
    <td>影像提供與影像轉譯 API</td> 
-   <td><p>AEM和Dynamic Media Classic上現已提供適用於Dynamic Media的影像提供6.6.1和影像轉譯6.6.1。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=en">關於此版本</a>。</p> </td> 
+   <td><p>AEM 和 Dynamic Media Classic 上現在提供適用於的 Dynamic Media 的 Image Serving 6.6.1 和 Image Rendering 6.6.1。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/image-serving-api/r-about-this-release.html?lang=zh-Hant">關於此版本</a>。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 17 日</td> 
    <td>檢視器參考指南</td> 
-   <td><p>AEM和Dynamic Media Classic上現已提供Dynamic Media適用的Viewers 5.10.1。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html?lang=en">檢視器發行說明 (5.10.1)</a>。</p> </td> 
+   <td><p>AEM 和 Dynamic Media Classic 上現在提供適用於的 Dynamic Media 的 Viewers 5.10.1。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-release-notes/archive/c-rn-07-17-18.html?lang=zh-Hant">檢視器發行說明 (5.10.1)</a>。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 13 日</td> 
    <td>視訊報告</td> 
-   <td><p>您現在可以在 AEM Dynamic Media - 混合模式的多個安裝間設定視訊報告。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=en">設定視訊報告</a>。</p> </td> 
+   <td><p>您現在可以在 AEM Dynamic Media - 混合模式的多個安裝間設定視訊報告。</p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-64/assets/dynamic/config-dynamic.html?lang=zh-Hant">設定視訊報告</a>。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 7 月 11 日</td> 
@@ -474,7 +474,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>MC-CC 整合<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
@@ -489,7 +489,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 6 月 29 日</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 25 日</td> 
@@ -509,7 +509,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 6 月 14 日</td> 
    <td>增強型智慧標記</td> 
-   <td>改善如何<a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智慧內容服務設定資產標記</a>的說明文件。</td> 
+   <td>改善如何<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智慧內容服務設定資產標記</a>的說明文件。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 4 日</td> 
@@ -550,12 +550,12 @@ ht-degree: 92%
   <tr>
    <td>2018 年 4 月 25 日</td> 
    <td>Dynamic Media：轉盤檢視器</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=en" target="_blank">Dynamic Media 中的新轉盤檢視器</a>會顯示不可縮放橫幅影像的轉盤，其中包含可點按的熱點或區域。此檢視器的目的是實作「可購買的轉盤」體驗，讓使用者可在橫幅影像上選取熱點或區域，並重新導向至客戶網站上的快速檢視或產品詳細資訊頁面。它設計為可在桌上型電腦和行動裝置上運作。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/carousel/c-html5-aem-carousel.html?lang=zh-Hant" target="_blank">Dynamic Media 中的新轉盤檢視器</a>會顯示不可縮放橫幅影像的轉盤，其中包含可點按的熱點或區域。此檢視器的目的是實作「可購買的轉盤」體驗，讓使用者可在橫幅影像上選取熱點或區域，並重新導向至客戶網站上的快速檢視或產品詳細資訊頁面。它設計為可在桌上型電腦和行動裝置上運作。</td> 
   </tr>
   <tr>
    <td>2018 年 4 月 24 日<br /> </td> 
    <td>單頁應用程式<br /> </td> 
-   <td><p>單頁應用程式 (SPA) 可為網站使用者提供引人入勝的體驗。開發人員希望能使用 SPA 架構建立網站，而作者則想在 AEM 中為建立成 SPA 的網站順暢地編輯內容。</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 製作功能</a> (目前是技術預覽) 提供全方位的解決方案，可支援 AEM 中的 SPA。</p> </td> 
+   <td><p>單頁應用程式 (SPA) 可為網站使用者提供引人入勝的體驗。開發人員希望能使用 SPA 架構建立網站，而作者則想在 AEM 中為建立成 SPA 的網站順暢地編輯內容。</p> <p><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 製作功能</a> (目前是技術預覽) 提供全方位的解決方案，可支援 AEM 中的 SPA。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 4 月 4 日</td> 
@@ -675,7 +675,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 10 月 16 日</td> 
    <td>核心元件<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">索引標籤</a>和<a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">轉盤</a>元件的 2.2.0 版，以及影像、標題和頁面元件的增強功能，還以多項錯誤修正。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/components/tabs.html">索引標籤</a>和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/components/carousel.html">轉盤</a>元件的 2.2.0 版，以及影像、標題和頁面元件的增強功能，還以多項錯誤修正。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 3 日</td> 
@@ -690,7 +690,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 8 月 29 日</td> 
    <td>AEM Assets</td> 
-   <td>若要設定 oAuth 整合，可在<a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。<br /> </td> 
+   <td>若要設定 oAuth 整合，可在<a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/configure-assets-cc-integration.html" target="_blank">設定 AEM Assets 整合</a>和<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant" target="_blank">透過 Brand Portal 設定 Assets 整合</a>文章中瞭解 Adobe I/O 閘道服務。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
@@ -700,7 +700,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 8 月 16 日</td> 
    <td>與 Livefyre 整合</td> 
-   <td>更新 <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 Feature Pack 版本</a>以及 <a href="https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Feature Pack</a> 頁面。 </td> 
+   <td>更新 <a href="https://helpx.adobe.com/tw/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 Feature Pack 版本</a>以及 <a href="https://helpx.adobe.com/tw/experience-manager/6-3/release-notes/feature-packs-release-notes.html">Feature Pack</a> 頁面。 </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 2 日</td> 
@@ -720,7 +720,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 7 月 5 日<br /> </td> 
    <td>資產智慧標記</td> 
-   <td>改善<a href="https://helpx.adobe.com/experience-manager/6-3/assets/using/config-smart-tagging.html">「設定智慧標記」文章</a>的結構、修正錯誤以及與相關文章的交叉連結。</td> 
+   <td>改善<a href="https://helpx.adobe.com/tw/experience-manager/6-3/assets/using/config-smart-tagging.html">「設定智慧標記」文章</a>的結構、修正錯誤以及與相關文章的交叉連結。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
@@ -775,12 +775,12 @@ ht-degree: 92%
   <tr>
    <td>2018 年 2 月 5 日</td> 
    <td>Adobe Analytics 整合</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">受管式輪詢設定</a>的更新。還有<a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/authoring/using/pa-using.html">查看頁面分析資料</a>。<br /> </td> 
+   <td><a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/adobeanalytics-connect.html">受管式輪詢設定</a>的更新。還有<a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/authoring/using/pa-using.html">查看頁面分析資料</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 1 月 19 日</td> 
    <td>核心元件 2.0.0 版</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/versions.html">核心元件</a> 2.0.0 版現已推出，其中包含現有元件的第 2 版及新元件，包括導覽、語言導覽和快速搜尋元件。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/versions.html">核心元件</a> 2.0.0 版現已推出，其中包含現有元件的第 2 版及新元件，包括導覽、語言導覽和快速搜尋元件。</td> 
   </tr>
   <tr>
    <td>2018 年 1 月 8 日</td> 
@@ -805,7 +805,7 @@ ht-degree: 92%
   <tr>
    <td>2017 年 11 月 14 日 </td> 
    <td>智慧型影像</td> 
-   <td><p>有關Dynamic Media Classic / Dynamic Media中新功能智慧型影像的常見問題。<br /> </p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">智慧型影像</a>。</p> </td> 
+   <td><p>有關 Dynamic Media Classic /Dynamic Media 中智慧型影像新功能的常見問題。<br /> </p> <p>請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">智慧型影像</a>。</p> </td> 
   </tr>
   <tr>
    <td>2017 年 10 月 13 日</td> 
@@ -815,7 +815,7 @@ ht-degree: 92%
   <tr>
    <td>2017 年 10 月 11 日</td> 
    <td>內容片段更新與內容服務 - Feature Pack</td> 
-   <td>這套 Feature Pack 提供內容片段、JSON 匯出工具和核心元件的更新。請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">內容片段更新與內容服務 - Feature Pack 發行說明</a>。</td> 
+   <td>這套 Feature Pack 提供內容片段、JSON 匯出工具和核心元件的更新。請參閱<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">內容片段更新與內容服務 - Feature Pack 發行說明</a>。</td> 
   </tr>
   <tr>
    <td>2017 年 10 月 3 日</td> 
@@ -835,7 +835,7 @@ ht-degree: 92%
   <tr>
    <td>2017 年 9 月 5 日</td> 
    <td>Dynamic Media Feature Packs 14410 和 18912</td> 
-   <td><p>此Feature Pack為Dynamic Media客戶提供全新的自動化和傳送功能，且此升級適用於Dynamic Media Classic客戶轉換至Dynamic Media。 </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">使用 Feature Pack 14410 和 18912 設定 Dynamic Media</a></p> </td> 
+   <td><p>此 Feature Pack 為 Dynamic Media 客戶提供全新的自動化和傳送功能，且此升級可讓 Dynamic Media Classic 客戶轉移至 Dynamic Media。 </p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">使用 Feature Pack 14410 和 18912 設定 Dynamic Media</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 31 日</td> 
@@ -855,17 +855,17 @@ ht-degree: 92%
   <tr>
    <td>2017 年 8 月 28 日</td> 
    <td>適用性表單</td> 
-   <td><p>表單開發人員可將功能完整的適用性表單內嵌在 AEM 以外託管的外部網頁中。這可協助使用者填寫表單而不需離開網頁，並保持瞭解頁面上其他元素的上下文。</p> <p><a href="https://helpx.adobe.com/aem-forms/6-3/embed-adaptive-form-external-web-page.html">在外部網頁中內嵌適用性表單</a></p> </td> 
+   <td><p>表單開發人員可將功能完整的適用性表單內嵌在 AEM 以外託管的外部網頁中。這可協助使用者填寫表單而不需離開網頁，並保持瞭解頁面上其他元素的上下文。</p> <p><a href="https://helpx.adobe.com/tw/aem-forms/6-3/embed-adaptive-form-external-web-page.html">在外部網頁中內嵌適用性表單</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 25 日</td> 
    <td>Forms 資料整合</td> 
-   <td><p>AEM Forms 提供設定套件，可用來快速整合 Dynamics 365 與 Forms。此套件包含雲端服務設定，以及已預先設定 Dynamics 365 實體和服務的表格資料模型。</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics 365 OData 設定</a></p> </td> 
+   <td><p>AEM Forms 提供設定套件，可用來快速整合 Dynamics 365 與 Forms。此套件包含雲端服務設定，以及已預先設定 Dynamics 365 實體和服務的表格資料模型。</p> <p><a href="https://helpx.adobe.com/tw/experience-manager/6-3/forms/using/ms-dynamics-odata-configuration.html">Microsoft Dynamics 365 OData 設定</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 24 日</td> 
    <td>安裝和升級 Forms JEE</td> 
-   <td><p>針對 AEM 6.3 Forms JEE 修正數個問題，並更新其安裝與升級說明文件。</p> <p><a href="https://helpx.adobe.com/aem-forms/6-3/user-guide.html">安裝或升級 JEE 版 AEM Forms</a></p> </td> 
+   <td><p>針對 AEM 6.3 Forms JEE 修正數個問題，並更新其安裝與升級說明文件。</p> <p><a href="https://helpx.adobe.com/tw/aem-forms/6-3/user-guide.html">安裝或升級 JEE 版 AEM Forms</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 23 日</td> 
@@ -880,7 +880,7 @@ ht-degree: 92%
   <tr>
    <td>2017 年 8 月 14 日</td> 
    <td>AEM Screens 6.3</td> 
-   <td><p>新版 AEM Screens 6.3 說明文件已推出。此外還提供快速入門，使用者可在 5 分鐘內建立數位看板體驗。請參閱下列資源：</p> <p><a href="https://helpx.adobe.com/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">快速入門</a></p> <p><a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/administering-screens.html">管理 AEM Screens 的內容</a><br /> </p> </td> 
+   <td><p>新版 AEM Screens 6.3 說明文件已推出。此外還提供快速入門，使用者可在 5 分鐘內建立數位看板體驗。請參閱下列資源：</p> <p><a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/deploying/using/setting-up-a-basic-project-screens.html">快速入門</a></p> <p><a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/administering-screens.html">管理 AEM Screens 的內容</a><br /> </p> </td> 
   </tr>
   <tr>
    <td>2017 年 8 月 10 日</td> 
@@ -973,7 +973,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 10 月 16 日</td> 
    <td>核心元件<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/tabs.html">索引標籤</a>和<a href="https://docs.adobe.com/content/help/en/experience-manager-core-components/using/components/carousel.html">轉盤</a>元件的 2.2.0 版，以及影像、標題和頁面元件的增強功能，還以多項錯誤修正。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/components/tabs.html">索引標籤</a>和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-core-components/using/components/carousel.html">轉盤</a>元件的 2.2.0 版，以及影像、標題和頁面元件的增強功能，還以多項錯誤修正。</td> 
   </tr>
   <tr>
    <td>2018 年 10 月 10 日</td> 
@@ -993,7 +993,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 8 月 16 日</td> 
    <td>整合 Livefyre</td> 
-   <td>更新 <a href="https://helpx.adobe.com/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 Feature Pack 版本</a>以及 <a href="https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Feature Pack</a> 頁面。 </td> 
+   <td>更新 <a href="https://helpx.adobe.com/tw/experience-manager/6-4/release-notes/livefyre-feature-pack-206.html">2.0.6 Feature Pack 版本</a>以及 <a href="https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/feature-packs-release-notes.html">Feature Pack</a> 頁面。 </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 3 日</td> 
@@ -1003,7 +1003,7 @@ ht-degree: 92%
   <tr>
    <td>2018 年 8 月 2 日</td> 
    <td>與 Livefyre 整合</td> 
-   <td>針對 AEM 中的 Livefyre 應用程式新增<a href="https://helpx.adobe.com/experience-manager/6-3/sites/administering/using/livefyre.html">支援對照表</a>。 </td> 
+   <td>針對 AEM 中的 Livefyre 應用程式新增<a href="https://helpx.adobe.com/tw/experience-manager/6-3/sites/administering/using/livefyre.html">支援對照表</a>。 </td> 
   </tr>
   <tr>
    <td>2018 年 6 月 11 日</td> 
@@ -1194,7 +1194,7 @@ ht-degree: 92%
   <tr>
    <td>2016 年 9 月 8 日</td> 
    <td><a href="https://helpx.adobe.com/tw/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">上傳視訊及其相關縮圖資產</a></td> 
-   <td>新增<a href="https://helpx.adobe.com/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">上傳視訊及其相關縮圖資產</a>主題的超連結。 </td> 
+   <td>新增<a href="https://helpx.adobe.com/tw/experience-manager/6-2/assets/using/interactive-videos.html#uploading%2520a%2520video%2520and%2520its%2520associated%2520thumbnail%2520assets">上傳視訊及其相關縮圖資產</a>主題的超連結。 </td> 
   </tr>
   <tr>
    <td>2016 年 9 月 1 日</td> 
@@ -1208,7 +1208,7 @@ ht-degree: 92%
   <tr>
    <td>2016 年 8 月 25 日</td> 
    <td><a href="https://helpx.adobe.com/tw/experience-manager/using/ecommerce62.html">電子商務</a></td> 
-   <td>新的 <a href="https://helpx.adobe.com/experience-manager/using/ecommerce62.html">AEM 社群文章：建立自訂電子商務連接器</a>的連結包含在電子商務說明文件中。</td> 
+   <td>新的 <a href="https://helpx.adobe.com/tw/experience-manager/using/ecommerce62.html">AEM 社群文章：建立自訂電子商務連接器</a>的連結包含在電子商務說明文件中。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 24 日</td> 
@@ -1232,18 +1232,18 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">設定驗證</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定驗證</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。<br /> </td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">設定複寫代理</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定複寫代理</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">排解驗證疑難問題</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">排解驗證疑難問題</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 4 日</td> 
@@ -1257,7 +1257,7 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 7 月 30 日</td> 
-   <td><a href="https://helpx.adobe.com/experience-manager/htl/using/overview.html">HTML 範本語言</a></td> 
+   <td><a href="https://helpx.adobe.com/tw/experience-manager/htl/using/overview.html">HTML 範本語言</a></td> 
    <td>(微幅) 改善先前版本 HTL 說明文件。</td> 
   </tr>
   <tr>
@@ -1293,8 +1293,8 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 12 月 22 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">AEM Assets 6.2 FP2</a></td> 
-   <td>此 Feature Pack 包含為 AEM 6.2 客戶提供的全新擴充性、效能、易用性改善項目。此Feature Pack也支援自訂視訊縮圖和Dynamic Media色彩管理功能。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">AEM Assets 6.2 FP2</a></td> 
+   <td>此 Feature Pack 包含為 AEM 6.2 客戶提供的全新擴充性、效能、易用性改善項目。此 Feature Pack 也包含對自訂視訊縮圖和 Dynamic Media 色彩管理功能的支援。</td> 
   </tr>
   <tr>
    <td>2016 年 11 月 22 日</td> 
@@ -1303,12 +1303,12 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 11 月 18 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media 色彩校正</a></td> 
-   <td>關於如何在預覽Dynamic Media資產之前對其進行色彩校正的說明。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">Dynamic Media 色彩校正</a></td> 
+   <td>有關如何在預覽 Dynamic Media 資產之前進行色彩校正的說明。</td> 
   </tr>
   <tr>
    <td>2016 年 11 月 18 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html">設定影像複寫</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定影像複寫</a></td> 
    <td>與設定影像複寫的新說明相關。</td> 
   </tr>
   <tr>
@@ -1318,7 +1318,7 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 11 月 3 日</td> 
-   <td>更新 Dynamic Media 技術要求 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.1</a>、<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">6.2</a></td> 
+   <td>更新 Dynamic Media 技術要求 <a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">6.1</a>、<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">6.2</a></td> 
    <td>針對技術要求更新 Visual Studio C++ 可轉散發套件。</td> 
   </tr>
   <tr>
@@ -1333,13 +1333,13 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 10 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media 檢視器</a></td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">Dynamic Media 檢視器</a></td> 
    <td>AEM 6.2 檢視器現已在 AEM 6.1 中提供使用。</td> 
   </tr>
   <tr>
    <td>2016 年 10 月 11 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">Dynamic Media 色彩管理</a></td> 
-   <td>AEM 6.1的新Feature Pack ，可讓您在預覽Dynamic Media資產之前先對其進行色彩校正。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">Dynamic Media 色彩管理</a></td> 
+   <td>AEM 6.1 的新 Feature Pack 可讓您在 Dynamic Media 媒體資產之前，先對其進行色彩校正。</td> 
   </tr>
   <tr>
    <td>2016 年 9 月 21 日</td> 
@@ -1358,18 +1358,18 @@ ht-degree: 92%
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定驗證</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定驗證</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定驗證的流程更清楚。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定複寫代理</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定複寫代理</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />改善步驟，讓設定複寫代理的流程更清楚。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 17 日</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">排解驗證疑難問題</a></td> 
-   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=en">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">排解驗證疑難問題</a></td> 
+   <td>與<a href="https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant">設定 Dynamic Media</a> 相關。<br />新增三個排解驗證疑難問題的主題。</td> 
   </tr>
   <tr>
    <td>2016 年 8 月 12 日</td> 
@@ -1522,10 +1522,10 @@ ht-degree: 92%
    <td>更新設定影片和常見問題集</td> 
    <td><p>Brand Portal 6.4.5 發佈了一項功能，此功能主要讓 Brand Portal 使用者 (外部代理商/團隊) 無需存取作者環境，就可將內容上傳至 Brand Portal 並發佈至 AEM Assets。此功能稱為 <strong>Brand Portal 中的 Asset Sourcing</strong>。</p> <p>本說明文件涵蓋下列重大更新：</p> 
     <ul> 
-     <li>新增<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">主題影片</a>，展示 Brand Portal 中的 Asset Sourcing 整體工作流程。<br /> </li> 
+     <li>新增<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hant">主題影片</a>，展示 Brand Portal 中的 Asset Sourcing 整體工作流程。<br /> </li> 
      <li>新增影片，展示<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-configure-asset-sourcing.html">如何在 AEM Assets 中設定 Asset Sourcing</a>。</li> 
      <li>新增影片，展示<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">如何在 AEM Assets 中設定「貢獻」資料夾</a>。</li> 
-     <li>Asset Sourcing 的<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">常見問題集</a>。</li> 
+     <li>Asset Sourcing 的<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=zh-Hant">常見問題集</a>。</li> 
     </ul> </td> 
   </tr>
   <tr>
@@ -1533,8 +1533,8 @@ ht-degree: 92%
    <td>Asset Sourcing 的主題影片和設定文章</td> 
    <td><p>Brand Portal 6.4.5 發佈了一項功能，此功能主要讓 Brand Portal 使用者 (外部代理商/團隊) 無需存取作者環境，就可將內容上傳至 Brand Portal 並發佈至 AEM Assets。此功能稱為 <strong>Brand Portal 中的 Asset Sourcing</strong>。</p> <p>本說明文件涵蓋下列重大更新：</p> 
     <ul> 
-     <li>新增<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">主題影片</a>，展示 Brand Portal 中的 Asset Sourcing 整體工作流程。</li> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">在 AEM Assets 中設定「貢獻」資料夾</a></li> 
+     <li>新增<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hant">主題影片</a>，展示 Brand Portal 中的 Asset Sourcing 整體工作流程。</li> 
+     <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/configure-contribution-folder/brand-portal-contribution-folder.html">在 AEM Assets 中設定「貢獻」資料夾</a></li> 
      <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/using-asset-sourcing/brand-portal-overiew-using-asset-sourcing.html">使用 Asset Sourcing 將貢獻資料夾中的資產發佈至 AEM Assets</a></li> 
     </ul> </td> 
   </tr>
@@ -1543,19 +1543,19 @@ ht-degree: 92%
    <td>推出 Brand Portal 常見問題集</td> 
    <td>本說明文件涵蓋下列重大更新：
     <ul> 
-     <li>Brand Portal Asset Sourcing 的<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=en">常見問題集</a>。</li> 
-     <li>更新 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Brand Portal 中的 Asset Sourcing </a>說明文件。</li> 
+     <li>Brand Portal Asset Sourcing 的<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-faqs.html?lang=zh-Hant">常見問題集</a>。</li> 
+     <li>更新 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hant">Brand Portal 中的 Asset Sourcing </a>說明文件。</li> 
     </ul> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日 </td> 
    <td>Brand Portal 中的 Asset Sourcing</td> 
-   <td><p>說明如何在 AEM Assets 中設定 Asset Sourcing 的說明文件和相關文章。</p> <p>如需功能說明文件，請參閱 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=en">Brand Portal 中的 Asset Sourcing</a>。</p> </td> 
+   <td><p>說明如何在 AEM Assets 中設定 Asset Sourcing 的說明文件和相關文章。</p> <p>如需功能說明文件，請參閱 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/asset-sourcing-in-brand-portal/brand-portal-asset-sourcing.html?lang=zh-Hant">Brand Portal 中的 Asset Sourcing</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 28 日</td> 
    <td>AEM Assets Brand Portal 6.4.5 版</td> 
-   <td><p>Brand Portal 6.4.5 發佈了一項功能，此功能主要讓 Brand Portal 使用者 (外部代理商/團隊) 無需存取作者環境，就可將內容上傳至 Brand Portal 並發佈至 AEM Assets。此功能稱為 <strong>Brand Portal 中的 Asset Sourcing</strong>。</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en#what-changed-in-645">Brand Portal 6.4.5 的新功能</a></p> </td> 
+   <td><p>Brand Portal 6.4.5 發佈了一項功能，此功能主要讓 Brand Portal 使用者 (外部代理商/團隊) 無需存取作者環境，就可將內容上傳至 Brand Portal 並發佈至 AEM Assets。此功能稱為 <strong>Brand Portal 中的 Asset Sourcing</strong>。</p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=zh-Hant#what-changed-in-645">Brand Portal 6.4.5 的新功能</a></p> </td> 
   </tr>
   <tr>
    <td>2019 年 8 月 8 日</td> 
@@ -1564,7 +1564,7 @@ ht-degree: 92%
     <ul> 
      <li><strong>BP 6.4.4.7</strong> - 最佳化使用者同步程序以防止同時執行。</li> 
      <li><strong>BP 6.4.4.6</strong> - 針對下載報表產生程序進行效能最佳化。</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=en">Brand Portal 發行說明</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/brand-portal-release-notes.html?lang=zh-Hant">Brand Portal 發行說明</a></p> </td> 
   </tr>
   <tr>
    <td>2019 年 2 月 13 日</td> 
@@ -1573,7 +1573,7 @@ ht-degree: 92%
     <ul> 
      <li>搜尋篩選器中的屬性述詞現在支援搜尋部分詞句。</li> 
      <li>搜尋篩選器中的屬性述詞現在支援萬用字元 (*) 搜尋。</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal 發行說明</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">Brand Portal 使用手冊</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=zh-Hant">Brand Portal 發行說明</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=zh-Hant">Brand Portal 使用手冊</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 11 月 1 日 </td> 
@@ -1582,12 +1582,12 @@ ht-degree: 92%
     <ul> 
      <li>組織可在 URL 中設定替代首碼，以請求除了現有 Brand Portal 存取 URL 以外的替代 URL。</li> 
      <li>新設定，可用於為非管理員使用者啟用資料夾階層。</li> 
-     <li>預覽、播放和下載Dynamic Media轉譯。</li> 
+     <li>預覽、播放及下載 Dynamic Media 轉譯。</li> 
      <li>排程從 AEM 製作執行個體發佈至 Brand Portal。</li> 
      <li>新設定，可設定 Dynamic Media 影像伺服器設定項目。</li> 
      <li>在搜尋表單中引入路徑瀏覽器述詞。</li> 
      <li>透過電子郵件下載的連結將在 45 天後失效。 </li> 
-    </ul> <p><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal 發行說明</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en" target="_blank">Brand Portal 使用手冊</a></p> </td> 
+    </ul> <p><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-brand-portal/using/introduction/whats-new.html/brand-portal/release-notes/brand-portal-release-notes-643.html" target="_blank">Brand Portal 發行說明</a></p> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=zh-Hant" target="_blank">Brand Portal 使用手冊</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日 </td> 
@@ -1603,7 +1603,7 @@ ht-degree: 92%
      <li>搜尋篩選器中屬性述詞和多值屬性述詞的不區分大小寫搜尋支援。</li> 
      <li>6 項新設定，可讓組織獲得更優異的控制力，並滿足個別業務需求。</li> 
      <li>用於設定 oAuth 整合的 UI 現在於 <a href="https://legacy-oauth.cloud.adobe.io/">https://legacy-oauth.cloud.adobe.io/</a> 中託管。</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal 使用手冊</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=zh-Hant">Brand Portal 使用手冊</a></p> </td> 
   </tr>
   <tr>
    <td>2018 年 5 月 17 日</td> 
@@ -1617,7 +1617,7 @@ ht-degree: 92%
      <li>推出新的連結共用報表。</li> 
      <li>報告介面更直覺化，提供於自訂報表的精細功能用。</li> 
      <li>增強資產搜尋功能，提供精確的時間戳記篩選條件、新的存取類型篩選條件、檔案類型搜尋篩選器中的新搜尋選項，以及可導覽回搜尋結果的功能。</li> 
-    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal 使用手冊</a></p> </td> 
+    </ul> <p><a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=zh-Hant">Brand Portal 使用手冊</a></p> </td> 
   </tr>
   <tr>
    <td>2017 年 10 月 26 日</td> 
@@ -1629,8 +1629,8 @@ ht-degree: 92%
      <li>從 Assets 發佈至 Brand Portal 的完整中繼資料結構</li> 
      <li>增強報告功能 - 已下載、過期和發佈的資產</li> 
      <li>新推出的 DRM 功能 - 資產過期控制與通知</li> 
-     <li>新稱<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=en">新功能文章</a>以瞭解新功能和更新的功能</li> 
-     <li>新的無關版本 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=en">Brand Portal 使用手冊</a> (獨立於 AEM Assets 使用手冊)</li> 
+     <li>新增<a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/introduction/whats-new.html?lang=zh-Hant">新功能文章</a>，可瞭解新功能和更新的功能</li> 
+     <li>新的無關版本 <a href="https://experienceleague.adobe.com/docs/experience-manager-brand-portal/using/home.html?lang=zh-Hant">Brand Portal 使用手冊</a> (獨立於 AEM Assets 使用手冊)</li> 
     </ul> </td> 
   </tr>
  </tbody>
@@ -1648,20 +1648,20 @@ ht-degree: 92%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>無關版本的文章</td> 
-   <td>更新「桌面應用程式」相關文章 (<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/install-upgrade.html">安裝</a>、<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html">RN</a> 和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">最佳實務</a>)，解除與 AEM 6.4 版的關聯。此應用程式可搭配多個版本運作，而文章現在不受限於版本。</td> 
+   <td>更新「桌面應用程式」相關文章 (<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/install-upgrade.html">安裝</a>、<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/release-notes.html">RN</a> 和<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/archive/best-practices-for-v1.html">最佳實務</a>)，解除與 AEM 6.4 版的關聯。此應用程式可搭配多個版本運作，而文章現在不受限於版本。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 21日</td> 
    <td>發行 1.9.1 版</td> 
-   <td>新版本已推出，同時提供幾個錯誤修正。如需詳細資訊，請參閱<a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">發行說明</a>。<br /> </td> 
+   <td>新版本已推出，同時提供幾個錯誤修正。如需詳細資訊，請參閱<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/release-notes.html" target="_blank">發行說明</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 5 月 31 日</td> 
    <td>發行 1.9.1 版<br /> </td> 
    <td>AEM 桌面應用程式 1.9 版的說明文件現已推出。
     <ul> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/release-notes.html" target="_blank">發行說明</a></li> 
-     <li><a href="https://docs.adobe.com/content/help/en/experience-manager-desktop-app/using/introduction.html">使用 AEM 桌面應用程式</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/release-notes.html" target="_blank">發行說明</a></li> 
+     <li><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-desktop-app/using/introduction.html">使用 AEM 桌面應用程式</a></li> 
     </ul> </td> 
   </tr>
  </tbody>
