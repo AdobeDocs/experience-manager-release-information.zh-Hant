@@ -3,10 +3,10 @@ title: '[!DNL Experience Manager] 近期說明文件更新'
 description: ' [!DNL Experience Manager]  說明文件新內容、更新或變更'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+source-git-commit: a64bc67f185aaefd41d9376e1119e72a56cce598
 workflow-type: tm+mt
-source-wordcount: '4430'
-ht-degree: 100%
+source-wordcount: '4506'
+ht-degree: 98%
 
 ---
 
@@ -32,6 +32,7 @@ ht-degree: 100%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
+| 2021 年 11 月 25 日 | AEM with Dynamic Media — 設定 | 您現在可以直接在AEM的Dynamic Media中設定「一般設定」和「發佈設定」，而無須使用Dynamic Media案頭應用程式。<br>請參閱 [配置Dynamic Media一般設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html) 和 [設定影像伺服器的Dynamic Media發佈設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html).<br>另請參閱 [設定Dynamic Media - Scene7模式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html) |
 | 2021 年 11 月 4 日 | AEM 含 Dynamic Media - 智慧型裁切 | 已使用最新 Adobe Sensei 服務改良影像資產的智慧型裁切與智慧型色票。 文件更新包括以下內容：<br>•「影像設定檔」中「裁切選項」對話框內的全新&#x200B;**[!UICONTROL 保留所有目標解析度的裁切內容]**&#x200B;選項。<br>• 當您手動重新對齊多個資產的智慧型裁切視窗或是調整其大小時，這些編輯會保留下來，即便您稍後決定重新處理這些資產。 然而，如果您在「影像設定檔」的&#x200B;**[!UICONTROL 回應式影像裁切]**&#x200B;區域中編輯寬度或/及高度，這些資產就需要重新處理。<br>• 智慧型裁切與色票支援的新影像檔案格式表格。<br>如需這些更新內容，請參閱[影像設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/image-profiles.html)。 |
 | 2021 年 11 月 3 日 | 智慧型裁切視訊檢視器 API | 現在 Dynamic Media 檢視器參考指南中有提供全新[智慧型裁切視訊檢視器 API 文件](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en)。 |
 | 2020 年 12 月 2 日 | 批次集預設集 | 了解如何使用 Dynamic Media 中的批次集預設集自動建立影像集和迴轉集。請參閱[批次集預設集](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/assets/dynamicmedia/batch-set-presets-dm.html#dynamicmedia)。 |
