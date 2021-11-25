@@ -3,9 +3,9 @@ title: '[!DNL Experience Manager] 近期說明文件更新'
 description: ' [!DNL Experience Manager]  說明文件新內容、更新或變更'
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 51d938030ea26948b99384a4b19d1730a568e350
-workflow-type: ht
-source-wordcount: '4415'
+source-git-commit: 977c8667a9eb1fac4959064b82266f6812d78333
+workflow-type: tm+mt
+source-wordcount: '4430'
 ht-degree: 100%
 
 ---
@@ -65,6 +65,7 @@ ht-degree: 100%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
+| 2021 年 11 月 25 日 | [!DNL Experience Manager] 6.5 Service Pack 11 | [[!DNL Experience Manager] 6.5 Service Pack 11](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant#service-pack) 現已推出。 |
 | 2021 年 11 月 3 日 | 智慧型裁切視訊檢視器 API | 現在 Dynamic Media 檢視器參考指南中有提供全新[智慧型裁切視訊檢視器 API 文件](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html?lang=en)。 |
 | 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html#service-pack) 現已推出。 |
