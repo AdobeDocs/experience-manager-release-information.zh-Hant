@@ -3,9 +3,9 @@ title: AEM、CQ 和 CRX 的較舊版本
 description: 舊版 Adobe Experience Manager、CQ 和 CRX 的文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 971c4b389b94be04edb48762bb8546fdb6faebe4
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '820'
+ht-degree: 100%
 
 ---
 
