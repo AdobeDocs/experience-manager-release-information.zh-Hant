@@ -2,8 +2,8 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
-workflow-type: ht
+source-git-commit: 7050ba180d88533bc057a6789ba5e1fb75b4f28a
+workflow-type: tm+mt
 source-wordcount: '335'
 ht-degree: 100%
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 每月發行 | 2021 年 12 月 16 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 每月發行 | 2022 年 2 月 3 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | 每月發行 | 2022 年 3 月 3 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.2.0 | 2022.2.0 | 每月發行 | 2022 年 10 月 3 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 每月發行 | 2022 年 3 月 31 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 每月發行 | 2022 年 4 月 28 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 每月發行 | 2022 年 5 月 26 日 |
@@ -43,9 +43,9 @@ ht-degree: 100%
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 2022 年 2 月 24 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 2022 年 5 月 26 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 2022 年 8 月 25 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 2022 年 11 月 24 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | 服務包 | 2022 年 5 月 26 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | 服務包 | 2022 年 8 月 25 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | 服務包 | 2022 年 11 月 24 日 |
 
 
 >[!NOTE]
