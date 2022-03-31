@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 978e2aa8a6ce928e11249b10550d7bad1bdf5462
+source-git-commit: cb13da360f7c4e6adcfd08b5d0eb7710dc3c8f21
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '325'
+ht-degree: 80%
 
 ---
 
@@ -19,17 +19,15 @@ ht-degree: 0%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hant) 會維持每月發行。因此，[!DNL Experience Manager] 將於每月持續更新並提供新功能。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行版本如下。
+[[!DNL Experience Manager] 作為 [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hant) 通常按月發佈節奏來獲取新功能。 即將發佈的功能版本 [!DNL Experience Manager] 作為 [!DNL Cloud Service]計畫如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2021.11.0 | 2021.11.0 | 每月發行 | 2021 年 12 月 16 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.1.0 | 2022.1.0 | 每月發行 | 2022 年 2 月 3 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 每月發行 | 2022 年 3 月 31 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 每月發行 | 2022 年 4 月 28 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 每月發行 | 2022 年 5 月 26 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.3.0 | 2022.3.0 | 功能發佈 | 2022 年 3 月 31 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.4.0 | 2022.4.0 | 功能發佈 | 2022 年 4 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.5.0 | 2022.5.0 | 功能發佈 | 2022 年 5 月 26 日 |
 
-除了每月發行外，[!DNL Experience Manager] as a [!DNL Cloud Service] 還會每日提供各種重要更新。
+除功能版本外，還提供了關鍵錯誤和安全修復， [!DNL Experience Manager] 作為 [!DNL Cloud Service] 以維護版本的形式，通常每週都會進行相應的維護更新。
 
 ## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
 
