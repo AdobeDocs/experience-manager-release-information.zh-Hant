@@ -7,12 +7,12 @@ user-guide-title: Adobe Experience Manager 版本更新和藍圖
 breadcrumb-title: AEM 發行資訊
 user-guide-description: 請參閱最新的 AEM 版本更新。
 feature-set: Experience Manager
-feature: 發行資訊
+feature: Release Information
 role: Leader, Architect, Developer, Data Architect, Data Engineer, Admin, User
 level: Beginner, Intermediate, Experienced
-source-git-commit: d4f69cdd174d0591104106bc3bbdb62e76835fec
+source-git-commit: fc68824d378c564a696b44ecc161c61920d2ba1b
 workflow-type: ht
-source-wordcount: '81'
+source-wordcount: '71'
 ht-degree: 100%
 
 ---
@@ -25,8 +25,6 @@ ht-degree: 100%
 + [AEM 發行藍圖](update-releases-roadmap.md)
 + [AEM 更新發行工具定義](update-release-vehicle-definitions.md)
 + 先前版本更新 {#previous-updates}
-   + [AEM 6.3 累積修正套件](release-notes-aem-6-3-cumulative-fix-pack.md)
-   + [AEM 6.2 累積修正套件](release-notes-aem-6-2-cumulative-fix-pack.md)
    + [AEM、CQ 和 CRX 的較舊版本](aem-previous-versions.md)
 + AEM Forms 版本更新 {#forms-updates}
    + [AEM Forms 發行版本](aem-forms-releases.md)
