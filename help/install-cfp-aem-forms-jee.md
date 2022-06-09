@@ -3,10 +3,10 @@ title: Installing Cumulative Fix Packs on AEM Forms JEE
 description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 69f4db4e2ef94c370ed590ec7e9859781a909270
-workflow-type: ht
-source-wordcount: '1044'
-ht-degree: 100%
+source-git-commit: d0fc94d3b8eba65fe9829245724632b1f2f8214f
+workflow-type: tm+mt
+source-wordcount: '910'
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 100%
 
 1. 聯絡 [Adobe 支援](https://www.adobe.com/tw/account/sign-in.supportportal.html)取得 AEM 6.3 [!DNL Forms JEE] 安裝程式，以安裝 CFP。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
-1. 安裝最新 AEM CFP [6.3.3.x](release-notes-aem-6-3-cumulative-fix-pack.md)
+1. 安裝最新 AEM CFP 6.3.3.x
 1. 安裝 AEM CFP [6.3.3.x](aem-forms-releases.md) 的 [!DNL Forms] 附加元件套件
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package}
@@ -27,7 +27,7 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 ### CQ-4208044 的其他說明 {#additional-instructions-for-cq}
 
-如果您搭配 Oracle 資料庫使用 AEM 6.3 [!DNL Forms JEE] 伺服器，請在部署 CFP1 後 (即在執行 Configuration Manager 後) 設定下列設定。執行企業網域同步時，必須使用此設定同步使用者、群組和群組成員。請參閱 [AEM 6.3 發行說明](release-notes-aem-6-3-cumulative-fix-pack.md#main-pars-header-853219205)中的 CQ-4208044 問題。
+如果您搭配 Oracle 資料庫使用 AEM 6.3 [!DNL Forms JEE] 伺服器，請在部署 CFP1 後 (即在執行 Configuration Manager 後) 設定下列設定。執行企業網域同步時，必須使用此設定同步使用者、群組和群組成員。
 
 1. 登入 **管理員** UI。
 1. 導覽至 **[!UICONTROL 設定]** > **[!UICONTROL 使用者管理]** > **[!UICONTROL 設定]** > **[!UICONTROL 匯入與匯出設定檔]**
@@ -42,16 +42,12 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 以指定順序執行下列步驟，在 AEM 6.2 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack。
 
->[!NOTE]
->
->如果您使用 AEM 6.2 [!DNL Forms OSGi]，請依照 [AEM 6.2 CFP 發行說明](release-notes-aem-6-2-cumulative-fix-pack.md)中的安裝說明操作。
-
-1. 聯絡 [Adobe 支援](https://www.adobe.com/tw/account/sign-in.supportportal.html)取得 AEM 6.2 [!DNL Forms JEE] 安裝程式，以安裝 CFP。
+1. 聯絡 [Adobe 支援](https://www.adobe.com/account/sign-in.supportportal.html)取得 AEM 6.2 [!DNL Forms JEE] 安裝程式，以安裝 CFP。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
 1. 安裝 AEM Hotfix 12785 7.0 版。
-1. 安裝 [AEM 6.2 Service Pack 1](https://docs.adobe.com/docs/en/aem/6-2/release-notes/sp1.html)。
-1. 安裝最新 [AEM 6.2 Service Pack 1 CFP](release-notes-aem-6-2-cumulative-fix-pack.md)。
-1. 安裝適用於 [AEM 6.2 Service Pack 1 CFP](aem-forms-releases.md) 的 [!DNL Forms] 附加元件套件。
+1. 安裝 AEM 6.2 Service Pack 1。
+1. 安裝最新的發行說明 — aem-6-2-cumulative-fix-pack.md。
+1. 安裝適用於 AEM 6.2 Service Pack 1 CFP 的 [!DNL Forms] 附加元件套件。
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package-1}
 
@@ -61,7 +57,7 @@ AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM 
 
 >[!NOTE]
 >
->在安裝 AEM 6.2 CFP4 後，您可透過下列說明為 DSC 操作設定逾時，以防在升級程序中因逾時遇到問題。(請參閱 [AEM 6.2 CFP4 發行說明](release-notes-aem-6-2-cumulative-fix-pack.md)中的 NPR-16774)。
+>在安裝 AEM 6.2 CFP4 後，您可透過下列說明為 DSC 操作設定逾時，以防在升級程序中因逾時遇到問題。
 
 DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如安裝、載入、啟動和停止) 的逾時，必須使用具「-D」選項的 JVM 引數設定 `adobe.component.registry.timeout`。
 
@@ -83,7 +79,7 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
 1. 若要將 `DesigntimeService` 操作值逾時設定為 500 秒，請使用：
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   設定&quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. 若要將 `DesigntimeService's previewLCA` 操作值逾時設定為 700 秒，請使用：
 
@@ -91,7 +87,7 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
 1. 若要將載入、安裝等 `DSC operations` 設定為 600 秒，請使用：
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   設定&quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## 安裝與設定 AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -142,22 +138,8 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
    若為 AEM [!DNL Forms] 6.3，請參閱：
 
-   * [安裝和部署 AEM [!DNL Forms] for JBoss](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-jboss.pdf)
-   * [安裝和部署 AEM [!DNL Forms] for WebSphere](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-websphere.pdf)
-   * [安裝和部署 AEM [!DNL Forms] for WebLogic](https://helpx.adobe.com/pdf/aem-forms/6-3/install-single-server-weblogic.pdf)
-
-   若為 AEM [!DNL Forms] 6.2，請參閱：
-
-   * [安裝和部署 AEM [!DNL Forms] for JBoss](http://www.adobe.com/go/learn_aemforms_installJBoss_62_tw)
-   * [安裝和部署 AEM [!DNL Forms] for WebSphere](http://www.adobe.com/go/learn_aemforms_installWebSphere_62_tw)
-   * [安裝和部署 AEM [!DNL Forms] for WebLogic](http://www.adobe.com/go/learn_aemforms_installWebLogic_62_tw)
-
-   若為 AEM Forms 6.1，請參閱：
-
-   * [安裝和部署 AEM [!DNL Forms] for JBoss](http://www.adobe.com/go/learn_aemforms_installJBoss_61_tw)
-   * [安裝和部署 AEM [!DNL Forms] for WebSphere](http://www.adobe.com/go/learn_aemforms_installWebSphere_61_tw)
-   * [安裝和部署 AEM [!DNL Forms] for WebLogic](http://www.adobe.com/go/learn_aemforms_installWebLogic_61_tw)
-
-
+   * 安裝和部署 AEM[!DNL Forms]for JBoss
+   * 安裝和部署 AEM[!DNL Forms]for WebSphere
+   * 安裝和部署 AEM[!DNL Forms]for WebLogic
 
 1. 重新啟動 AEM [!DNL Forms] JEE 伺服器。
