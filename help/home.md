@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 版本更新和藍圖'
 description: '[!DNL Adobe Experience Manager] 版本更新和藍圖'
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 9da699a3337991afc277bfb774c2538f1b4dc320
+source-git-commit: e6e7ea43a2424021df70a9b9d1a25794f54ba7d2
 workflow-type: ht
-source-wordcount: '69'
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -16,11 +16,6 @@ ht-degree: 100%
 * [[!DNL Experience Manager] 版本更新](aem-releases-updates.md)
 * [[!DNL Experience Manager] 發行藍圖](update-releases-roadmap.md)
 * [[!DNL Experience Manager] 發行工具定義](update-release-vehicle-definitions.md)
-
-## 先前版本更新
-
-* [發行說明： [!DNL Experience Manager] 6.3 Cumulative Fix Pack](release-notes-aem-6-3-cumulative-fix-pack.md)
-* [發行說明： [!DNL Experience Manager] 6.2 Cumulative Fix Pack](release-notes-aem-6-2-cumulative-fix-pack.md)
 
 ## [!DNL Experience Manager] Forms 版本更新
 
