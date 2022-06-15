@@ -3,9 +3,9 @@ title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Cumulative Fix Pack 發行說明.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -108,7 +108,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 ### Cumulative Fix Pack 19 {#cumulative-fix-pack-1}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP19 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
+AEM Cumulative Fix Pack 6.2 SP1-CFP19 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
@@ -183,7 +183,7 @@ AEM 6.2SP1-CFP19 中包含的內容套件清單
 
 ### Cumulative Fix Pack 18 {#cumulative-fix-pack-2}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
+AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
@@ -219,7 +219,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](
 
 * 由於特殊字元長破折號，Publisher 在排清快取時發生問題。NPR-27199：CQ-4242790 的 Hotfix
 
-### 花崗岩 {#granite-1}
+### Granite {#granite-1}
 
 * 套件驗證器沒有驗證 CFP/SP 中包含的套件。NPR-26775：Granite-22825 的 Hotfix
 
@@ -251,7 +251,7 @@ AEM 6.2 SP1-CFP18 中包含的內容套件清單
 
 ### Cumulative Fix Pack 17 {#cumulative-fix-pack-3}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
+AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
@@ -296,7 +296,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 * 發生覆寫錯誤時未正確記錄。NPR-25308：CQ-4249402 的 Hotfix
 * 將 Forms AEM 6.2 Forms CFP8 安裝至 CFP14 會導致 Apache POI 失敗。NPR-25053：Granite-21771 的 Hotfix
 
-### 花崗岩 {#granite-2}
+### Granite {#granite-2}
 
 * 使用者同步程序失敗，出現 OakConstraint0022 例外狀況。NPR-25729：Oak-7428 的 Hotfix
 
@@ -304,7 +304,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 
 * cq-social-as-provider 套件組合的開頭不是 mongo 驅動程式 3.x 版。NPR-26271：CQ-4252710 的 Hotfix
 
-### UI — 基礎 {#ui-foundation-1}
+### UI - Foundation {#ui-foundation-1}
 
 * 更新至 jqueryui clientlib v1.12.1。NPR-25090：Granite-21981、CQ-4248897 的 Hotfix
 
@@ -343,7 +343,7 @@ AEM 6.2SP1-CFP17 中包含的內容套件清單
 
 ### Cumulative Fix Pack 16 {#cumulative-fix-pack-4}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
+AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
@@ -397,7 +397,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * Salesforce 整合容易遭受伺服器端請求偽造 (SSRF) 攻擊。NPR-24289：CQ-4245277 的 Hotfix
 * ReportingServicesProxyServlet 中出現伺服器端請求偽造 (SSRF) 漏洞。NPR-24657：CQ-4246880 的 Hotfix
 
-### 花崗岩 {#granite-3}
+### Granite {#granite-3}
 
 * 中繼資料讀取作業不會終止。NPR-24240：Granite-19866 的 Hotfix
 * 將 Jetty 更新為 9.4.11.v20180605 以修正漏洞。NPR-25033：Granite-22120 的 Hotfix
@@ -455,7 +455,7 @@ AEM 6.2SP1-CFP16 中包含的內容套件清單
 
 ### Cumulative Fix Pack 15 {#cumulative-fix-pack-5}
 
-AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
+AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](https://helpx.adobe.com/tw/experience-manager/6-2/release-notes/sp1.html) 正式發行以來累積的重要客戶修正。
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
@@ -939,7 +939,7 @@ AEM Forms 的關鍵重點為：
 
 ### Forms 附加元件套件 {#forms-add-on-package-9}
 
-#### HTML5Forms {#html-forms-1}
+#### HTML5 Forms {#html-forms-1}
 
 * iOS 10 和 11 裝置上的手寫元件可用性問題。NPR- 21092
 
@@ -1113,7 +1113,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 增強調適型表單，可在 Safari 中附加 PDF 作為附件。為支援現有表格的相同功能，我們需要變更附件小工具和「支援的檔案類型」中的設定，以更新值 application/pdf 而非 .pdf。NPR-19623
 
-#### Forms經理 {#forms-manager-1}
+#### Forms Manager {#forms-manager-1}
 
 * 如果沒有在調適型表單欄位上定義 validationState，且發生了 elementFocusChanged 事件，則會傳回錯誤事件 (errorState) 至 Adobe Analytics 伺服器。NPR-19513
 
@@ -1210,7 +1210,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 >* 在文件片段中，無法對動態內容 (例如資料字典元素值或變數值) 進行搜尋。
 
 
-#### Forms經理 {#forms-manager-2}
+#### Forms Manager {#forms-manager-2}
 
 * 在 AEM 6.2 上套用 CFP6 後，無法編輯調適型表單的 XML 結構屬性。CQ-4219684 的 Hotfix
 * 重新啟動伺服器時，沒有啟動 AEM Forms Manager 核心套件組合的所有服務。CQ-4217014 的 Hotfix
@@ -1494,7 +1494,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 * 選取資產並按一下「開發人員工具」時，不一定會以緩慢的連線顯示動作列中的工具列動作，而且必須重新載入頁面。NPR-17568；CQ-108365 的 Hotfix
 * 動作列應更新為使用兩個容器：coral-actionbar-primary 和 coral-actionbar-secondary，而非 coral-actionbar-container。NPR-17591；GRANITE-15225 的 Hotfix
 
-### 按需移動 {#mobile-on-demand-2}
+### Mobile-on-demand {#mobile-on-demand-2}
 
 * 擁有 AEM Mobile 應用程式「唯讀」權限的使用者，無法從 AEM Mobile 的「內容管理」頁面預覽內容。NPR-17390；CQ-4209690 的 Hotfix
 
@@ -1526,7 +1526,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 * 編輯信函時，在文字模組中新增的變數不會顯示在「資料繫結」面板中。NPR-17940
 * HTML 提交動作使用 POST 方法時，通信管理 UI 不會啟動。NPR-17595
 
-**Forms經理**
+**Forms Manager**
 
 * 在針對 AB 測試設定的調適型表單中，按一下「開始 AB 測試」時不會開始測試，且會擲回瀏覽器控制台錯誤。NPR-17838
 
@@ -1830,14 +1830,14 @@ CFP3 的關鍵重點為：
 
 **處理程序管理 - HTML 工作區**
 
-* 保護表單預填服務不會因「file://」、「http://」和「ftp://」等通訊協定而遭到未經授權的存取。如需詳細資訊[「使用 Configuration Manager 設定預填服務」](https://helpx.adobe.com/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)。NPR-15434
+* 保護表單預填服務不會因「file://」、「http://」和「ftp://」等通訊協定而遭到未經授權的存取。如需詳細資訊[「使用 Configuration Manager 設定預填服務」](https://helpx.adobe.com/tw/aem-forms/6-2/prepopulate-adaptive-form-fields.html#main-pars_header_944235754)。NPR-15434
 
 **使用者管理 **
 
 * AEM 6.2 伺服器上的 SAML 登入畫面會顯示不適用的版本 (6.1.0)。NPR-13825
 * 在 AEM Forms 設定為「單一登入」(Kerberos) 驗證時，如果使用者在嘗試登入時驗證失敗，則會傳回錯誤代碼「404」。只有重新整理頁面後才會將使用者重新導向至登入網站。NPR-15015
 
-#### Forms設計師 {#forms-designer-1}
+#### Forms Designer {#forms-designer-1}
 
 * 在 AEM Forms Designer 中無法將「字典拼字檢查」的「表單地區設定」變更為「法文 (加拿大)」。\
    NPR-15896
@@ -2156,7 +2156,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 
 * 使用列表機手送紙匣來列印文件時，`GeneratePrintedOutput` 函數未啟用從右方手送紙匣取紙。NPR-14079
 
-#### Forms設計師 {#forms-designer-2}
+#### Forms Designer {#forms-designer-2}
 
 * 使用者執行「表單地區設定」選為「法文 (加拿大)」的「拼字檢查」公用程式時，Forms Designer 會當機。NPR-13740
 * 使用者為表單欄位選取計算事件或驗證事件，並將語言變更為 JavaScript，再於&#x200B;**[!UICONTROL 指令碼編輯器]**&#x200B;視窗中輸入 `this.` 時，Forms Designer 會當機。NPR-12974
@@ -2273,13 +2273,13 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 | **連線** | **連線逾時&#42;** | **通訊端逾時&#42;&#42;** |
 |---|---|---|
-| DTM | 30000ms | 30000毫秒 |
-| 分析 | 30000毫秒 | 30000毫秒 |
-| 目標 | 60000ms | 30000毫秒 |
-| Search&amp;Promote | 30000毫秒 | 30000毫秒 |
+| DTM | 30000ms | 30000ms |
+| 分析 | 30000ms | 30000ms |
+| 目標 | 60000ms | 30000ms |
+| Search&amp;Promote | 30000ms | 30000ms |
 
-* **連接超時&#42;** — 在建立連接之前超時（毫秒）。 逾時值零會解譯為無限逾時。
-* **套接字超時&#42;&#42;** — 等待資料或兩個連續資料包之間的最長非活動時間超時（毫秒）。
+* **連線逾時&#42;** - 建立連線前的逾時 (毫秒)。逾時值零會解譯為無限逾時。
+* **通訊端逾時&#42;&#42;** - 等待資料或兩個連續資料封包之間最長閒置時間的逾時 (毫秒)。
 
 >[!NOTE]
 >
@@ -2331,7 +2331,7 @@ CFP12.1 中包含 NPR-21355。若要安裝 CFP12.1 或更新版本，請執行�
 
 1. 為位於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/ 的 jsafeFIPS.jar、jsafeJCEFIPS.jar 和 certjFIPS.jar 檔案建立備份，並從上述目錄中刪除檔案。
 
-   請聯絡 [Adobe 支援](https://helpx.adobe.com/marketing-cloud/contact-support.html)以取得新的 JAR 檔案。將向 [Adobe 支援](https://helpx.adobe.com/marketing-cloud/contact-support.html)取得的 JAR 檔案放置於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+   請聯絡 [Adobe 支援](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)以取得新的 JAR 檔案。將向 [Adobe 支援](https://helpx.adobe.com/tw/marketing-cloud/contact-support.html)取得的 JAR 檔案放置於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. (僅限 Windows) 修改 `[AEM_Forms_Installation_directory]/jboss/standalone.conf.bat` 或 `domain.conf.bat` 設定檔：
 
