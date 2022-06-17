@@ -3,15 +3,15 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 75f742e3caa864803ddbbc47cc43fae4cbe52a4a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 持續為使用本產品 [!DNL Cloud Service]、託管服務和內部部署產品的使用者提供新功能並增強現有功能，以及錯誤修正。本文章列有 [!DNL Experience Manager] 即將發行的版本。
+[!DNL Adobe Experience Manager] 持續為使用本產品 [!DNL Cloud Service]、託管服務和內部部署產品的使用者提供新功能並增強現有功能，以及錯誤修正。 本文章列有 [!DNL Experience Manager] 即將發行的版本。
 
 >[!NOTE]
 >
@@ -19,33 +19,33 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hant)通常遵循新功能的每月發行節奏。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行功能版本如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hant)通常遵循新功能的每月發行節奏。 [!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行功能版本如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.6.0 | 2022.6.0 | 功能版本 | 2022 年 6 月 30 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | 功能版本 | 2022年7月28日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 功能版本 | 2022年8月25日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.7.0 | 2022.7.0 | 功能版本 | 2022 年 7 月 28 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.8.0 | 2022.8.0 | 功能版本 | 2022 年 8 月 25 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.9.0 | 2022.9.0 | 功能版本 | 2022 年 9 月 29 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能版本 | 2022年10月27日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | 功能版本 | 2022年11月17日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能版本 | 2022 年 10 月 27 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.11.0 | 2022.11.0 | 功能版本 | 2022 年 11 月 17 日 |
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中還以維護版本的形式提供關鍵錯誤和安全修復，相應的維護更新通常每週進行一次。
 
 ## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
 
-針對受支援 [!DNL Experience Manager] 內部部署和託管服務的新功能、增強功能和錯誤修正，產品更新會透過每季的 Service Pack 和 Cumulative Fix Pack (CFP) 提供。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
+針對受支援 [!DNL Experience Manager] 內部部署和託管服務的新功能、增強功能和錯誤修正，產品更新會透過每季的 Service Pack 和 Cumulative Fix Pack (CFP) 提供。 如此可透過頻繁發行讓您更快採用產品更新。 即將發行的產品更新排程如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant)。
+[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。 這些包括新功能、增強功能和錯誤修正。 最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant)。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 2022 年 2 月 24 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | 服務包 | 2022 年 5 月 26 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | 服務包 | 2022 年 8 月 25 日 |
-| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | 服務包 | 2022 年 11 月 24 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 2022 年 5 月 26 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 2022 年 8 月 25 日 |
+| [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 2022 年 11 月 24 日 |
 
 
 >[!NOTE]
