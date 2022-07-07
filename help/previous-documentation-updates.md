@@ -4,9 +4,9 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: d984db863b24ced14834c437b76fea80774b17d8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '3632'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -156,7 +156,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 7 月 03 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
@@ -302,7 +302,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 4 月 04 日</td> 
    <td>install-aem-forms-add-on-package</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 4 (6.4.4.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 2 月 22 日</td> 
@@ -317,7 +317,7 @@ ht-degree: 99%
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-core-components/using/introduction.html?lang=zh-Hant">核心元件</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-dispatcher/using/dispatcher.html?lang=zh-Hant">Dispatcher</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/experience-manager-htl/using/overview.html?lang=zh-Hant">HTL</a></li> 
-     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hant">雲管理器</a></li> 
+     <li><a href="https://experienceleague.adobe.com/docs/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html?lang=zh-Hant">Cloud Manager</a></li> 
      <li><a href="https://experienceleague.adobe.com/docs/exc/using/overview.html?lang=zh-Hant">Adobe Experience Cloud Library</a></li> 
     </ul> <p>內容與簡報中的一些改善項目相同。更令人興奮的是新功能是，您可以透過提取請求來貢獻您的說明文件建議，或是透過每個頁面上的<strong>「編輯此頁面」</strong>和<strong>「登錄問題」</strong>連結來回報 GitHub 問題。歡迎您踴躍貢獻內容！</p> </td> 
   </tr>
@@ -339,7 +339,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 12 月 20 日</td> 
    <td>AEM 6.4 Service Pack 3</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html">AEM 6.4 Service Pack 3 (6.4.3.0)</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 12 月 17 日</td> 
@@ -388,7 +388,7 @@ ht-degree: 99%
   </tr>
   <tr>
    <td>2018 年 11 月 1 日</td> 
-   <td>雲管理器</td> 
+   <td>Cloud Manager</td> 
    <td>Cloud Manager 2018.9.0 版新增對以 Adobe I/O 為基礎的 API (包括 Events) 的支援，以便將 Cloud Manager 的 CI/CD 管道與其他系統整合。同時也開始在 React 中重寫 UI 層。如需詳細資訊，請參閱 <a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-manager/using/release-notes/release-notes-2018-9-0.html">2018.9.0 發行說明</a>。</td> 
   </tr>
   <tr>
@@ -414,7 +414,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 10 月 3 日</td> 
    <td>AEM 6.4 Service Pack 2</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4 Service Pack 2</a> (6.4.2.0) 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 9 月 18 日</td> 
@@ -423,7 +423,7 @@ ht-degree: 99%
   </tr>
   <tr>
    <td>2018 年 9 月 12 日</td> 
-   <td>雲管理器</td> 
+   <td>Cloud Manager</td> 
    <td>自動擴充功能是透過生產環境中 Dispatcher/Publish 區段的橫向擴充功能來啟用，用於支援突然增加的負載、磁碟區、存取和其他已定義的監控量度。如需詳細資訊，請參閱 <a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-manager/using/release-notes/release-notes-2018-7-0.html">2018.7.0 發行說明</a>。</td> 
   </tr>
   <tr>
@@ -434,12 +434,12 @@ ht-degree: 99%
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>RTF 編輯器<br /> </td> 
-   <td>以更好的結構改寫<a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">設定 RTE 文章</a>，新增一些遺漏的資訊、新增工作流程圖例，以及分割長篇文章。</td> 
+   <td>以更好的結構改寫<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/operations/rich-text-editor.html" target="_blank">設定 RTE 文章</a>，新增一些遺漏的資訊、新增工作流程圖例，以及分割長篇文章。</td> 
   </tr>
   <tr>
    <td>2018 年 8 月 24 日</td> 
    <td>單頁應用程式<br /> </td> 
-   <td>更新並延伸適用於 AEM SPA Editor 的<a href="https://helpx.adobe.com/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">單頁應用程式 (SPA)</a> 開發說明文件。<br /> </td> 
+   <td>更新並延伸適用於 AEM SPA Editor 的<a href="https://helpx.adobe.com/tw/experience-manager/6-4/sites/developing/user-guide.html?topic=/experience-manager/6-4/sites/developing/morehelp/spa.ug.js">單頁應用程式 (SPA)</a> 開發說明文件。<br /> </td> 
   </tr>
   <tr>
    <td>2018 年 8 月 16 日</td> 
@@ -474,7 +474,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 7 月 5 日</td> 
    <td>MC-CC 整合<br /> </td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/administering/integration/configure-assets-cc-integration.html">「設定 AEM Assets 與 Marketing Cloud 和 Creative Cloud 的整合」文章</a>中的錯誤修正和編輯改善。</td> 
   </tr>
   <tr>
    <td>2018 年 7 月 5 日</td> 
@@ -489,7 +489,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 6 月 29 日</td> 
    <td>AEM 6.4.1.0</td> 
-   <td><a href="https://docs.adobe.com/content/help/en/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> 已推出。</td> 
+   <td><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/release-notes/sp-release-notes.html" target="_blank">AEM 6.4.1.0</a> 已推出。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 25 日</td> 
@@ -509,11 +509,11 @@ ht-degree: 99%
   <tr>
    <td>2018 年 6 月 14 日</td> 
    <td>增強型智慧標記</td> 
-   <td>改善如何<a href="https://docs.adobe.com/content/help/en/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智慧內容服務設定資產標記</a>的說明文件。</td> 
+   <td>改善如何<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/assets/managing/config-smart-tagging.html" target="_blank">使用智慧內容服務設定資產標記</a>的說明文件。</td> 
   </tr>
   <tr>
    <td>2018 年 6 月 4 日</td> 
-   <td>雲管理器</td> 
+   <td>Cloud Manager</td> 
    <td>現在提供有關如何<a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-cloud-manager/using/introduction-to-cloud-manager.html">搭配 AEM 6.4 使用 Cloud Manager</a> 的說明文件。</td> 
   </tr>
   <tr>
@@ -555,7 +555,7 @@ ht-degree: 99%
   <tr>
    <td>2018 年 4 月 24 日<br /> </td> 
    <td>單頁應用程式<br /> </td> 
-   <td><p>單頁應用程式 (SPA) 可為網站使用者提供引人入勝的體驗。開發人員希望能使用 SPA 架構建立網站，而作者則想在 AEM 中為建立成 SPA 的網站順暢地編輯內容。</p> <p><a href="https://docs.adobe.com/content/help/en/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 製作功能</a> (目前是技術預覽) 提供全方位的解決方案，可支援 AEM 中的 SPA。</p> </td> 
+   <td><p>單頁應用程式 (SPA) 可為網站使用者提供引人入勝的體驗。開發人員希望能使用 SPA 架構建立網站，而作者則想在 AEM 中為建立成 SPA 的網站順暢地編輯內容。</p> <p><a href="https://docs.adobe.com/content/help/zh-Hant/experience-manager-64/developing/headless/spas/spa-walkthrough.html">SPA 製作功能</a> (目前是技術預覽) 提供全方位的解決方案，可支援 AEM 中的 SPA。</p> </td> 
   </tr>
   <tr>
    <td>2018 年 4 月 4 日</td> 
@@ -571,7 +571,7 @@ ht-degree: 99%
 
 ## 舊版內容 {#legacy-content}
 
-截至2017年10月24日，舊版文AEM檔已移至位於 [舊版本的Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html?lang=zh-Hant)。
+自 2017 年 10 月 24 日起，AEM 文件的舊有版本已移動至新位置：[Adobe Experience Manager、CQ 和 CRX 較舊版本](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)。
 
 下列版本已移動位置：
 
