@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: e7a4a7baf9804714495629ebf7bf03664d7faedc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '347'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 93%
 
 >[!NOTE]
 >
->本文中提供的以下日期和藍圖更新僅供參考，隨時可能更改。
+>本文章提供的以下日期和藍圖更新僅供參考，隨時可能更改。
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
