@@ -6,7 +6,7 @@ exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 6848b01d5463092d4ca4b0f51e8bbf5cf10e3a79
 workflow-type: tm+mt
 source-wordcount: '13195'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -53,13 +53,13 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
       <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.772/">AEM Forms 用戶端 SDK</a> </li>
       <br>
 
-    &lt;br>&lt;b>Forms Designer&lt;/b>
-    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_English_Cumulative_QF.msp&quot;>英語語言安裝程式&lt;/a> &lt;/li>
-    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_French_Cumulative_QF.msp&quot;>法語語言安裝程式&lt;/a> &lt;/li>
-    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp&quot;>德語安裝程式&lt;/a> &lt;/li>
-    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp&quot;>日文語言安裝程式&lt;/a> &lt;/li>
+    &lt;br>&lt;b>Forms Designer&lt;/b>&lt;/br>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_English_Cumulative_QF.msp&quot;>英文安裝程式&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_French_Cumulative_QF.msp&quot;>法文安裝程式&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_German_Cumulative_QF.msp&quot;>德文安裝程式&lt;/a> &lt;/li>
+    &lt;li>&lt;a href=&quot;https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/650-033/Designer6.5.0_Japanese_Cumulative_QF.msp&quot;>日文安裝程式&lt;/a> &lt;/li>
     &lt;/ul> &lt;/td>
-    &lt;td>&lt;p>AEM Forms JEE安裝程式：AEMForms-6.5.0-0052&lt;br /> &lt;p>AEM Forms附加元件套件：6.0.772&lt;/p>&lt;/p>&lt;/td>
+    &lt;td>&lt;p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0052&lt;br /> &lt;p>AEM Forms 附加元件套件：6.0.772&lt;/p>&lt;/td>
 </tr>
    <tr>
     <td>2022 年 6 月 2 日</td>
