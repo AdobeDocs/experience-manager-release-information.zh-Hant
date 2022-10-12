@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 910c642b207c0dca1ed51286fd7f99981508e159
-workflow-type: ht
-source-wordcount: '329'
-ht-degree: 100%
+source-git-commit: ba84fc0741908dd935f66887d2ef7219a5c5a64a
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,11 +35,10 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。 這些包括新功能、增強功能和錯誤修正。 最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/sp-release-notes.html?lang=zh-Hant)。
+[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。 這些包括新功能、增強功能和錯誤修正。 最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
-| [!DNL Experience Manager] 6.5 Service Pack 12 | 6.5.12.0 | Service Pack | 2022 年 2 月 24 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 13 | 6.5.13.0 | Service Pack | 2022 年 5 月 26 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 14 | 6.5.14.0 | Service Pack | 2022 年 8 月 25 日 |
 | [!DNL Experience Manager] 6.5 Service Pack 15 | 6.5.15.0 | Service Pack | 2022 年 11 月 24 日 |
