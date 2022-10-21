@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9e7e31227e5f4a460552a844ad90c1270db8c6f5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '322'
 ht-degree: 100%
 
@@ -35,7 +35,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。
+[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant)。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
