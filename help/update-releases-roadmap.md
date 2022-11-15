@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 2b1db318447c7de771ac734403c59c69f1163f0a
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '346'
 ht-degree: 100%
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html?lang=zh-Hant)通常遵循新功能的每月發行節奏。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行功能版本如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html)通常遵循新功能的每月發行節奏。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行功能版本如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
