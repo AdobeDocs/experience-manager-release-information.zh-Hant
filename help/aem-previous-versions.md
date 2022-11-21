@@ -1,21 +1,21 @@
 ---
-title: 下載舊版AEM、CQ和CRX檔案
-description: 下載舊版Adobe Experience Manager、CQ和CRX的檔案套件。
+title: 下載舊版 AEM、CQ 和 CRX 說明文件
+description: 下載舊版 Adobe Experience Manager、CQ 和 CRX 的說明文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: bb959aa724d80a0c66ec0922214206809ea68904
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '836'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
-# 舊版 [!DNL Adobe Experience Manager]、CQ和CRX檔案 {#older-versions-aem-cq-crx}
+# 舊版 [!DNL Adobe Experience Manager]、CQ 和 CRX 說明文件 {#older-versions-aem-cq-crx}
 
-尋找舊版AEM、CQ和CRX的舊版說明指南。
+尋找舊版 AEM、CQ 和 CRX 的先前說明指南。
 
 ## 舊版 [!DNL Experience Manager] 說明文件 {#older-version-aem-documentation}
 
-版本 [!DNL Adobe Experience Manager]、本頁所列的CQ和CRX已終止服務，不再由Adobe正式販售。 您可自助使用這些較舊版本的最新版本官方說明文件。建議您升級至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
+本頁所列的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已終止服務，Adobe 不再正式販售。您可自助使用這些較舊版本的最新版本官方說明文件。建議您升級至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)。
 
 >[!NOTE]
 >
