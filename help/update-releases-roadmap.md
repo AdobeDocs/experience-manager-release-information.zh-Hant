@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 9925f351b2a2c379ee0ba31c360d553e6902adcf
+source-git-commit: c5de5f12b4358d647c468a4a910f38dbe6c3d9b4
 workflow-type: ht
-source-wordcount: '377'
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
@@ -31,16 +31,6 @@ ht-degree: 100%
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 功能版本 | 2023 年 5 月 25 日 |
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中還以維護版本的形式提供關鍵錯誤和安全修復，相應的維護更新通常每週進行一次。
-
->[!CAUTION]
->
->**規劃的維護排除期**
->
-> 以下時間範圍內不會執行自動 AEMaaCS 維護，開始和結束時間為歐洲中部時間午夜 (00:00)：
->
->* 11 月 21 日星期一至 12 月 12 日星期一
->* 12 月 19 日星期一至 1 月 3 日星期二
-
 
 ## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
 
