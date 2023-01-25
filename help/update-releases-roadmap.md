@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: ea146055aa89a8b69511fe0175c7a2bdac13be64
+source-git-commit: b6c0c9c1ab739d32d6c8946b01dc33ef189f5f8e
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 80%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -24,7 +24,7 @@ ht-degree: 80%
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能啟動 | 2022 年 11 月 10 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能啟動 | 2023 年 1 月 25 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能啟動 | 2023 年 2 月 2 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 功能啟動 | 2023 年 2 月 23 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 功能啟動 | 2023 年 3 月 30 日 |
 | [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 功能啟動 | 2023 年 4 月 27 日 |
