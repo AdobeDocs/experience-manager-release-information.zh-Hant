@@ -4,8 +4,8 @@ description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b6c0c9c1ab739d32d6c8946b01dc33ef189f5f8e
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '346'
+ht-degree: 100%
 
 ---
 
@@ -19,18 +19,18 @@ ht-degree: 0%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 新功能通常會鎖定每月的發行頻率。 即將啟用的功能 [!DNL Experience Manager] as a [!DNL Cloud Service]計畫如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 通常以新功能的每月發行節奏為目標。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將到來的功能啟用如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能啟動 | 2022 年 11 月 10 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能啟動 | 2023 年 2 月 2 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 功能啟動 | 2023 年 2 月 23 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 功能啟動 | 2023 年 3 月 30 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 功能啟動 | 2023 年 4 月 27 日 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 功能啟動 | 2023 年 5 月 25 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2022.10.0 | 2022.10.0 | 功能啟用 | 2022 年 11 月 10 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.1.0 | 2023.1.0 | 功能啟用 | 2023 年 2 月 2 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.2.0 | 2023.2.0 | 功能啟用 | 2023 年 2 月 23 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.3.0 | 2023.3.0 | 功能啟用 | 2023 年 3 月 30 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.4.0 | 2023.4.0 | 功能啟用 | 2023 年 4 月 27 日 |
+| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.5.0 | 2023.5.0 | 功能啟用 | 2023 年 5 月 25 日 |
 
-除了功能發行外，還可在 [!DNL Experience Manager] as a [!DNL Cloud Service] 以維護版本的形式，並且通常在更高頻率上進行相應的維護更新。
+除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中還以維護版本的形式提供關鍵錯誤和安全修正，對應的維護更新通常發生頻率較高。
 
 ## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
 
