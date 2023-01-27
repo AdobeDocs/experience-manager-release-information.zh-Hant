@@ -53,7 +53,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.4 {#aem64}
 
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是[!DNL Experience Manager] 6.4 的最後一版 CFP。若要了解關於最新版本 CFP 的詳細資訊，請參閱「[[!DNL Experience Manager] 6.4 Cumulative Fix Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hant)」。
+[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是[!DNL Experience Manager] 6.4 的最後一版 CFP。若要了解關於最新版本 CFP 的詳細資訊，請參閱 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hant)。
 
 >[!MORELIKETHIS]
 >
