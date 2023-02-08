@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5d40d0382bf4c504de7a2d934276e2222faa0561
+source-git-commit: f0b0900828f9728871ab4acc28d778b845e0d559
 workflow-type: tm+mt
-source-wordcount: '346'
-ht-degree: 100%
+source-wordcount: '345'
+ht-degree: 95%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 通常以新功能的每月發行節奏為目標。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將到來的功能啟用如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 通常以新功能的每月發行節奏為目標。即將啟用的功能 [!DNL Experience Manager] as a [!DNL Cloud Service] 計畫如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
@@ -32,7 +32,7 @@ ht-degree: 100%
 
 除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中還以維護版本的形式提供關鍵錯誤和安全修正，對應的維護更新通常發生頻率較高。
 
-## [!DNL Experience Manager] 內部部署和託管服務 {#aem-on-prem-managed-services}
+## [!DNL Experience Manager] 內部部署和Managed Services {#aem-on-prem-managed-services}
 
 針對受支援 [!DNL Experience Manager] 內部部署和託管服務的新功能、增強功能和錯誤修正，產品更新會透過每季的 Service Pack 和 Cumulative Fix Pack (CFP) 提供。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
 
