@@ -4,9 +4,9 @@ description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 7df5ca957b710be1ed37a90fd2b0dfefdc4e38d4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '14217'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
     <td><strong>組建版本</strong></td>
    </tr>
    <tr>
-    <td>2023年3月2日</td>
+    <td>2023 年 3 月 02 日</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant">適用於 AEM 6.5.16.0 的 AEM Forms Service Pack 16 Forms 附加元件套件</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant">AEM 6.5.16.0</a></td>
     <td>
