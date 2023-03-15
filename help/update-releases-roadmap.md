@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 05652027b9a88d9aa530d25b6a88f75c1646f310
+source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '344'
+ht-degree: 89%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/release-notes/home.html) 通常以新功能的每月發行節奏為目標。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將推出的功能啟用規劃如下。
+[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html?lang=zh-Hant) 通常以新功能的每月發行節奏為目標。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將推出的功能啟用規劃如下。
 
 | 發行 | 版本 | 類型 | 計劃 |
 |---|---|---|---|
@@ -33,7 +33,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
-針對受支援 [!DNL Experience Manager] 內部部署和 Managed Services 的新功能、增強功能和錯誤修正，產品更新會透過每季的 Service Pack 和 Cumulative Fix Pack (CFP) 提供。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
+針對支援的新功能、增強功能和錯誤修正進行產品更新 [!DNL Experience Manager] 內部部署和Managed Services會透過每季的Service Pack和Cumulative Fix Pack(CFP)提供。 如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -57,7 +57,7 @@ ht-degree: 100%
 >[!MORELIKETHIS]
 >
 >* [EOL 矩陣](https://helpx.adobe.com/tw/support/programs/eol-matrix.html)
->* [[!DNL Experience Manager] 發行與更新](https://helpx.adobe.com/tw/experience-manager/aem-releases-updates.html)
->* [[!DNL Experience Manager] 學習與支援](https://helpx.adobe.com/tw/support/experience-manager.html)
+>* [[!DNL Experience Manager] 發行與更新](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/aem-releases-updates.html?lang=en)
+>* [[!DNL Experience Manager] 學習與支援](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 >* [[!DNL Experience Manager] 更新發行工具定義](/help/update-release-vehicle-definitions.md)
 
