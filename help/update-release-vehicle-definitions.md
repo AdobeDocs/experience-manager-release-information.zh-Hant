@@ -4,9 +4,9 @@ description: 本文章詳細說明各種類型的 [!DNL Experience Manager] 版�
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '730'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 93%
 
 | 項目 | 說明 |
 |-------|------|
-| 定義 | <ul> <li> 排程發行 </li> <li> 支援發行說明中定義之特定版本的升級路徑 </li> </ul> |
+| 定義 | <ul> <li> 排程發行 </li> <li> 支援特定版本的升級路徑 (於發行說明定義) </li> </ul> |
 | 命名 | <ul> <li> 主要版本的版本編號會依公式 X+1.Y.Z 而增加。 </li> <li> 次要版本的版本號碼會依公式 X.Y+1.Z 而增加 </li> </ul> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 |
 | 包含項目 | <ul> <li> 新功能 </li> <li>  改善功能 </li> <li>  錯誤修正 </li> </ul> |
 | 文件 | <ul> <li> 說明文件入口網站會提供發行說明 </li> <li> 說明文件入口網站會提供功能、改善功能和錯誤修正的說明文件 </li> </ul> |
@@ -51,7 +51,7 @@ ht-degree: 93%
 | 包含項目 | CFP 是包含指定日期中所有元件修正的 Cumulative Fix Pack。例如，如果客戶套用 CFP3，則 CFP3 = CFP1 + CFP2。 |
 | 文件 | 說明文件入口網站提供發行說明 |
 | 頻率 | 每季 |
-| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 不具相依性。客戶不需擔心尋找/解決相依性。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 不具相依性。客戶無需尋找/解決相依性問題。CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
 | 測試等級 | 已在整合層級和回歸測試中通過 QA 驗證 |
 
 ## 覆蓋 {#overlay}
@@ -65,7 +65,7 @@ ht-degree: 93%
 | 可用性與安裝 | <ul> <li> 由[!DNL Experience Manager]客戶服務以套件形式提供  </li> <li> 不一定包含在 Service Pack 或完整版本之中 </li> </ul> |
 | 測試等級 | 通過客戶服務驗證 |
 
-## 功能套件 {#feature-pack}
+## Feature Pack {#feature-pack}
 
 | 項目 | 詳細資料 |
 |--------|-----|
@@ -77,4 +77,4 @@ ht-degree: 93%
 | 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |
 | 測試等級 | 「一般可用性」功能套件已通過 QA 驗證。 |
 
-* 1:不會以個別Hotfix的形式提供Oak修正。 然而，上述修正會包含在後續的累積 Oak Hotfix 中。如有需要，可以在最新的 COFP 之上提供診斷版本，但前提是客戶需運行最新的 COFP。診斷版本僅提供與 Hotfix 相同程度的品質保證，因此，它們提供的品質保證不如Cumulative Fix Pack、Service Pack或產品發行提供。 最終修正將與下個 CFP 一併提供。
+* 1：OAK 修正不會以單獨 Hotfix 的形式提供。然而，上述修正會包含在後續的累積 Oak Hotfix 中。如有需要，可以在最新的 COFP 之上提供診斷版本，但前提是客戶需運行最新的 COFP。診斷版本僅提供與 Hotfix 相同程度的品質保證，因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。最終修正將與下個 CFP 一併提供。
