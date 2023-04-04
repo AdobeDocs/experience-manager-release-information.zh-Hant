@@ -3,10 +3,10 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: db0847781308dbde8097a0cd8ed169b0004165ce
+source-git-commit: 14055b4a8d04f3a3e66d83579b310f7a6eac52f1
 workflow-type: tm+mt
 source-wordcount: '14264'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -18,7 +18,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
 >
 >AEM Forms 會在排定的 AEM Service Pack 和 Cumulative Fix Pack 發行日一週後，發行附加元件套件。
 
-以下清單包含截至今天發行的所有 AEM [!DNL Forms] 附加元件套件、對應的 AEM Forms 發行版本 (必備條件)、套件的下載連結，以及其他實用資訊：
+下列清單包含所有AEM [!DNL Forms] 截至今天發行的附加元件套件、對應的AEM版本（必備條件）、套件的下載連結，以及其他實用資訊。
 
 ## AEM 6.5 [!DNL Forms] 版本 {#aem-65-forms-releases}
 
