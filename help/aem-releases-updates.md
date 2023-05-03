@@ -3,10 +3,10 @@ title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 5a549a95acf4d1b78b9040411c9e1720911afeb9
-workflow-type: ht
-source-wordcount: '254'
-ht-degree: 100%
+source-git-commit: 3d078becd3165d77bb027c4d8aec040e1cf01932
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service] 每月會有新版本。因此，[!DNL Experience Manager] 將於每月持續更新並提供新功能。
+[!DNL Experience Manager]as a [!DNL Cloud Service] 通常以新功能的每月發行節奏為目標。
 
 如需了解目前/最新版本的詳細資訊，請參閱 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 現有發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
 
@@ -32,14 +32,4 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。
 
-有關目前/最新版本的詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 最新 Feature Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
-
-### [!DNL Experience Manager] 6.4 {#aem-64}
-
-[!DNL Experience Manager] 6.4 產品更新會透過每季 CFP 提供。這些包括錯誤修正。
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8 Cumulative Fix Pack 4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html?lang=zh-Hant)
-
-* [[!DNL Experience Manager] 6.4 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/sp-release-notes.html?lang=zh-Hant)
-
-* [[!DNL Experience Manager] 6.4](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/release-notes.html?lang=zh-Hant)
+有關目前/最新版本的詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 最新 Feature Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。

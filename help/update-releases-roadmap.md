@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: bbb0560ff5a2cebc0b06ba7d0c7b4041e9290113
-workflow-type: ht
-source-wordcount: '356'
-ht-degree: 100%
+source-git-commit: a6fe2531f159b29279c7fcbf9f782e1985700eee
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -51,10 +51,6 @@ ht-degree: 100%
 >[!NOTE]
 >
 >[!DNL Experience Manager] Forms 會在預定的 [!DNL Experience Manager] Service Pack 發行日期一週後發行附加元件的套件。
-
-### [!DNL Experience Manager] 6.4 {#aem64}
-
-[!DNL Experience Manager] 6.4 Service Pack 8 CFP 4 是[!DNL Experience Manager] 6.4 的最後一版 CFP。若要了解關於最新版本 CFP 的詳細資訊，請參閱 [[!DNL Experience Manager] 6.4 Cumulative Fix Pack 發行說明](https://experienceleague.adobe.com/docs/experience-manager-64/release-notes/cfp-release-notes.html)。
 
 >[!MORELIKETHIS]
 >
