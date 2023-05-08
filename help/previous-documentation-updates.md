@@ -4,9 +4,9 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '1467'
+ht-degree: 100%
 
 ---
 
@@ -237,7 +237,7 @@ ht-degree: 0%
 
 ## 舊版內容 {#legacy-content}
 
-自2023年5月1日起，舊版AEM檔案已移至 [舊版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html).
+自 2023 年 5 月 1 日起，AEM 文件的舊有版本已移動至新位置：[Adobe Experience Manager、CQ 和 CRX 較舊版本](https://experienceleague.adobe.com/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions.html)。
 
 下列版本已移動位置：
 
