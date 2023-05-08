@@ -5,7 +5,7 @@ exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b89be487ab4cc931f51223105fa91bcd9e27384c
 workflow-type: tm+mt
 source-wordcount: '828'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -41,7 +41,7 @@ ht-degree: 99%
 
 | [!DNL Experience Manager] 版本 | Software Distribution 連結 |
 |:-----------:|:--------------------------------------------------:|
-| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4檔案](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hant) |
+| [!DNL Experience Manager] 6.4 | [Adobe Experience Manager 6.4 文件](https://experienceleague.adobe.com/docs/experience-manager-64.html?lang=zh-Hant) |
 | [!DNL Experience Manager] 6.3 | [從 Software Distribution 下載 AEM-DOCS-6.3](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-3.zip) |
 | [!DNL Experience Manager] 6.2 | [從 Software Distribution 下載 AEM-DOCS-6.2](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-2.zip) |
 | [!DNL Experience Manager] 6.1 | [從 Software Distribution 下載 AEM-DOCS-6.1](https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/aem-docs/aem-docs-6-1.zip) |
