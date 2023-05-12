@@ -3,7 +3,7 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 0e41c3ca0192478b2e98ecbd6dd90fcbff226ba9
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '328'
 ht-degree: 100%
 
