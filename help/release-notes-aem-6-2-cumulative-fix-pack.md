@@ -3,7 +3,7 @@ title: AEM 6.2 Cumulative Fix Pack
 description: AEM 6.2 Cumulative Fix Pack 發行說明.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: 44bb03aeb23c2c44fa037b020c3b9c8eadfa0fb7
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '19928'
 ht-degree: 100%
 

@@ -4,7 +4,7 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 892e95b3e6aadd854900dfca8b5974e86120a765
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1467'
 ht-degree: 100%
 
