@@ -1832,14 +1832,14 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 * 安裝 AEM CFP 6.3.3.x 期間可能會出現下列錯誤和警告，且可安全地忽略：
 
-   * &#42;警告&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl掛接/META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar with-dependencies.jar引發運行時異常。
-   * &#42;錯誤&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] 等待註冊表更改完成註銷時超時。 CQ-4209974.
+   * &#42;警告&#42; [OsgiInstallerImpl] org.apache.jackrabbit.vault.packaging.impl.InstallHookProcessorImpl Hook /META-INF/vault/hooks/cloudservices-wfchangeinstallhook-0.0.2-jar-with-dependencies.jar擲回執行階段例外狀況。
+   * &#42;錯誤&#42; [OsgiInstallerImpl] com.adobe.cq.social.cq-social-jcr-provider [com.adobe.cq.social.provider.jcr.impl.SpiSocialJcrResourceProviderImpl(2174)] 等待登入變更完成解除登入逾時。 CQ-4209974.
    * org.apache.sling.engine.impl.SlingRequestProcessorImpl ServletResolver 服務遺失，無法處理請求並傳送狀態 503
    * com.day.cq.wcm.mobile.core.MobileUtil isMobileResource：無法檢查資源 [/bin/receive]，頁面管理器無法使用
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver：呼叫錯誤處理常式導致一項錯誤
    * org.apache.sling.servlets.resolver.internal.SlingServletResolver 原始錯誤 null
    * org.apache.sling.engine.impl.DefaultErrorHandler 錯誤處理常式失敗：java.io.IOException
-   * &#42;錯誤&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent ERROR(org.osgi.framework.ServiceException:服務工廠返回空值。 (元件：com.day.cq.dam.handler.standard.ps.PostScriptHandler))
+   * &#42;錯誤&#42; [FelixDispatchQueue] com.day.cq.dam.cq-dam-core FrameworkEvent錯誤(org.osgi.framework.ServiceException：服務工廠傳回null。 (元件：com.day.cq.dam.handler.standard.ps.PostScriptHandler))
 
 **Brand Portal**
 
@@ -1893,11 +1893,11 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 `a)` Principal : reference-adjustment-service\
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/&#42;/jcr：內容&quot;\
+Restrictions ： rep：glob=&quot;/&#42;/jcr：content&quot;\
 `b)` Principal : reference-adjustment-service\
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/&#42;/jcr：內容/&#42;&quot;
+Restrictions ： rep：glob=&quot;/&#42;/jcr：content/&#42;&quot;
 
 `2)` At &quot;/content/usergenerated&quot; path\
 `a)` Principal : reference-adjustment-service\
@@ -1908,11 +1908,11 @@ Privileges : jcr:write
 `a)` Principal : reference-adjustment-service\
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/&#42;/jcr：內容&quot;\
+Restrictions ： rep：glob=&quot;/&#42;/jcr：content&quot;\
 `b)` Principal : reference-adjustment-service\
 Type : Allow\
 Privileges : jcr:read , jcr:modifyProperties\
-限制：rep:glob=&quot;/&#42;/jcr：內容/&#42;&quot;
+Restrictions ： rep：glob=&quot;/&#42;/jcr：content/&#42;&quot;
 
 ## NPR-19450 所需的配置設定 {#configuration-settings-required-for-npr-2}
 
