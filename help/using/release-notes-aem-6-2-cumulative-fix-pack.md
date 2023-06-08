@@ -1,11 +1,11 @@
 ---
-title: AEM 6.2 累積修正套件
+title: AEM 6.2 Cumulative 修正套件
 description: AEM 6.2 Cumulative Fix Pack 發行說明.
 exl-id: f1c2d4ff-590b-46b5-b2b1-e2b5141f7cc0
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '19928'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -205,7 +205,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](
 * 錨點輸入欄位會出現在對話方塊上的瀏覽器可見區段中，直到最大化為止。NPR-26852：CQ-4255019 的 Hotfix
 * 複製貼上文字時會在內容片段中插入不需要的 &lt;br>。NPR-26660：CRTE-151 的 Hotfix
 * 傳統網站管理員不會針對某些頁面在右窗格中轉譯清單。NPR-27247：CQ-4251621 的 Hotfix
-* （傳統UI）嘗試移動/重新命名頁面時，會產生「移動頁面時發生錯誤」錯誤。 NPR-27179：CQ-4235907 的 Hotfix
+* (傳統 UI) 嘗試移動/重新命名頁面時，會產生「移動頁面時發生錯誤」錯誤。NPR-27179：CQ-4235907 的 Hotfix
 
 ### 整合 {#integration-2}
 
@@ -435,7 +435,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 
 #### 調適型表單 {#adaptive-forms-3}
 
-* 將AEM表單新增至parsys元件時出現「Guidelib未定義」錯誤。 NPR-24269：CQ-4244546 的 Hotfix
+* 將 AEM 表單新增至 parsys 元件時發生「Guidelib 未定義」錯誤。NPR-24269：CQ-4244546 的 Hotfix
 
 ### Forms JEE 安裝程式 {#forms-jee-installer-4}
 
@@ -467,7 +467,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 
 ### 資產 {#assets-4}
 
-* 對於Ptiff產生程式，EmbedXMP資料一律設為「作用中」。 NPR-22776：CQ-4234498 的 Hotfix
+* EmbedXMP 資料一律對 Ptiff 產生程序設為「作用中」。NPR-22776：CQ-4234498 的 Hotfix
 * 無法在多值欄位中設定多個預設值。NPR-22900：CQ-4239000 的 Hotfix
 * (Dynamic Media) 選取「動態轉譯」核取方塊時，下載的 zip 檔案會以零位元組檔案產生原始 TIFF 影像。NPR-22410：CQ-4198471 的 Hotfix
 * (觸控式 UI) 欄檢視中資產的預設上傳位置。NPR-23475：CQ-4237057 的 Hotfix
@@ -505,12 +505,12 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 
 ### 轉換 {#translation-1}
 
-* 在翻譯設定上設定「不翻譯」資產時，會建立資產語言副本。 NPR-22540：CQ-4237962 的 Hotfix
+* 在翻譯設定上將資產設定為「不翻譯」時，系統會建立資產語言副本。NPR-22540：CQ-4237962 的 Hotfix
 
 ### 使用者介面 {#user-interface-1}
 
 * 搭配連字號查詢使用 Omnisearch 時會傳回伺服器錯誤。NPR-22999：Granite-19674 的 Hotfix
-* DatePicker不支援手動設定隱藏欄位所設定的外部型別提示。 變更類型提示會出現對話錯誤。NPR-23333：Granite-21194 的 Hotfix
+* 日期挑選器不支援手動設定隱藏欄位所設定的外部類型提示。變更類型提示會出現對話錯誤。NPR-23333：Granite-21194 的 Hotfix
 
 ### WCM - Foundation 元件 {#wcm-foundation-components-2}
 
@@ -1260,7 +1260,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 * 將 ASCII/UTF-8 編碼文字檔上傳至 AEM Assets 時發生錯誤，且產生縮圖失敗。NPR-18006：CQ-4209345 的 CFP
 * 就算使用者沒有複寫存取權，也會顯示發佈動作按鈕。NPR-17353；CQ-4209269 的 Hotfix
 * 使用 min:gcc;obfuscate=true 啟用縮製時，Siteadmin 和 Miscadmin 都無法運作。NPR-18593；CQ-4209220 的 Hotfix
-* 每次重新整理畫面後，才會顯示自訂功能表專案。 NPR-18500；CQ-4213581 的 Hotfix
+* 每次重新整理畫面後，才會顯示自訂選單項目。NPR-18500；CQ-4213581 的 Hotfix
 * 將 moment.js 升級至 2.10.6。NPR-18596；Granite-11881 的 Hotfix
 * 套用 DM 巨集的權限時會中斷管理員使用者的檢視。NPR-18544；CQ-4211729 的 Hotfix
 * 對資產執行「稍後發佈」會擲回不正確的 ArgumentException。CQ-4214532
@@ -2448,6 +2448,6 @@ CFP12.1 中包含 NPR-21355。若要安裝 CFP12.1 或更新版本，請執行�
 >* [AEM 6.2 SP1 發行說明](https://docs.adobe.com/content/docs/zh-Hant/aem/6-2/release-notes/sp1.html)
 >* [AEM 6.2 發行說明](https://docs.adobe.com/docs/en/aem/6-2/release-notes.html)
 >* [AEM 產品頁面](http://www.adobe.com/tw/solutions/web-experience-management.html)
->* [AEM 6.2 檔案](https://docs.adobe.com/content/docs/zh-Hant/aem/6-2.html)
->* [Adobe 優先產品更新](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=en)
+>* [AEM 6.2 檔案](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hant)
+>* [Adobe 優先產品更新](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=zh-Hant)
 
