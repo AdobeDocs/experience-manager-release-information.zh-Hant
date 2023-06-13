@@ -496,9 +496,9 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
 * 上述 AEM Forms 附加元件套件適用於 OSGi 上的 AEM [!DNL Forms] 和 JEE 上的 AEM [!DNL Forms]。
 * 所有 AEM [!DNL Forms] 附加元件套件和快速修正程式均為累積式；也就是說，附加元件套件和快速修正包含對應版本元件的所有先前附加元件和快速修正。舉例來說，如果您安裝快速修正程式 2.4.50，其中已包含 AEM [!DNL Forms] 附加元件套件 2.4.26。
 
-   >[!NOTE]
-   >
-   >累積附加元件套件和快速修正程式表示版本的前兩個數字完全相同。
+  >[!NOTE]
+  >
+  >累積附加元件套件和快速修正程式表示版本的前兩個數字完全相同。
 
 * 務必安裝最新推出的 Service Pack/Feature Pack 附加元件。強烈建議安裝，因具安全性、效能、穩定性，以及基礎版本全面推出以來發行的重要客戶修正和增強功能。
 * 安裝 Service Pack 或從舊版 AEM 升級至更新版本時，務必安裝對應的 AEM [!DNL Forms] 附加元件套件。舉例來說，如果您從 AEM 6.1 [!DNL Forms] 附加元件套件 2.2.4 版升級至 AEM 6.1 Service Pack 1，安裝 AEM 6.1 Service Pack 1 後，請安裝 AEM [!DNL Forms] 附加元件套件 2.4.50 版。
