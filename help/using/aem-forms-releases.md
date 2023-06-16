@@ -4,9 +4,9 @@ description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: 81c18c5423b4c62a192666fa8774f754d8ff4745
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '7427'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
