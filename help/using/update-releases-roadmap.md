@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 15841ed517305f1db2d12931add81ff1ef817492
-workflow-type: ht
-source-wordcount: '372'
-ht-degree: 100%
+source-git-commit: 3c1188eba0a6a7efb252d4d0fe5152778afa4a77
+workflow-type: tm+mt
+source-wordcount: '406'
+ht-degree: 76%
 
 ---
 
@@ -19,19 +19,27 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[[!DNL Experience Manager] as a  [!DNL Cloud Service]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/home.html) 通常以新功能的每月發行節奏為目標。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將推出的功能啟用規劃如下。
+[!DNL Experience Manager] as a [!DNL Cloud Service] 新功能是透過 [每月功能啟用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)，而增強功能和錯誤修正每月提供兩次 [維護版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html).
+即將發行的版本 [!DNL Experience Manager] as a [!DNL Cloud Service] 計畫如下：
 
-| 發行 | 類型 | 計劃 | 狀態 |
+| 發行 | Event | 計劃 | 狀態 |
 |---|---|---|---|
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.6.0 | 功能啟用 | 2023 年 6 月 29 日 | 已啟用 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.7.0 | 功能啟用 | 2023 年 7 月 27 日 | 已啟用 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.8.0 | 功能啟用 | 2023 年 8 月 31 日 | 目標 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.9.0 | 功能啟用 | 2023 年 9 月 28 日 | 目標 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.10.0 | 功能啟用 | 2023 年 10 月 26 日 | 目標 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.11.0 | 功能啟用 | 2023 年 11 月 30 日 | 目標 |
-| [!DNL Experience Manager] as a [!DNL Cloud Service] 2023.12.0 | 功能啟用 | 2023 年 12 月 14 日 | 目標 |
-
-除了功能版本之外，[!DNL Experience Manager] as a [!DNL Cloud Service] 中還以[維護版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)的形式提供關鍵錯誤和安全修正，對應的維護更新通常發生頻率更高。
+| 2023.6.0版功能 | 功能啟用 | 2023 年 6 月 29 日 | 已啟用 |
+| 2023.7.0版功能 | 功能啟用 | 2023 年 7 月 27 日 | 已啟用 |
+| 維護版本 | 自動更新 | 2023年8月7-10日 | 已更新 |
+| 維護版本 | 自動更新 | 2023年8月21至24日 | 已更新 |
+| 2023.8.0版功能 | 功能啟用 | 2023 年 8 月 31 日 | 已啟用 |
+| 維護版本 | 自動更新 | 2023年9月4-7日 | 目標 |
+| 維護版本 | 自動更新 | 2023年9月18至21日 | 目標 |
+| 2023.9.0版功能 | 功能啟用 | 2023 年 9 月 28 日 | 目標 |
+| 維護版本 | 自動更新 | 2023年10月2-5日 | 目標 |
+| 維護版本 | 自動更新 | 2023年10月16至19日 | 目標 |
+| 功能版本2023.10.0 | 功能啟用 | 2023 年 10 月 26 日 | 目標 |
+| 維護版本 | 自動更新 | 2023年10月30日至11月2日 | 目標 |
+| 維護版本 | 自動更新 | 2023年11月13至16日 | 目標 |
+| 功能版本2023.11.0 | 功能啟用 | 2023 年 11 月 30 日 | 目標 |
+| 維護版本 | 自動更新 | 2023年12月11至14日 | 目標 |
+| 功能版本2023.12.0 | 功能啟用 | 2023 年 12 月 14 日 | 目標 |
 
 >[!CAUTION]
 >
@@ -54,7 +62,7 @@ ht-degree: 100%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 Service Pack 16 | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 Service Pack 17 | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已啟用 |
-| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 目標 |
+| [!DNL Experience Manager] 6.5 Service Pack 18 | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 Service Pack 19 | 6.5.19.0 | Service Pack | 2023 年 11 月 23 日 | 目標 |
 
 >[!NOTE]
