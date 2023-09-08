@@ -3,9 +3,9 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 898d2db30a9c5f9cf23032d8900a0f2062bcc2b9
+source-git-commit: d52f0dbb53889f86cc02c201532b4a3723177ae3
 workflow-type: tm+mt
-source-wordcount: '8103'
+source-wordcount: '8127'
 ht-degree: 94%
 
 ---
@@ -69,6 +69,8 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_German_Cumulative_QF.msp">德文安裝程式</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_Japanese_Cumulative_QF.msp">日文安裝程式</a> </li>
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp18/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙文安裝程式</a> </li>
+      <br><b>Hotfix</b></br>
+      <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/hotfix/Hotfix-on-SP18.zip">Hotfix-FORMS-10578</a> </li>
       </ul> 
       </td>
     <td><p>AEM Forms JEE完整安裝程式： 20230830-1-12345<br/><p>AEM Forms JEE修補程式安裝程式：aemforms-6-5-0-0069<br/><p>AEM Forms 附加元件套件：6.5.18.0</p></td>
