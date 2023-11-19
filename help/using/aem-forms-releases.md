@@ -3,9 +3,9 @@ title: AEM Forms 發行版本
 description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清單
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: f03a2ce6bef6d167e780f750c7fdb6627d088094
+source-git-commit: a0c476e652ee19ee1f6ef3f7bc8a8eab91c2da33
 workflow-type: tm+mt
-source-wordcount: '8168'
+source-wordcount: '8171'
 ht-degree: 99%
 
 ---
@@ -16,7 +16,8 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
 
 >[!NOTE]
 >
-> AEM Forms功能，例如最適化Forms，提供於 [AEM 6.5快速入門](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)，僅供探索和評估之用。 針對生產使用，取得AEM Forms的有效授權至關重要。
+>
+>最適化Forms功能，提供於 [AEM 6.5快速入門](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)，僅供探索與評估之用。 若為生產使用，您必須取得AEM Forms的有效授權，因為最適化Forms功能需要適當的授權。
 
 
 <!--
