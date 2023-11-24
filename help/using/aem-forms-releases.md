@@ -4,9 +4,9 @@ description: 包含涵蓋 AEM Forms 所有發行版本的與對應套件的清�
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
 source-git-commit: a0c476e652ee19ee1f6ef3f7bc8a8eab91c2da33
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '8171'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -17,7 +17,7 @@ Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。將�
 >[!NOTE]
 >
 >
->最適化Forms功能，提供於 [AEM 6.5快速入門](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)，僅供探索與評估之用。 若為生產使用，您必須取得AEM Forms的有效授權，因為最適化Forms功能需要適當的授權。
+>調適型表單功能 (適用於 [AEM 6.5 QuickStart](https://experienceleague.corp.adobe.com/docs/experience-manager-65/deploying/deploying/deploy.html)) 僅用於探索和評估目的。若要供生產使用，必須獲得 AEM Forms 的有效許可；調適型表單的功能需要適當許可才可使用。
 
 
 <!--
