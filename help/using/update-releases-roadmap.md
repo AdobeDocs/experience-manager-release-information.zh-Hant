@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 97cb94f05cd40bb1321712a6713b93db626948ce
-workflow-type: ht
-source-wordcount: '557'
-ht-degree: 100%
+source-git-commit: 3f2d9eaa75b0da45e55b977a578ef4b73b5269fd
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 98%
 
 ---
 
@@ -22,18 +22,24 @@ ht-degree: 100%
 [!DNL Experience Manager] as a [!DNL Cloud Service] 新功能是透過[每月功能啟用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)提供，而增強功能和錯誤修正則是透過每月兩次的[維護版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)提供。
 [!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行的版本預定如下：
 
+### 過去的版本 {#past}
+
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
-| 功能版本 [2023.8.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-8-0.html) | 功能啟用 | 2023 年 8 月 31 日 | 已啟用 |
 | 維護版本 [13323](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13323) | 自動更新 | 2023 年 9 月 1 日 | 已更新 |
 | 維護版本 [13420](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.9.0.html#release-13420) | 自動更新 | 2023 年 9 月 18-20 日 | 已更新 |
 | 功能版本 [2023.9.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-9-0.html) | 功能啟用 | 2023 年 9 月 28 日 | 已啟用 |
 | 維護版本 [13665](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13665) | 自動更新 | 2023 年 10 月 2-5 日 | 已更新 |
 | 維護版本 [13804](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.10.0.html#release-13804) | 自動更新 | 2023 年 10 月 16-19 日 | 已更新 |
-| 功能版本 [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能啟用 | 2023 年 10 月 26 日 | 已啟用 |
+| 功能版本 [2023.10.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-10-0.html) | 功能啟用 | 2023 年 10 月 26 日 | 已啟用 |
 | 維護版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023.11.0.html#release-14029) | 自動更新 | 2023 年 10 月 30 日 - 11 月 2 日 | 已更新 |
-| 維護版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自動更新 | 2023 年11月 13-16 日 | 目標 |
-| 功能版本 2023.11.0 | 功能啟用 | 2023 年 11 月 30 日 | 目標 |
+| 維護版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自動更新 | 2023 年11月 13-16 日 | 已更新 |
+| 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能啟用 | 2023 年 11 月 30 日 | 已啟用 |
+
+### 即將發行的版本 {#upcoming}
+
+| 發行 | 事件 | 計劃 | 狀態 |
+|---|---|---|---|
 | 維護版本 | 自動更新 | 2023 年 12 月 11-14 日 | 目標 |
 | 功能版本 2023.12.0 | 功能啟用 | 2023 年 12 月 14 日 | 目標 |
 | 功能版本 2024.1.0 | 功能啟用 | 2024 年 1 月 25 日 | 目標 |
