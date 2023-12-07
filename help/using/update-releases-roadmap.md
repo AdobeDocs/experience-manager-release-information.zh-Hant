@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: aa2d2b96f7539eee682d9ddb945218562068810a
+source-git-commit: 7eee7e685910e936892e110ef68ac9e6b67ab016
 workflow-type: tm+mt
-source-wordcount: '565'
-ht-degree: 98%
+source-wordcount: '522'
+ht-degree: 97%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 [!DNL Experience Manager] as a [!DNL Cloud Service] 新功能是透過[每月功能啟用](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)提供，而增強功能和錯誤修正則是透過每月兩次的[維護版本](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html)提供。
 [!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行的版本預定如下：
 
-### 過去的版本 {#past}
+### 舊版本 {#past}
 
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
@@ -36,13 +36,16 @@ ht-degree: 98%
 | 維護版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html) | 自動更新 | 2023 年11月 13-16 日 | 已更新 |
 | 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html) | 功能啟用 | 2023 年 11 月 30 日 | 已啟用 |
 
-### 即將發行的版本 {#upcoming}
+### 即將發布的版本 {#upcoming}
 
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
 | 維護版本 | 自動更新 | 2023 年 12 月 11-14 日 | 目標 |
 | 功能版本 2023.12.0 | 功能啟用 | 2023 年 12 月 14 日 | 目標 |
+| 維護版本 | 自動更新 | 2024年1月8-10日 | 目標 |
+| 維護版本 | 自動更新 | 2024年1月22至24日 | 目標 |
 | 功能版本 2024.1.0 | 功能啟用 | 2024 年 1 月 25 日 | 目標 |
+| 維護版本 | 自動更新 | 2024年2月5日至7日 | 目標 |
 | 功能版本 2024.2.0 | 功能啟用 | 2024 年 2 月 29 日 | 目標 |
 | 功能版本 2024.3.0 | 功能啟用 | 2024 年 3 月 28 日 | 目標 |
 | 功能版本 2024.4.0 | 功能啟用 | 2024 年 4 月 25 日 | 目標 |
@@ -69,7 +72,6 @@ ht-degree: 98%
 
 | 發行 | 版本 | 類型 | 計劃 | 狀態 |
 |---|---|---|---|---|
-| [!DNL Experience Manager][ 6.5 Service Pack 16](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.16.html) | 6.5.16.0 | Service Pack | 2023 年 2 月 23 日 | 已啟用 |
 | [!DNL Experience Manager][ 6.5 Service Pack 17](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.17.html) | 6.5.17.0 | Service Pack | 2023 年 5 月 25 日 | 已啟用 |
 | [!DNL Experience Manager][ 6.5 Service Pack 18](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6.5.18.html) | 6.5.18.0 | Service Pack | 2023 年 8 月 24 日 | 已啟用 |
 | [!DNL Experience Manager][ 6.5 Service Pack 19](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html) | 6.5.19.0 | Service Pack | 2023 年 11 月 30 日 | 已啟用 |
