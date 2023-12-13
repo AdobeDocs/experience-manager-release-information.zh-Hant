@@ -4,8 +4,8 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: tm+mt
-source-wordcount: '1467'
+workflow-type: ht
+source-wordcount: '1236'
 ht-degree: 100%
 
 ---
@@ -56,7 +56,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。請參閱現在應該使用的 </a>Adobe Analytics 提供的 ActivityMap 外掛程式<a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=zh-Hant" target="_blank">。 </a></p> </td> 
+   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。請參閱現在應該使用的 </a>Adobe Analytics 提供的 ActivityMap 外掛程式<a href="https://experienceleague.adobe.com/docs/analytics/analyze/activity-map/getting-started/get-started-users/activitymap-install.html?lang=zh-Hant" target="_blank">。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
