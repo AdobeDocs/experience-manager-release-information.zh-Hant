@@ -3,7 +3,7 @@ title: 先前說明文件更新內容
 description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明文件變更和更新內容。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 042bc34d6a43f3dcbac5d34588fa417cb4e6b5c0
+source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
 workflow-type: tm+mt
 source-wordcount: '1236'
 ht-degree: 98%
@@ -31,7 +31,7 @@ ht-degree: 98%
   <tr>
    <td>2019 年 12 月 12 日</td> 
    <td>AEM 6.5 Service Pack 3<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a> 現已推出。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-3.html">AEM 6.5 Service Pack 3</a> 現已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 12 日</td> 
@@ -101,7 +101,7 @@ ht-degree: 98%
   <tr>
    <td>2019 年 9 月 19 日</td> 
    <td>AEM 6.5 Service Pack 2</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> 現已推出。</td>
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-2.html">AEM 6.5 Service Pack 2 (6.5.2.0)</a> 現已推出。</td>
   </tr>
   <tr>
    <td>2019 年 9 月 9 日</td> 
@@ -156,7 +156,7 @@ ht-degree: 98%
   <tr>
    <td>2019 年 7 月 03 日</td> 
    <td>AEM 6.5 Service Pack 1</td> 
-   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
+   <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-1.html">AEM 6.5 Service Pack 1 (6.5.1.0) </a>已推出。</td> 
   </tr>
   <tr>
    <td>2019 年 6 月 25 日</td> 
