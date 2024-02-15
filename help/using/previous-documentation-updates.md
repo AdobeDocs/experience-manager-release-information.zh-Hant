@@ -4,9 +4,9 @@ description: 本頁列出  [!DNL Adobe Experience Manager] 的先前重要說明
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: afc24b365d5ab6cbc6c0b9817e35521cf15ec94b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1236'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -71,7 +71,7 @@ ht-degree: 98%
   <tr>
    <td>2019 年 10 月 1 日</td> 
    <td>安裝 JEE 版 AEM Forms </td> 
-   <td><p>新增 AEM Forms 對 Oracle 18c 資料庫驅動程式的支援。 </p> <p>平台對照表：<a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
+   <td><p>新增 AEM Forms 對 Oracle 18c 資料庫驅動程式的支援。 </p> <p>平台對照表：<a href="https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf">https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/prepare-install-single-server.pdf</a></p> <p><a href="https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf">https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/install-cluster-websphere.pdf</a></p> <p><a href="https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf">https://helpx.adobe.com/tw/content/dam/help/en/experience-manager/6-5/forms/pdf/install-single-server-websphere.pdf</a></p> <p> </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 1 日 </td> 

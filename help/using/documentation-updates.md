@@ -4,9 +4,9 @@ description: ' [!DNL Experience Manager] 說明文件新內容、更新或變更
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: d719a7bdfd6bc9a8a2daab4b3452db6047027764
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1940'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 97%
 
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
-| 2021 年 11 月 25 日 | AEM 含 Dynamic Media - 設定 | 您現在可以直接在 AEM 的 Dynamic Media 中設定「一般設定」和「發佈設定」，而無需使用 Dynamic Media 桌面應用程式。<br>請參閱[進行 Dynamic Media 一般設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html?lang=zh-Hant)和[進行影像伺服器的 Dynamic Media 發佈設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html?lang=zh-Hant)。<br>另請參閱[設定 Dynamic Media - Scene7 模式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html?lang=zh-Hant) |
+| 2021 年 11 月 25 日 | AEM 含 Dynamic Media - 設定 | 您現在可以直接在 AEM 的 Dynamic Media 中設定「一般設定」和「發佈設定」，而無需使用 Dynamic Media 桌面應用程式。<br>請參閱[進行 Dynamic Media 一般設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-general-settings.html)和[進行影像伺服器的 Dynamic Media 發佈設定](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/dm-publish-settings.html)。<br>另請參閱[設定 Dynamic Media - Scene7 模式](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/config-dms7.html) |
 | 2021 年 11 月 4 日 | AEM 含 Dynamic Media - 智慧型裁切 | 已使用最新 Adobe Sensei 服務改良影像資產的智慧型裁切與智慧型色票。 文件更新包括以下內容：<br>•「影像設定檔」中「裁切選項」對話方塊內的全新&#x200B;**[!UICONTROL 保留所有目標解析度的裁切內容]**&#x200B;選項。<br>• 當您手動重新對齊多個資產的智慧型裁切視窗或是調整其大小時，這些編輯會保留下來，即便您稍後決定重新處理這些資產。 然而，如果您在「影像設定檔」的&#x200B;**[!UICONTROL 回應式影像裁切]**&#x200B;區域中編輯寬度或/及高度，這些資產就需要重新處理。<br>• 智慧型裁切與色票支援的新影像檔案格式表格。<br>如需這些更新內容，請參閱[影像設定檔](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles.html)。 |
 | 2021 年 11 月 3 日 | 智慧型裁切視訊檢視器 API | 現在 Dynamic Media 檢視器參考指南中有提供全新[智慧型裁切視訊檢視器 API 文件](https://experienceleague.adobe.com/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference.html)。 |
 | 2020 年 12 月 2 日 | 批次集預設集 | 了解如何使用 Dynamic Media 中的批次集預設集自動建立影像集和迴轉集。請參閱[批次集預設集](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm.html)。 |
@@ -71,7 +71,7 @@ ht-degree: 97%
 | 2021 年 8 月 26 日 | [!DNL Experience Manager] 6.5 Service Pack 10 | [[!DNL Experience Manager] 6.5 Service Pack 10](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-10.html) 現已推出。 |
 | 2021 年 5 月 27 日 | [!DNL Experience Manager] 6.5 Service Pack 9 | [[!DNL Experience Manager] 6.5 Service Pack 9](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-9.html) 現已推出。 |
 | 2021 年 3 月 11 日 | [!DNL Experience Manager] 6.5 Service Pack 8 | [[!DNL Experience Manager] 6.5 Service Pack 8](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-8.html) 現已推出。 |
-| 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html?lang=zh-Hant#dynamic)。 |
+| 2020 年 11 月 25 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/accessibility-dm.html#dynamic)。 |
 | 2020 年 11 月 26 日 | Experience Manager 6.5 Service Pack 7 | [Experience Manager 6.5 Service Pack 7 ](https://experienceleague.adobe.com/docs/experience-manager-65/content/release-notes/service-pack/6-5-7.html) 現已推出。 |
 | 2020 年 9 月 3 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/invalidate-cdn-cache-dynamic-media.html) |
 | 2020 年 9 月 3 日 | 在 Dynamic Media 中使用選擇性發佈 | 您可以選擇在檔案夾層級向或從 Experience Manager 或 Dynamic Media 發佈或取消發佈資產。 您可以使用「**[!UICONTROL 管理發布]**」或「**[!UICONTROL 快速發布]**」來完成此任務，而不是僅僅依賴「**Dynamic Media 組態**」；Dynamic Media 組態的全域設定是針對您 Dynamic Media 執行個體中所有檔案夾。<br>請參閱[在 Dynamic Media 中使用選擇性發佈](https://experienceleague.adobe.com/docs/experience-manager-65/assets/dynamic/selective-publishing.html)。 |
