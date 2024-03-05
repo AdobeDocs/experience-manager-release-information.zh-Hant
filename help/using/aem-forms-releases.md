@@ -5,7 +5,7 @@ contentOwner: khsingh
 source-git-commit: 7283247283484e54f1018441def51454f0e28b23
 workflow-type: tm+mt
 source-wordcount: '2886'
-ht-degree: 98%
+ht-degree: 99%
 
 ---
 
@@ -39,7 +39,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
    </tr>
   </tr>
   <tr>
-    <td>2024年2月29日</td>
+    <td>2024 年 2 月 29 日</td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html#forms-6520">適用於 AEM 6.5.20.0 的 AEM Forms Service Pack 20 Forms 附加元件套件</a></td>
     <td><a href="https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html?lang=zh-Hant">AEM 6.5.20.0</a></td>
     <td>
@@ -71,7 +71,7 @@ The following list contains all the AEM [!DNL Forms] add-on packages released un
       <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp20_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙文安裝程式</a> </li>
       </ul> 
       </td>
-    <td><p>AEM Forms JEE修補程式安裝程式：6-5-0-0083 <br/><p>AEM Forms 附加元件套件：6.0.1180 </p></td>
+    <td><p>AEM Forms JEE 修補安裝程式：6-5-0-0083 <br/><p>AEM Forms 附加元件套件：6.0.1180 </p></td>
    </tr>
   <tr>
     <td>2023 年 12 月 15 日</td>
