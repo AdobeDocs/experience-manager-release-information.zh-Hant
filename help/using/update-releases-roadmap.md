@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 7c38fa83d5f24c4ad3d953b00e00306a4a2e70c9
-workflow-type: ht
-source-wordcount: '477'
-ht-degree: 100%
+source-git-commit: 8d7f2b64a2bb4608a916b8d2c4f55abb463caa0a
+workflow-type: tm+mt
+source-wordcount: '479'
+ht-degree: 99%
 
 ---
 
@@ -35,16 +35,16 @@ ht-degree: 100%
 | 維護版本 [14029](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hant#release-14029) | 自動更新 | 2023 年 10 月 30 日 - 11 月 2 日 | 已更新 |
 | 維護版本 [14227](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-11-0.html?lang=zh-Hant#release-14227) | 自動更新 | 2023 年11月 13-16 日 | 已更新 |
 | 功能版本 [2023.11.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-11-0.html?lang=zh-Hant) | 功能啟用 | 2023 年 11 月 30 日 | 已啟用 |
-| 維護版本 [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=zh-Hant) | 自動更新 | 2023 年 12 月 11-14 日 | 已更新 |
+| 維護版本 [14697](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2023/2023-12-0.html#release-14697) | 自動更新 | 2023 年 12 月 11-14 日 | 已更新 |
 | 功能版本 [2023.12.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/2023/release-notes-2023-12-0.html?lang=zh-Hant) | 功能啟用 | 2023 年 12 月 14 日 | 已啟用 |
 | 功能版本 [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant) | 功能啟用 | 2024 年 1 月 25 日 | 已啟用 |
+| 維護版本 [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest.html?lang=zh-Hant) | 自動更新 | 2024 年 3 月 11-13 日 | 已啟用 |
 
 ### 即將發布的版本 {#upcoming}
 
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
 | 功能版本 2024.2.0 | 功能啟用 | 2024 年 2 月 29 日 | 已取消 |
-| 維護版本 | 自動更新 | 2024 年 3 月 11-13 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 4 月 1-3 日 | 目標 |
 | 功能版本 2024.3.0 | 功能啟用 | 2024 年 4 月 4 日 | 目標 |
 | 功能版本 2024.4.0 | 功能啟用 | 2024 年 4 月 25 日 | 目標 |
