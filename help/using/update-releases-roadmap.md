@@ -2,8 +2,8 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3576fd92208fbe3db53ef9fe79a385e3138ece7c
-workflow-type: ht
+source-git-commit: c4476985bbe7dede32a748d8f7f16bcf843a055c
+workflow-type: tm+mt
 source-wordcount: '538'
 ht-degree: 100%
 
@@ -40,12 +40,12 @@ ht-degree: 100%
 | 功能版本 [2024.1.0](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html?lang=zh-Hant) | 功能啟用 | 2024 年 1 月 25 日 | 已啟用 |
 | 維護版本 [15262](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0.html?lang=zh-Hant#release-15262) | 自動更新 | 2024 年 3 月 11-13 日 | 已啟用 |
 | 維護版本 [15575](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15575) | 自動更新 | 2024 年 3 月 19-21 日 | 已啟用 |
-| 維護版本 [15787](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024 年 4 月 8-10 日 | 已啟用 |
 
 ### 即將發布的版本 {#upcoming}
 
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
+| 維護版本 [15860](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024 年 4 月 8-10 日 | 目標 |
 | 功能版本 2024.3.0 | 功能啟用 | 2024 年 4 月 11 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 4 月 22-24 日 | 目標 |
 | 功能版本 2024.4.0 | 功能啟用 | 2024 年 4 月 25 日 | 目標 |
