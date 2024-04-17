@@ -3,10 +3,10 @@ title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 [!DNL Experience Manager]as a [!DNL Cloud Service] 通常以新功能的每月發行節奏為目標。
 
-如需了解目前/最新版本的詳細資訊，請參閱 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 現有發行說明](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current.html)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
+如需了解目前/最新版本的詳細資訊，請參閱 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 現有發行說明](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
@@ -32,4 +32,4 @@ ht-degree: 100%
 
 [!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。
 
-有關目前/最新版本的詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 最新 Feature Pack](https://experienceleague.adobe.com/docs/experience-manager-65/release-notes/release-notes.html)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
+有關目前/最新版本的詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 最新 Feature Pack](https://experienceleague.adobe.com/en/docs/experience-manager-65/content/release-notes/release-notes)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。

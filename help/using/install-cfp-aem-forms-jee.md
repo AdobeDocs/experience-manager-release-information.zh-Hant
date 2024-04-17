@@ -1,12 +1,12 @@
 ---
-title: Installing Cumulative Fix Packs on AEM Forms JEE
-description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要
+title: 在 AEM Forms JEE 上安裝累積修正套件
+description: 在AEM Forms JEE上安裝和設定Cumulative Fix Pack (CFP)步驟摘要。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
-source-wordcount: '921'
-ht-degree: 100%
+source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
+workflow-type: tm+mt
+source-wordcount: '909'
+ht-degree: 93%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 100%
 
 AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
-### CQ-4208044 的其他說明 {#additional-instructions-for-cq}
+### CQ-4208044的更多說明 {#additional-instructions-for-cq}
 
 如果您搭配 Oracle 資料庫使用 AEM 6.3 [!DNL Forms JEE] 伺服器，請在部署 CFP1 後 (即在執行 Configuration Manager 後) 設定下列設定。在執行企業網域同步時，必須使用此設定來同步使用者、群組和群組成員。
 
@@ -36,7 +36,7 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
-1. 再次匯入修改的檔案，然後重新執行同步。
+1. 再次匯入修改的檔案，然後重新執行同步處理。
 
 ## 在 AEM 6.2 [!DNL  Forms JEE] 上安裝 CFP  {#install-cfp-on-aem-62-forms-jee}
 
@@ -100,8 +100,8 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
    在您複製安裝程式的硬碟上，導覽至安裝媒體或檔案夾的相關目錄：
 
-   * (Windows 32 位元)：Disk1\InstData\Windows\VM
-   * (Windows 64 位元)：Disk1\InstData\Windows_64bit\VM
+   * (`Windows 32-bit`)： `Disk1\InstData\Windows\VM`
+   * (`Windows 64-bit`)： `Disk1\InstData\Windows_64bit\VM`
 
    接著，按兩下以下名稱的檔案：
 
@@ -126,7 +126,7 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
    系統會啟動安裝精靈，引導您完成安裝。
 
 1. 在 Introduction 面板上，按一下 **[!UICONTROL Next]**。
-1. 在 Choose Install Folder 畫面中，確認針對現有安裝顯示的預設位置是否正確，或按一下 **[!UICONTROL Browse]** 以選取安裝 AEM [!DNL Forms] 的替代檔案夾，然後按一下 **[!UICONTROL Next]**。
+1. 在Choose Install Folder畫面上，確認針對現有安裝顯示的預設位置是否正確。 或者，按一下 **[!UICONTROL 瀏覽]** 以選取AEM所在的替代資料夾 [!DNL Forms] 已安裝，然後按一下 **[!UICONTROL 下一個]**.
 1. 閱讀 Quick Fix Patch Summary 資訊，然後按一下 **[!UICONTROL Next]**。
 1. 閱讀 Pre-Installation Summary 資訊，然後按一下 **[!UICONTROL Install]**。
 1. 安裝後，按一下 **[!UICONTROL Next]**，將快速修正更新套用至已安裝的檔案。
