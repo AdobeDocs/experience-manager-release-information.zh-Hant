@@ -1,9 +1,8 @@
 ---
-source-git-commit: 3a7b4464bff5b4186a21968fe5b2497cb8198100
-workflow-type: ht
-translation-type: ht
-source-wordcount: '73'
-ht-degree: 100%
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+workflow-type: tm+mt
+source-wordcount: '72'
+ht-degree: 75%
 
 ---
 # Adobe Experience Manager 版本資訊
@@ -14,4 +13,4 @@ ht-degree: 100%
 
 * [contributing.md](contributing.md) 如何協助撰寫本說明文件的概述。
 * [Guidelines.md](guidelines.md) 預期貢獻內容以及如何協助編寫說明文件的概述。
-* [code-of-conduct.md](code-of-conduct.md) 我們期望在您貢獻本說明文件專案時的行為標準概述。
+* [code-of-conduct.md](code-of-conduct.md) 當您協助撰寫本說明檔案專案時，Adobe期望的行為標準概觀。

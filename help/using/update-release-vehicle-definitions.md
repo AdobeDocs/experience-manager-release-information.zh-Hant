@@ -1,12 +1,12 @@
 ---
 title: 更新發行工具定義
-description: 本文章詳細說明各種類型的 [!DNL Experience Manager] 版本，包括完整版本、功能套件和服務套件。
+description: 本文詳細說明各種型別的 [!DNL Experience Manager] 發行版本，包括完整版本、功能套件和服務套件。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: ce1026216ccb79a3c268b3f6b24698fa3a3388dc
-workflow-type: ht
+source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+workflow-type: tm+mt
 source-wordcount: '731'
-ht-degree: 100%
+ht-degree: 95%
 
 ---
 
@@ -77,4 +77,4 @@ ht-degree: 100%
 | 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |
 | 測試等級 | 「一般可用性」功能套件已通過 QA 驗證。 |
 
-* 1：OAK 修正不會以單獨 Hotfix 的形式提供。然而，上述修正會包含在後續的累積 Oak Hotfix 中。如有需要，可以在最新的 COFP 之上提供診斷版本，但前提是客戶需運行最新的 COFP。診斷版本僅提供與 Hotfix 相同程度的品質保證，因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。最終修正將與下個 CFP 一併提供。
+* 1：OAK 修正不會以單獨 Hotfix 的形式提供。然而，上述修正會包含在後續的累積 Oak Hotfix 中。如有必要，可以提供以最新COFP為基礎的診斷。 但前提是客戶需運行最新的 COFP。診斷版本僅提供與 Hotfix 相同程度的品質保證，因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。最終修正將與下個 CFP 一併提供。
