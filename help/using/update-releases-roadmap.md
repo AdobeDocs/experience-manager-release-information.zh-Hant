@@ -2,12 +2,13 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: e8096928919b05bf86a972dcd7debbba3f0f6b59
+source-git-commit: 40be99e9ba97274e3a601b7df20d7a671eb4c88b
 workflow-type: tm+mt
 source-wordcount: '542'
-ht-degree: 96%
+ht-degree: 90%
 
 ---
+
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
@@ -60,7 +61,7 @@ ht-degree: 96%
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
-針對受支援 [!DNL Experience Manager] 內部部署和 Managed Services 的新功能、增強功能和錯誤修正，產品更新會透過每季的 Service Pack 和 Cumulative Fix Pack (CFP) 提供。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
+針對受支援的新功能、增強功能和錯誤修正的產品更新 [!DNL Experience Manager] 內部部署和Managed Services會透過每季的Service Pack和Cumulative Fix Pack (CFP)提供。 如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
