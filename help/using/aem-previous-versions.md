@@ -3,9 +3,9 @@ title: 下載舊版 AEM、CQ 和 CRX 說明文件
 description: 下載舊版 Adobe Experience Manager、CQ 和 CRX 的說明文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '570'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 99%
 
 ### 安裝之前 {#before-installation}
 
-下載套件前，請先決定要使用內容的受眾。此決定會決定其部署方式：
+下載套件前，請先決定要使用內容的對象。此決定會決定其部署方式：
 
 * 開發人員可在本機安裝，以供快速參考。
 * 若為更廣泛的組織說明文件需求，建議將此套件部署在內部可存取、非生產的 AEM Author 執行個體上。
@@ -36,7 +36,7 @@ ht-degree: 99%
 
 需要有效的 Adobe ID：
 
-* 如果您沒有 Adobe ID，可在 https://www.adobe.com/ 建立 Adobe ID
+* 如果您沒有 Adobe ID，可在 https://www.adobe.com/tw/ 建立 Adobe ID
 如果您需要建立或管理 Adobe ID 的協助，[請參閱這份指南](https://helpx.adobe.com/tw/manage-account.html)
 
 | [!DNL Experience Manager] 版本 | Software Distribution 連結 |
@@ -92,7 +92,7 @@ ht-degree: 99%
 
 1. 在套件管理程式 UI 中，找到該套件並選取&#x200B;**[!UICONTROL 安裝]**。
 
-1. 在確認對話方塊中，再次選取&#x200B;**[!UICONTROL 安裝]**。安裝需要幾分鐘時間。
+1. 在確認對話框中，再次選取&#x200B;**[!UICONTROL 安裝]**。安裝需要幾分鐘時間。
 
 1. 在網頁瀏覽器中，啟動說明文件頁面。以 AEM 5.6.1 當作範例，URL 會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 

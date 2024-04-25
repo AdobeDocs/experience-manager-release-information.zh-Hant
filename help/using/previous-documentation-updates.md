@@ -1,16 +1,16 @@
 ---
-title: 先前說明文件更新內容
-description: 進一步瞭解先前的重要檔案變更和更新 [!DNL Adobe Experience Manager].
+title: 先前文件更新
+description: 了解更多關於  [!DNL Adobe Experience Manager] 的先前重要說明文件變更和更新內容。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
 source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1228'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
-# 先前說明文件更新內容{#previous-documentation-updates}
+# 先前文件更新{#previous-documentation-updates}
 
 本頁列出 [!DNL Adobe Experience Manager] 的先前重要說明文件變更和更新內容。您可以在此處查看[最新的說明文件更新內容](documentation-updates.md)。
 
@@ -46,12 +46,12 @@ ht-degree: 82%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>AEM 專案原型<br /> </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM專案原型</a> 建立Adobe Experience Manager專案，作為您專屬AEM專案的起點。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-core-components/using/developing/archetype/overview">AEM 專案原型</a>可建立 Adobe Experience Manager 專案，以作為您專屬 AEM 專案的起點。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 體驗管理<br /> </td> 
-   <td>的功能 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">遠端內容轉譯器</a>已經以檔案說明用於在伺服器端轉譯單頁應用程式。<br /> </td> 
+   <td>已經以文件說明用於在伺服器端轉譯單頁應用程式的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-ssr">遠端內容轉譯器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 11 日</td> 
@@ -76,7 +76,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 10 月 1 日 </td> 
    <td>AEM Screens 專案的最佳實務指南</td> 
-   <td><p>本新指南提供全方位的深入分析和實用建議，協助您構想及設計意向式客戶體驗，並在數位招牌實作中具體實現。 此外還可引導您在AEM Screens中部署數位招牌專案時，使用部分下列最佳實務來為您的企業帶來正面影響。</p> <p>如需詳細資訊，請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 專案最佳實務指南</a>。</p> </td> 
+   <td><p>這本新指南可提供全面的分析見解和實用建議，幫助您想像、設計並將特別的客戶體驗引入您的數位看板實施中。此指南還可指引您在 AEM Screens 中部署數位看板專案時，如何使用需遵守的一些最佳實務並對您的業務產生正面影響。</p> <p>如需詳細資訊，請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens 專案最佳實務指南</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -96,7 +96,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 9 月 25 日</td> 
    <td>整合 Dynamic Media 檢視器以及 Adobe Analytics 和 Adobe Launch</td> 
-   <td><p>適用於Adobe Launch的Dynamic Media Viewers擴充功能搭配Dynamic Media Viewers 5.13，可讓Dynamic Media、Adobe Analytics和Adobe Launch的客戶使用Adobe Launch設定中Dynamic Media Viewers專屬的事件和資料。</p> <p>請參閱<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">整合 Dynamic Media 檢視器與 Adobe Analytics 和 Adobe Launch</a>。 </p> </td> 
+   <td><p>適用於 Adobe Launch 的 Dynamic Media 檢視器擴充功能及 Dynamic Media 檢視器 5.13 版，可讓 Dynamic Media、Adobe Analytics 和 Adobe Launch 的客戶以 Adobe Launch 設定使用 Dynamic Media 檢視器專屬的事件和資料。</p> <p>請參閱<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/dynamic/tags" target="_blank">整合 Dynamic Media 檢視器與 Adobe Analytics 和 Adobe Launch</a>。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 19 日</td> 
@@ -135,13 +135,13 @@ ht-degree: 82%
   </tr>
   <tr>
    <td>2019 年 7 月 25 日</td> 
-   <td>不同授權下的AEM Assets功能</td> 
+   <td>AEM Assets 不同授權底下的功能</td> 
    <td>針對 AEM 6.5 版更新以獨立 DAM 授權和以 AEM MediaLibrary 提供的 AEM Assets <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">功能清單</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 7 月 12 日</td> 
    <td>在 Dynamic Media Classic 中上傳檔案</td> 
-   <td>Dynamic Media Classic 中的<a href="https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/upload-publish/uploading-files">「上傳工作選項」對話方塊</a>主題已重寫並更新。</td> 
+   <td>Dynamic Media Classic 中的<a href="https://experienceleague.adobe.com/en/docs/dynamic-media-classic/using/upload-publish/uploading-files">「上傳工作選項」對話框</a>主題已重寫並更新。</td> 
   </tr>
   <tr>
    <td>2019 年 7 月 08 日</td> 
@@ -166,7 +166,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 6 月 17 日<br /> </td> 
    <td>AEM Assets 與 Creative Cloud 整合</td> 
-   <td>最佳實務更新，清楚對應業務需求、Adobe解決方案產品專案和客戶使用案例。 新增資訊圖表以增加視覺吸引力。請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 整合最佳實務</a>。<br /> </td> 
+   <td>最佳實務更新，現在清楚對應業務需求、Adobe 解決方案產品項目和客戶使用案例。新增資訊圖表以增加視覺吸引力。請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/aem-cc-integration-best-practices" target="_blank">AEM Creative Cloud 整合最佳實務</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 6 月 3 日</td> 
@@ -175,7 +175,7 @@ ht-degree: 82%
   </tr>
   <tr>
    <td>2019 年 5 月 31 日</td> 
-   <td>AEM與Adobe Commerce整合 </td> 
+   <td>AEM 和 Adob​​e Commerce 整合 </td> 
    <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">商務整合架構</a>。</td> 
   </tr>
   <tr>
@@ -186,7 +186,7 @@ ht-degree: 82%
   <tr>
    <td>2019 年 5 月 14 日</td> 
    <td>檢視器參考指南</td> 
-   <td>中視訊播放器的修飾元預先載入 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">視訊</a> 和 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 檢視器現已記錄下來。</td> 
+   <td>現已透過文件說明 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-aem-assets-dmc/video/command-reference-configuration-attributes-video/r-html5-video-viewer-conf-attrib-videoplayer-preload">Video</a> 和 <a href="https://experienceleague.adobe.com/en/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/video360/command-reference-configuration-attributes-video360/r-html5-aem-video360-config-attrib-video360player-preload"><code>Video360</code></a> 檢視器中視訊播放器的修飾元預先載入。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 14 日</td> 
