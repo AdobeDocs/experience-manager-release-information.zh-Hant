@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b8d32035318004de0646e47ec4289529616db564
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '468'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 99%
 | 功能版本 [2024.3.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-3-0) | 功能啟用 | 2024 年 4 月 11 日 | 已啟用 |
 | 維護版本 [15860](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-3-0#release-15860) | 自動更新 | 2024 年 4 月 8-15 日 | 已更新 |
 | 維護版本 [15977](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-4-0#release-15977) | 自動更新 | 2024 年 4 月 20-24 日 | 已更新 |
-| 功能版本 [2024.4.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-4-0) | 功能啟用 | 2024 年 4 月 25 日 | 已啟用 |
+| 功能版本 [2024.4.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-4-0) | 功能啟用 | 2024 年 4 月 25 日 | 已啟用 |
 | 維護版本 [16145](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-5-0#release-16145) | 自動更新 | 2024 年 5 月 6-8 日 | 已更新 |
 | 維護版本 [16461](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2024 年 5 月 27 日至 6 月 3 日 | 已更新 |
 | 功能版本 [2024.5.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2024 年 5 月 30 日 | 已啟用 |
@@ -47,10 +47,10 @@ ht-degree: 99%
 | 功能版本 2024.7.0 | 功能啟用 | 2024 年 7 月 25 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 8 月 5-7 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 8 月 19-21 日 | 目標 |
-| 功能版本 2024.8.0 | 功能啟用 | 2024年8月29日 | 目標 |
+| 功能版本 2024.8.0 | 功能啟用 | 2024 年 8 月 29 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 9 月 2-4 日 | 目標 |
 | 維護版本 | 自動更新 | 2024 年 9 月 16-18 日 | 目標 |
-| 功能版本 2024.9.0 | 功能啟用 | 2024年9月26日 | 目標 |
+| 功能版本 2024.9.0 | 功能啟用 | 2024 年 9 月 26 日 | 目標 |
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
