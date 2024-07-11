@@ -4,9 +4,9 @@ type: Documentation
 git-repo: https://github.com/AdobeDocs/experience-manager-release-information.zh-Hant
 index: true
 recommendations: noDisplay
-source-git-commit: 193e6ce46e042cb01e0d7ff43e6364019ab1663f
-workflow-type: tm+mt
-source-wordcount: '109'
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: ht
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
