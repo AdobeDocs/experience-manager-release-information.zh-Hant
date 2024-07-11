@@ -3,10 +3,10 @@ title: '[!DNL Adobe Experience Manager] 版本更新'
 description: '[!DNL Adobe Experience Manager] 版本更新'
 contentOwner: AK
 exl-id: 103e1c40-364e-450d-92d3-6b952e33d47c
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
 source-wordcount: '197'
-ht-degree: 100%
+ht-degree: 83%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 100%
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
-針對 Managed Services 和內部部署產品，本文列有最 Cumulative Fix Pack 版本、最新 Service Pack 版本及主要版本，並會將您導向這些版本的說明文件。[!DNL Adobe] 建議您查看並套用最新 Service Pack，接著套用您 [!DNL Experience Manager] 版本的最新 Cumulative Fix Pack，確保部署穩定、安全且為最新狀態。
+針對Managed Services和內部部署產品，本文列有最新Cumulative Fix Pack版本、最新Service Pack版本及主要版本，並會將您導向這些版本的說明檔案。 [!DNL Adobe] 建議您查看並套用最新 Service Pack，接著套用您 [!DNL Experience Manager] 版本的最新 Cumulative Fix Pack，確保部署穩定、安全且為最新狀態。
 
 ### [!DNL Experience Manager] 6.5 {#aem-65}
 

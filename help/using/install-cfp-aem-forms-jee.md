@@ -1,12 +1,12 @@
 ---
 title: 在 AEM Forms JEE 上安裝累積修正套件
-description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要。
+description: 在AEM Forms JEE上安裝和設定Cumulative Fix Pack (CFP)的步驟摘要。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 437dad5fffe71592b6f9f9b4099a253e3a55b0c8
-workflow-type: ht
-source-wordcount: '909'
-ht-degree: 100%
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+workflow-type: tm+mt
+source-wordcount: '905'
+ht-degree: 91%
 
 ---
 
@@ -27,12 +27,12 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 ### CQ-4208044 的更多說明 {#additional-instructions-for-cq}
 
-如果您搭配 Oracle 資料庫使用 AEM 6.3 [!DNL Forms JEE] 伺服器，請在部署 CFP1 後 (即在執行 Configuration Manager 後) 設定下列設定。在執行企業網域同步時，必須使用此設定來同步使用者、群組和群組成員。
+若使用AEM 6.3 [!DNL Forms JEE] 伺服器與Oracle資料庫，請在部署CFP1後（即在執行Configuration Manager後）設定下列設定。 在執行企業網域同步時，必須使用此設定來同步使用者、群組和群組成員。
 
 1. 登入 **管理員** UI。
 1. 導覽至 **[!UICONTROL 設定]** > **[!UICONTROL 使用者管理]** > **[!UICONTROL 設定]** > **[!UICONTROL 匯入與匯出設定檔]**
 1. 匯出 config.xml 檔案。
-1. 在 *config.xml* 修改網域設定中的「`groupMemberDBQueryBatchSize`」項目。範例項目：
+1. 修改「」的專案`groupMemberDBQueryBatchSize`&quot;，位於您的網域設定下 *config.xml*. 範例項目：
 
    &lt;entry key=&quot;groupMemberDBQueryBatchSize&quot; value=&quot;999&quot;/>
 
@@ -75,19 +75,19 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
 1. 若要將所有服務操作的逾時設定為 600 秒：
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.all-component.timeout=600`&quot;
 
 1. 若要將 `DesigntimeService` 操作值逾時設定為 500 秒，請使用：
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.timeout=500`&quot;
 
 1. 若要將 `DesigntimeService's previewLCA` 操作值逾時設定為 700 秒，請使用：
 
-   set `"JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.DesigntimeService.previewLCA.timeout=700`&quot;
 
 1. 若要將 `DSC operations` (例如載入和安裝) 設定為 600 秒，請使用：
 
-   set &quot; `JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
+   set &quot;`JAVA_OPTS=%JAVA_OPTS% -Dadobe.component.registry.timeout=600`&quot;
 
 ## 安裝與設定 AEM [!DNL Forms JEE] {#install-and-configure-aem-forms-jee}
 
@@ -98,7 +98,7 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
    **Windows**
 
-   在您複製安裝程式的硬碟上，導覽至安裝媒體或檔案夾的相關目錄：
+   導覽至安裝媒體上的目錄，或您複製安裝程式的資料夾。
 
    * (`Windows 32-bit`)：`Disk1\InstData\Windows\VM`
    * (`Windows 64-bit`)：`Disk1\InstData\Windows_64bit\VM`
@@ -113,8 +113,8 @@ DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如
 
    導覽至相關目錄：
 
-   * (Linux®)：Disk1/InstData/Linux/ NoVM
-   * (Solaris™)：Disk1/InstData/Solaris/ NoVM
+   * (Linux®)：Disk1/InstData/Linux/NoVM
+   * (Solaris™)：Disk1/InstData/Solaris/NoVM
    * (AIX®)：Disk1/InstData/AIX/VM
 
    在命令提示字元輸入：

@@ -1,16 +1,16 @@
 ---
-source-git-commit: 125bfbeb881fb86097a609d198098585f6212570
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 43%
+source-wordcount: '177'
+ht-degree: 100%
 
 ---
 # MIT 授權
 
 © Copyright 2021 Adobe. All rights reserved.
 
-凡取得本軟體及相關檔案檔案（以下稱「軟體」）副本的任何人，均有權無償且無限制買賣本軟體。 包括但不限於使用、複製、修改、合併、發佈、散佈、轉授權及/或銷售軟體副本的權利。 此外，若要允許擁有本軟體之人員執行此作業，須受下列條件限制：
+凡是取得本軟體及相關文件 (「軟體」) 副本的任何人，此授權會免費授予權限可不受限制地使用本軟體。此授權包括但不限於使用、複製、編輯、合併、發佈、分發、再授權和/或銷售軟體副本的權利。同時，可允許這類人士對他們提供軟體的對象這樣做，但需受以下條件限制：
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+本軟體的所有副本或重要部分均應包含以上版權聲明和本授權聲明。
 
-本軟體係依「現況」提供，不含任何明示或暗示擔保。 這包括但不限於適銷性、適合特定用途及非侵權之保證。 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+本軟體依「現況」提供，無任何明示或暗示擔保。包括但不限於特定用途之適銷性、適用性和無侵權保證。在任何情況下，作者或版權所有者均不對任何索賠、損害或其他責任負責。無論是合約訴訟、侵權訴訟或其他起源於本軟體、由本軟體引起或與之相關的訴訟。或因本軟體的使用或其他交易。
