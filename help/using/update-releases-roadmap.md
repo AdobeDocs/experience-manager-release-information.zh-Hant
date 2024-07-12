@@ -12,7 +12,7 @@ ht-degree: 93%
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 持續為現有功能提供新功能和改進。 它為使用者提供錯誤修正 [!DNL Cloud Service]、Managed Services和內部部署版本。 本文章列有 [!DNL Experience Manager] 即將發行的版本。
+[!DNL Adobe Experience Manager]持續提供新功能，並改善現有功能。 它針對[!DNL Cloud Service]、Managed Services和內部部署版本的使用者進行錯誤修正。 本文章列有 [!DNL Experience Manager] 即將發行的版本。
 
 >[!NOTE]
 >

@@ -39,7 +39,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 >[!CAUTION]
 >
->在未驗證已安裝的功能包之間的相容性的情況下應用 CFP 可能會導致系統故障或自定義配置丟失，這可能需要從備份還原才能解決。
+>如果未驗證已安裝的Feature Pack之間的相容性就套用CFP，可能會導致系統失敗或遺失自訂設定，上述情況可能需要從備份復原才能解決。
 
 >[!NOTE]
 >
@@ -77,7 +77,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 >[!NOTE]
 >
->對於AEM Forms客戶，必須在安裝任何AEM服務包、累積修訂包或功能部件包后安裝AEM Forms附加軟體包。
+>針對AEM Forms客戶，必須先安裝任何AEM Service Pack、Cumulative Fix Pack或Feature Pack，才能安裝AEM Forms附加套件。
 
 >[!NOTE]
 >
@@ -93,7 +93,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP20 為重要更新，是 AEM 6.2 的最後一
 
 #### Forms - 通信 {#forms-correspondence}
 
-* 在以 PDF 格式預覽字母時，放置在主頁面處的文本字段不接受從數據標籤或根據指定的數據連結輸入的值。 NPR-29239：CQ-4266856 的 Hotfix。
+* 以PDF預覽信函時，置於主要頁面的文字欄位未遵循從資料索引標籤或根據指定的資料連結輸入的值。 NPR-29239：CQ-4266856 的 Hotfix。
 
 #### Forms -互動式通訊 {#forms-interactive-communication}
 
@@ -129,7 +129,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP19 為重要更新，包含自 [AEM 6.2 SP1](
 * LiveCopy 繼承取消無法在目標容器上正常運作。NPR-28129：CQ-4259813 的 Hotfix
 * 系統沒有針對目標元件考慮 `cq:actions`。NPR-27616：CQ-4257497 的 Hotfix
 
-* 用於中斷繼承的圖示顯示不連貫。 NPR-27671：CQ-4257779 的 Hotfix
+* 中斷繼承的圖示顯示不一致。 NPR-27671：CQ-4257779 的 Hotfix
 
 ### Felix {#felix}
 
@@ -151,7 +151,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP19 為重要更新，包含自 [AEM 6.2 SP1](
 
 * 套件管理器活動記錄應擷取至獨立的記錄檔中。NPR-27323：Granite-14866 的 Hotfix
 * 安裝完成時，會在 error.log 中顯示的標準化詞句/用語/記錄行。NPR-27835
-* Granite 軟體包外掛程式正在選擇較低版本的 org.apache.sling.i18n 的依賴項。 CQ-4263245 的 Hotfix
+* Granite套件外掛程式會選擇依存於較低版本的org.apache.sling.i18n。 CQ-4263245 的 Hotfix
 * 在 6.2SP1-CFP15 之後安裝最新 CFP 時，會刪除 com.adobe.cq.com.adobe.cq.ui.commons 套件組合。CQ-4258808 的 Hotfix
 
 ### Forms {#forms-1}
@@ -188,7 +188,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](
 
 * 新增 DAM CommandLineProcess 支援，用於終止長時間執行的程式。
 * 修正 ReplicationEventListener 中的工作階段洩漏問題。
-* 新增對核心頁面元件的重新導向支持。
+* 新增對核心頁面元件的重新導向支援。
 
 ### Assets {#assets-1}
 
@@ -202,8 +202,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP18 為重要更新，包含自 [AEM 6.2 SP1](
 * 新增對核心頁面元件的重新導向支援。 NPR-26576：CQ-110529 的 Hotfix
 * 將 Context Hub  移轉至 `jQuery` 3。NPR-26956：CQ-4255472 的 Hotfix
 * 錨點輸入欄位會出現在對話方框上的瀏覽器可見區段中，直到最大化為止。NPR-26852：CQ-4255019 的 Hotfix
-* 複製粘貼插入不需要的文本 &lt;br> 在內容片段中。 NPR-26660：CRTE-151 的 Hotfix
-* 傳統網站管理員不會在某些頁面的右窗格中呈現清單。 NPR-27247：CQ-4251621 的 Hotfix
+* 複製貼上文字時會在內容片段中插入不需要的&lt;br>。 NPR-26660：CRTE-151 的 Hotfix
+* 傳統網站管理員不會針對某些頁面在右窗格中轉譯清單。 NPR-27247：CQ-4251621 的 Hotfix
 * (傳統 UI) 嘗試移動/重新命名頁面時，會產生「移動頁面時發生錯誤」錯誤。NPR-27179：CQ-4235907 的 Hotfix
 
 ### 整合 {#integration-2}
@@ -272,7 +272,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 * (外部連結檢查程式) 無效的 https 連結會顯示為有效的連結。NPR-25541：CQ-4201333 的 Hotfix
 * (傳統 UI) 在 Live Copy 下建立獨立頁面時，頁面會建立為 Live Copy。NPR-25610：CQ-4249801 的 Hotfix
 * 啟動頁面時，與 Design Importer 元件相關聯的發佈資源發生問題。NPR-25638：CQ-102532 的 Hotfix
-* RTE RTF 编辑器工具列涵蓋選擇清單。 NPR-25165：CQ-4248948 的 Hotfix
+* RTE RTF編輯器工具列覆蓋選取清單。 NPR-25165：CQ-4248948 的 Hotfix
 * 將 Context Hub 移轉至 jQuery 3。NPR-25059：Granite-19902 的 Hotfix
 * 針對巢狀的 Parsys 元件，一律從多個可用元件中套用滿足設計的第一個元件 (最短巢狀路徑)。如需詳細資訊，請參閱[設計路徑解析](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。NPR-25250：CQ-4246276 的 Hotfix
 
@@ -301,7 +301,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 
 ### 社群 {#communities}
 
-* cq-social-as-provider 捆綁包不能與 Mongo 驅動程序 3.x 版本開始。 NPR-26271：CQ-4252710 的 Hotfix
+* cq-social-as-provider套件組合的開頭不是Mongo驅動程式3.x版。 NPR-26271：CQ-4252710 的 Hotfix
 
 ### UI - Foundation {#ui-foundation-1}
 
@@ -317,7 +317,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP17 為重要更新，包含自 [AEM 6.2 SP1](
 
 #### 調適型表單 {#adaptive-forms-2}
 
-* 從最適化表單提交數據時編碼錯誤。 NPR-25539
+* 從調適型表單提交資料時編碼錯誤。 NPR-25539
 
 #### Forms - 管理 {#forms-management}
 
@@ -367,7 +367,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * 修補 clientlib 中 jQuery 1.12.4 以包含安全性修正。NPR-24129：Granite-20058 的 Hotfix
 * Day CQ Mail Service 新增 STARTTLS 支援。NPR-23941：CQ-4240397 的 Hotfix
 * 刪除預設的 MERGE_PRESERVE aclHandling。NPR-24593：Granite-21889 的 Hotfix
-* 當請求包含無效 查詢參數時，LineChecker 無法外部化連結。 NPR-24127：CQ-4241893 的 Hotfix
+* 請求包含無效的查詢引數時，LineChecker無法將連結外部化。 NPR-24127：CQ-4241893 的 Hotfix
 
 ### MSM {#msm}
 
@@ -387,7 +387,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP16 為重要更新，包含自 [AEM 6.2 SP1](
 * Salesforce 整合因 Proxy 設定而失敗。NPR-24418：CQ-4245300 的 Hotfix
 * (WCM) 建立修訂期間出現例外狀況，PageManager 在將頁面維持在簽入狀態。NPR-24565：CQ-4246203 的 Hotfix
 * 套用 CFP14 後，「裝置模擬器」按鈕從編輯和預覽模式中消失。NPR-24566：CQ-4247060 的 Hotfix
-* （經典UI）在對話框中創作后，整個標記將顯示為空。 NPR-24688、CQ-4246407 的 Hotfix
+* （傳統UI）在對話方塊中進行製作後，整個標籤會顯示為空白。 NPR-24688、CQ-4246407 的 Hotfix
 * 無法在第一次嘗試時建立版本。 NPR-24774：CQ-4232176 的 Hotfix
 * /etc/reports/ 中的 OOTB 報表無法正常運作，且沒有顯示歷史資料圖表。NPR-24138：CQ-4220180 的 Hotfix
 
@@ -461,14 +461,14 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 * Foundation表格中的主動式安全性修正，以維持設計的一致性。
 * 新增對 typeHint 的支援，可將值儲存為字串。
 * 為 Forms 預填服務提供增強的安全性
-* 更新為最新的 adobe-reader-extensions-dsc.jar 檔，以取得 reader 擴充功能中的修正。
+* 更新至最新的adobe-reader-extensions-dsc.jar檔案，以取得reader擴充功能中的修正。
 * 調整驗證勾點以針對提升數輸入考慮 `:invalid` 項目。
 
 ### Assets {#assets-4}
 
 * 針對TIFF金字塔產生程式，EmbedXMP資料一律設為「作用中」。 NPR-22776：CQ-4234498 的 Hotfix
 * 無法在多值欄位中設定多個預設值。NPR-22900：CQ-4239000 的 Hotfix
-* （動態媒體）選中「動態轉譯」複選框后，下載的 zip 檔將生成帶有零位元組檔的原始 TIFF 影像。 NPR-22410：CQ-4198471 的 Hotfix
+* (Dynamic Media)選取「動態轉譯」核取方塊時，下載的zip檔案會以零位元組檔案產生原始TIFF影像。 NPR-22410：CQ-4198471 的 Hotfix
 * (觸控式 UI) 欄檢視中資產的預設上傳位置。NPR-23475：CQ-4237057 的 Hotfix
 
 ### 整合 {#integration-5}
@@ -494,7 +494,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 * 載入空對象會產生錯誤的 JavaScript 程式碼。NPR-22974：CQ-4238734 的 Hotfix
 * 排程啟動或停用時工作流程標題是強制項目，因此自訂工作流程標題不會在時間軸中翻譯。NPR-23121：CQ-4237552 的 Hotfix
 * 請求修正 Sites 中目標區段的相關問題。NPR-23128
-* （火狐）所選角色的複選框不正確。 NPR-23345
+* (Firefox)所選角色的核取方塊不正確。 NPR-23345
 * 不同模式的標籤隨著圖示一起顯示。NPR-23275
 * 將元件從 AEM 6.0 移轉到 AEM 6.2 時，出現「無效的遞迴選擇器值」錯誤。NPR-23503：CQ-4241258 的 Hotfix
 
@@ -543,12 +543,12 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP15 為重要更新，包含自 [AEM 6.2 SP1](
 
 #### 漏洞 {#vulnerability-3}
 
-* 針對 跨網站指令碼 的主動修補程序。 NPR-20624：CQ-4206055 的 Hotfix
+* 跨網站指令碼的主動式Hotfix。 NPR-20624：CQ-4206055 的 Hotfix
 * Forms Manager的附註索引標籤中出現儲存型跨網站指令碼(XSS)漏洞。 NPR-27157：CQ-4255556 的 Hotfix
 
 #### 加密服務 {#encryption-service}
 
-* (OSGI) [JEE] 使用「驗證PDF程式」進行驗證時，具有附件的PDF的簽章狀態不正確。 NPR-23269、NPR-23737
+* (OSGI) [JEE]使用「驗證PDF程式」進行驗證時，具有附件的PDF的簽名狀態不正確。 NPR-23269、NPR-23737
 
 ### Forms JEE 安裝程式 {#forms-jee-installer-5}
 
@@ -586,7 +586,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 
 ### 資產 {#assets-5}
 
-* 使用者無法使用免責聲明和長文件名進行下載 資產。 NPR-22163：CQ-4235274 的 Hotfix
+* 使用者無法下載含有免責宣告和檔名很長的資產。 NPR-22163：CQ-4235274 的 Hotfix
 * 使用快速工具列動作開啟資產的屬性時，單引號字元會導致大量檢視中無法更新中繼資料，且UI會損毀。 NPR-22317、NPR-22353：CQ-4236990、CQ-4236469 的 Hotfix
 * 資產到期通知工作不會停用已到期的資產。 NPR-22346：CQ-4237188 的 Hotfix
 * 透過 Safari 在 Assets 中使用 Digital Rights Management 時，資產下載失敗。NPR-22378：CQ-4236460 的 Hotfix
@@ -597,7 +597,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 * (觸控式 UI) 移動的標記會顯示在頁面屬性中的新舊位置。NPR-21921、CQ-4238598 的 Hotfix
 * (觸控式 UI) RTF 編輯器從 &lt;a> 標記中移除了 ID 以外的所有屬性。NPR-22045：CQ-4234133 的 Hotfix
 * 使用 CTRL+V 直接在 RTF 編輯器中貼上內容會略過分行符號。NPR-22117：CUI-5881 的 Hotfix
-* （觸控UI）無法在命名空間下顯示超過 40 個標記。 NPR-22290：CQ-99114 的 Hotfix
+* （觸控式UI）無法在名稱空間底下顯示超過40個標籤。 NPR-22290：CQ-99114 的 Hotfix
 * RSS 摘要問題，AEM 6.2 的連接埠 -1。NPR-22158：CQ-4233339 的 Hotfix
 * (IE)首次在RTF欄位中編寫任何字元時，都會在字元後面加上一個空格。 NPR-22443：CQ-4235343 的 Hotfix
 * 嘗試比對套件名稱時，Java™ Use物件會因為套件宣告中的尾端空格字元而凍結SightlyJavaCompilerService。 NPR-22557：Granite-20836 的 Hotfix
@@ -616,7 +616,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 * 長時間進行索引更新期間，LiveCopyIndex 同步會導致執行緒擁塞。NPR-22214：CQ-90667 的 Hotfix
 * 編輯 Live Copy 中的其他欄位時 `cq:cugEnabled` 屬性會停用，因此會導致頁面沒有受到保護。NPR-22246：CQ-4236050 的 Hotfix
 * 頁面暫停時，「頁面轉出」動作無法更新子項。NPR-22483：CQ-4236956 的 Hotfix
-* 轉出已在主要位置中移動的結構會導致錯誤 `cq:moveTarget`. NPR-22373：CQ-4232536 的 Hotfix
+* 轉出已在主要位置中移動的結構會導致錯誤的`cq:moveTarget`。 NPR-22373：CQ-4232536 的 Hotfix
 
 ### 整合 {#integration-6}
 
@@ -658,7 +658,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP14 為重要更新，包含自 AEM 6.2 SP1 �
 
 #### 調適型表單 {#adaptive-forms-4}
 
-* IE11 和 鉻黃 最適化窗體中下拉式佔位符值不一致。 NPR-22405：CQ-4227096 的 Hotfix
+* IE11和Chrome之間調適型表單中的下拉式清單預留位置值不一致。 NPR-22405：CQ-4227096 的 Hotfix
 
 ### Forms - JEE 安裝程式 {#forms-jee-installer-6}
 
@@ -699,7 +699,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP13 為重要更新，包含自 AEM 6.2 SP1 �
 
 * (觸控式 UI) (傳統 UI) HTL 和核心元件有多個跨網站指令碼 (XSS) 漏洞。NPR-21532：CQ-4232305 和 CQ-4232511 的 Hotfix
 * 在 Internet Explorer 11 中，在選取的文字上建立/格式化內容 (例如指派/移除新的清單樣式) 的功能無法正常運作。NPR-21533：CQ-4230689 的 Hotfix
-* （Safari）使用者無法在「資產尋找器」面板中視圖所有資產。 NPR-21981：CQ-4213720 的 Hotfix
+* (Safari)使用者無法在「資產尋找器」面板中檢視所有資產。 NPR-21981：CQ-4213720 的 Hotfix
 * Timewarp傳回「RecursionTooDeepException」錯誤並出現亂碼頁面，且即使變更日期，也不會建立新版本。 NPR-21707：CQ-4199536 的 Hotfix
 * 在編輯器中載入頁面時，WorkflowStatusprovider (pageinfo.json)會載入三次，導致AEM執行個體執行速度緩慢。 NPR-21778：CQ-59232 的 Hotfix
 
@@ -712,7 +712,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP13 為重要更新，包含自 AEM 6.2 SP1 �
 ### 平台 {#platform-4}
 
 * 使用者或群組數目很多時，使用者同步出現效能問題。 NPR-20431：CQ-4223282 的 Hotfix
-* 使用者無法使用 Sling Distribution 同步用戶同步。 NPR-21911：Granite-20404 的 Hotfix
+* 使用Sling Distribution時，使用者無法與使用者同步處理。 NPR-21911：Granite-20404 的 Hotfix
 * 無法在搜尋摘要中醒目提示停用字詞 (在 Geometrixx 頁面上)。NPR-21835：Granite-21067 的 Hotfix。
 注意：此修正需要 Oak CFP 1.4.20 或更高版本。
 
@@ -783,7 +783,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 為重要更新，包含自 AEM 6.2 SP1 
 
 ### 整合 {#integration-8}
 
-* 添加Target框架時，定位模式在編輯者的選擇模式清單中不可用。 NPR-21047
+* 新增Target架構時，無法在編輯器的「選取模式」清單中使用「鎖定目標」模式。 NPR-21047
 
 ### Mobile-on-demand {#mobile-on-demand-1}
 
@@ -795,7 +795,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 為重要更新，包含自 AEM 6.2 SP1 
 
 ### 平台 {#platform-5}
 
-* 在升級至 6.3 AEM後，找不到引用以腳本形式實施的標記的自定義標記庫。NPR-20149：Granite-18433 的修補程式
+* 升級至AEM 6.3後，找不到參考標籤實作為指令碼的自訂標籤程式庫。NPR-20149：Granite-18433的Hotfix
 
 ### 轉換 {#translation-4}
 
@@ -821,8 +821,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP12.1 為重要更新，包含自 AEM 6.2 SP1 
 #### 通信管理 {#correspondence-management-2}
 
 * (IE11) HTML 內容的初始轉譯只會在左側進行，而右側會在載入完整 UI 後間歇性載入。NPR-21554
-* 安裝 6.2 SP1-CFP9 后，預覽提交按鈕字母AEM會被禁用。 NPR-21547
-* 在選擇「資產連結類型」時，「資產選擇器」視窗不會在“編輯字母數據綁定”精靈中打開。 NPR-21164：CQ-4194567 的 Hotfix
+* 安裝AEM 6.2 SP1-CFP9後，會停用信函預覽提交按鈕。 NPR-21547
+* 選取資產連結型別時，「資產選取器」視窗不會在「編輯信函資料繫結」精靈中開啟。 NPR-21164：CQ-4194567 的 Hotfix
 * 若要編輯內嵌或可編輯的文字模組，請點一下相關的「編輯」圖示，或在信函預覽中按兩下相關的文字模組。NPR-21402
 
 #### 調適型表單 {#adaptive-forms-6}
@@ -875,13 +875,13 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP11 為重要更新，包含自 AEM 6.2 SP1 �
 * 它在套件管理器中提供用於偵測ACL許可權的驗證選項。
 * 引入 Campaign 的功能以包含用於客戶通信的電子郵件 ID。
 * 改善 Dynamic Media 檔案的視訊編碼功能。
-* Sightly 元件和 LiveCopy 中的修正。
+* 修正Sightly元件和LiveCopies的問題。
 
 ### 資產 {#assets-8}
 
 * Dynamic Media 視訊編碼無法對名稱中包含空格的檔案進行編碼。NPR-20818：CQ-102469 的 Hotfix
 * AEM CQ 製作/發佈快速入門中，某些 SWF 檔案具有多個跨網站指令碼 (XSS) 漏洞。NPR-21071、NPR-21072
-* 使用者無法使用免責聲明和長文件名進行下載 資產。 NPR-20255：CQ-4222139 的 Hotfix
+* 使用者無法下載含有免責宣告和檔名很長的資產。 NPR-20255：CQ-4222139 的 Hotfix
 
 ### 網站 {#sites-8}
 
@@ -895,7 +895,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP11 為重要更新，包含自 AEM 6.2 SP1 �
 ### 平台 {#platform-6}
 
 * ResourceResolverImpl.map() 沒有叫用 ResourceDecorator。NPR-20788：GRANITE-19718 的 Hotfix
-* `org.apache.sling.i18n.DefaultLocaleResolver` 無法透過org.apache.sling.engine.SlingRequestProcessor處理請求。 NPR-20706：CQ-94880 的 Hotfix
+* `org.apache.sling.i18n.DefaultLocaleResolver`無法透過org.apache.sling.engine.SlingRequestProcessor處理請求。 NPR-20706：CQ-94880 的 Hotfix
 * 請求在套件管理器中新增驗證選項，以偵測是否對特定套件變更了任何 ACL 權限。CQ-4229196 的 Hotfix
 
 ### 工作流程 {#workflow-1}
@@ -940,13 +940,13 @@ AEM Forms 的關鍵重點為：
 
 #### 通信管理 {#correspondence-management-3}
 
-* （通信UI）按一次後禁用提交按鈕。 NPR-21078
+* （通訊UI）按一下後停用提交按鈕。 NPR-21078
 
 ### Forms JEE 安裝程式 {#forms-jee-installer-9}
 
 #### 組合器服務 {#assembler-service-1}
 
-* docConvertor無法產生PDF/A，錯誤為元素的前置詞「stEvt」 `stEvt:action` 未繫結。」 NPR-21032：CQ-4222540 的 Hotfix
+* docConvertor無法產生PDF/A，錯誤為「元素`stEvt:action`的前置詞&quot;stEvt&quot;未繫結」。 NPR-21032：CQ-4222540 的 Hotfix
 * 當叫用服務 OMPFSubmission/PDFA/PDFtoPDFA 時，會擲回名稱為 `java.lang.IllegalArgumentException message:No enum constant com.adobe.internal.pdfm.docbuilder.signature.PathValidationFailureReason.SIGNED_IN_FUTURE` 的例外狀況。此例外狀況會阻礙短期簽章驗證程式在伺服器重新啟動前完成。 NPR-20792
 
 #### Workbench {#workbench}
@@ -983,8 +983,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 * 標題中有特殊字元的縮圖資產會在alt屬性中顯示Java™物件NPR-20347：CQ-4223620的Hotfix
 * 由於授權問題，以 Adobe 專屬代碼取代了版本比較代碼。NPR-20273：CQ-4223758 的 Hotfix
 * 上傳含有多個 Alpha 層的 CMYK PSB 檔案時發生處理問題。NPR-20251：CQ-4220869 的 Hotfix
-* 如果在 org.apache.sling.i18n 2.5.6 中重新啟動伺服器，國際化字典將起作用。NPR-20525：花崗岩修補程式 - 19490
-* 不會根據默認線程轉儲收集器配置（預設AEM 開始-up）的排程器週期生成線程轉儲。 NPR-20288：GRANITE-19488/GRANITE-12741 CQ-90647 的修補程式。
+* 如果在org.apache.sling.i18n 2.5.6中重新啟動伺服器，則國際化字典可運作。NPR-20525：Granite - 19490的Hotfix
+* 沒有根據具有預設對話串傾印收集器設定(預設AEM啟動)的排程器週期產生對話串傾印。 npr-20288：GRANITE-19488/GRANITE-12741 CQ-90647的Hotfix。
 
 ### Sites {#sites-9}
 
@@ -1006,7 +1006,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 
 ### 商務 {#commerce-1}
 
-* 建立不同頁面的產品時，不會顯示確認或訊息重新導向 快顯視窗訊息。 NPR-20257：CQ-4223414 的 Hotfix
+* 從相同頁面建立產品時，不會顯示確認或重新導向快顯訊息。 NPR-20257：CQ-4223414 的 Hotfix
 
 ### 使用者介面 {#user-interface-4}
 
@@ -1015,7 +1015,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 
 ### WCM - Foundation 元件 {#wcm-foundation-components-6}
 
-* 從多個圖像就地編輯者元件中刪除圖像平均后，圖像映射屬性仍然存在。 NPR-20142：CQ-4222982 的 Hotfix
+* 即使從多影像就地編輯器元件中移除影像後，ImageMap屬性仍存在。 NPR-20142：CQ-4222982 的 Hotfix
 
 ## Forms {#forms-10}
 
@@ -1032,7 +1032,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP10 為重要更新，包含自 AEM 6.2 SP1 �
 **處理程序管理**
 
 * CFP 套件包含 AEM Forms HTML 工作區 2.2.26 版。NPR-20099
-* 當行動窗體設為視圖為 PDF 時，預先填寫的窗體不起作用。 NPR-20566
+* 將行動表單設定為PDF檢視時，預填的表單無法運作。 NPR-20566
 
 **Rights Management**
 
@@ -1072,8 +1072,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### 網站 {#sites-10}
 
-* 當用戶嘗試發佈 `/unpublish/create` 被另一個用戶鎖定的頁面版本時，AEM顯示意外行為。 NPR-19249；CQ-4215298 和 CQ-4203856 的 Hotfix
-* 手動提升巢狀啟動時，會刪除子頁面。 NPR-19704
+* 當使用者嘗試發佈被其他使用者鎖定的`/unpublish/create`版頁面時，AEM會顯示非預期的行為。 NPR-19249；CQ-4215298 和 CQ-4203856 的 Hotfix
+* 手動提升巢狀啟動時，子頁面會遭刪除。 NPR-19704
 * 初始化期間ContextHub儲存覆寫預設持續層時，出現持續性問題。 NPR-19979：CQ-4218399 的 Hotfix
 * 內容片段與其他按鈕重疊。NPR-19980：CQ-4221519 的 Hotfix
 * 在SiteAdmin中使用別名檢視時，不會顯示網站頁面。 NPR-20053：CQ-4221478 的 Hotfix
@@ -1091,7 +1091,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### Brand Portal {#brand-portal}
 
-* 從 tagadmin/標記 控制台啟用從AEM到品牌入口網站的發佈標記。 NPR-20271
+* 啟用透過標籤管理員/標籤控制檯將標籤從AEM發佈至Brand Portal的功能。 NPR-20271
 
 ## Forms {#forms-11}
 
@@ -1109,7 +1109,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP9 為重要更新，包含自 AEM 6.2 SP1 正
 
 #### Forms Manager {#forms-manager-1}
 
-* 如果在自適應表單的欄位上未定義驗證狀態，並且發生 elementFocusChanged 事件，則會向Adobe Analytics伺服器返回錯誤事件 （errorState）。 NPR-19513
+* 如果未在適用性表單欄位上定義validationState，且發生了elementFocusChanged事件，則會傳回錯誤事件(errorState)至Adobe Analytics伺服器。 NPR-19513
 
 ### Forms JEE 安裝程式 {#forms-jee-installer-11}
 
@@ -1149,7 +1149,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 * 當一個 PDF 資產有多個相關的關鍵字時，系統無法妥善擷取和正確修改 PDF 關鍵字中繼資料。為了解決問題，已移除 PDF 資產的「主旨」欄位中繼資料屬性。但是您可編輯中繼資料結構來為「主旨」欄位新增一個多值文字欄位。NPR-19126
 * 工作流程通知服務不會對電子郵件中的連結進行編碼，這會導致使用者按一下連結後無法載入。 NPR-19490：CQ-4218055 的 Hotfix
 * 無法使用Chrome在欄檢視中載入頁面/資產的完整清單。 NPR-19458：CQ-4214248 的 Hotfix
-* 啟動「請求Activation」工作流程時，AEM 收件匣中會顯示不正確的關閉時間圖示。 NPR-19365：CQ-4216174
+* 啟用「請求啟用」工作流程時， AEM收件匣中會顯示不正確的關閉時間圖示。 NPR-19365：CQ-4216174
 * 清單檢視出現排序問題。NPR-19217：CQ-95602
 * 變更資產資料夾設定中的標題或縮圖圖片時，原始群組和資料夾的許可權會被覆寫。 NPR-19283：CQ-4216080 的 Hotfix
 * `Windows 10` 工作站會自動切換到觸控模式，停用部分按鈕的功能。NPR-19183
@@ -1180,8 +1180,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### 工作流程 {#workflow-2}
 
-* 用戶無法在收件匣傳統版UI中按用戶/群組篩選收件匣中的通知。 NPR-19122：CQ-4215374 的 Hotfix
-* 影像 Map 不會保留 HTL 影像元件中的選取座標。 NPR-18911：CQ-4211584
+* 使用者無法在收件匣傳統UI中依使用者/群組來篩選收件匣中的通知。 NPR-19122：CQ-4215374 的 Hotfix
+* 影像對映不會保留HTL影像元件中選取的座標。 NPR-18911：CQ-4211584
 
 ## Forms {#forms-12}
 
@@ -1189,8 +1189,8 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP8 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### Forms 附加元件套件 {#forms-add-on-package-12}
 
-* 從 Word 或 Web 瀏覽器將內容複製到 Microsoft® Correspondence Manager 文本編輯器時，樣式將丟失。 NPR-19530
-* 沒有換行符的內容 文字編輯器無法換行。 NPR-19481
+* 從Microsoft®Word或網頁瀏覽器將內容複製到Correspondence Manager文字編輯器時，樣式會遺失。 NPR-19530
+* 文字編輯器中沒有分行符號的內容無法換行。 NPR-19481
 * 啟用可在預覽信函時搜尋文件片段中實際文字的功能。NPR-17792：CQ-4214501 的 Hotfix
 
 #### 通信管理 {#correspondence-management-5}
@@ -1232,7 +1232,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
-* 對於將 dc： title 屬性設置為字串（多字段）的影像，行為在影像 卡片上顯示標題的變化。
+* 針對dc：title屬性設為String （多欄位）的影像，在影像卡片上顯示標題的行為變更。
 * Dynamic MediaCloud Service、觸控式UI和安全性UI介面的效能問題修正。
 * Apache Felix Http Bridge 3.0.8 中的修正
 * 解決製作與發佈環境之間的無二進位檔複寫 (BLR) 問題。
@@ -1255,7 +1255,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP7 為重要更新，包含自 AEM 6.2 SP1 正
 * 使用min：gcc；obfuscate=true啟用縮制時，網站管理員和其他管理員都無法運作。 NPR-18593；CQ-4209220 的 Hotfix
 * 每次重新整理畫面後，才會顯示自訂選單項目。NPR-18500；CQ-4213581 的 Hotfix
 * 將 moment.js 升級至 2.10.6。NPR-18596；Granite-11881 的 Hotfix
-* 為 DM 宏应用許可權會破壞管理員用戶的視圖。 NPR-18544；CQ-4211729 的 Hotfix
+* 套用DM巨集的許可權會中斷管理員使用者的檢視。 NPR-18544；CQ-4211729 的 Hotfix
 * 對資產執行「稍後發佈」會擲回不正確的 ArgumentException。CQ-4214532
 
 ### 網站 {#sites-12}
@@ -1347,7 +1347,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 此 Cumulative Fix Pack 的關鍵重點為：
 
-* 在平板電腦佈局模式下高效管理隱藏元件。
+* 在平板電腦的版面模式中有效管理隱藏的元件。
 * 在混合裝置上推出快速動作。
 * 解決即時副本的元件層級同步問題。
 
@@ -1355,7 +1355,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 當沒有必要許可權的使用者嘗試移動資產上的作業時，客戶會遭到封鎖。 NPR-18330；CQ-4212560 的 Hotfix
 * 合併多個智慧內容服務設定會造成可用性問題。NPR-18273；CQ-4201557 的 Hotfix
-* 簽出動作/工作流程大約一次便無法從時間軸控制台使用。 Assets資料夾中添加了80個片段。 NPR-18257；CQ-4211214 和 NPR-18251 的 Hotfix；CQ-4211216 的 Hotfix。
+* 大約一開始，就無法從「時間軸」主控台使用簽出動作/工作流程。 在Assets資料夾中新增80個片段。 NPR-18257；CQ-4211214 和 NPR-18251 的 Hotfix；CQ-4211216 的 Hotfix。
 * Assets 進行報告期間，系統因記憶體不足和缺少分頁而當機。NPR-17865；CQ-4209759 的 Hotfix
 * 發佈的視訊無法在已編碼的視訊資產上播放。NPR-17849；CQ-4210739 的 Hotfix
 * 不會產生PDF的縮圖。 NPR-17831、NPR-17750；CQ-4210547 的 Hotfix
@@ -1396,7 +1396,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 ### 安全性 {#security-1}
 
 * 如果使用者沒有目標資料夾的寫入權限，移動資產精靈便會中止。NPR-18300
-* 請求在 Apache Sling API 中使用 org.apache.sling.servlets.post Servlet （2.3.22） 的升級版本來搶佔 XSS 漏洞。 NPR-18963
+* 請求在Apache Sling API中使用org.apache.sling.servlets.post servlet的升級版本(2.3.22)以防止XSS漏洞。 NPR-18963
 
 ### 轉換 {#translation-6}
 
@@ -1419,9 +1419,9 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 信函轉譯期間會重複讀取資料字典。 NPR-18482、CQ-4210805 的 Hotfix
 * 為 com.adobe.livecycle.content 類別新增 JavaDocs。NPR-18467
-* 在創建信件時，不會保存信件的說明。 NPR-18039
+* 建立信函時沒有儲存信函說明。 NPR-18039
 * 文字模組已儲存，且文字模組中的運算式不包含開頭或結尾運算式標記時，系統沒有顯示錯誤訊息。文字模組顯示錯誤訊息且無法在信函中轉譯。NPR-17798
-* 安裝附加包時，日誌中會出現意外錯誤。 NPR-18295
+* 安裝附加套件時，記錄中出現未預期的錯誤。 NPR-18295
 
 **Forms Manager**
 
@@ -1435,7 +1435,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP6 為重要更新，包含自 AEM 6.2 SP1 正
 
 **簽名服務**
 
-* 無法使用遠端硬體安全模組簽署 PDF 檔。 NPR-18017
+* 無法使用遠端硬體安全性模組簽署PDF檔案。 NPR-18017
 
 ## CFP6 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-2}
 
@@ -1468,7 +1468,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### 網站 {#sites-14}
 
-* 使用傳統和觸控式 UI 來移動頁面時，「移動」對話框不會顯示超過 150 個參考，導致使用者無法更新這些參考和重新發佈頁面。此問題已藉由為傳統UI引入「maxRefNo」屬性而解決，該屬性可在網站管理員節點上設定： `'/libs/wcm/core/content/siteadmin'`. 此屬性指定了進行大量移動作業之前顯示的最大參考數 (預設值 150)。如果頁面有許多參考數，則不會顯示在 movePage 對話框中。此配置也適用於 dam 管理員和雜項管理員，方法是分別在節點上應用配置： `'/libs/wcm/core/content/damadmin'` 和 `'/libs/wcm/core/content/miscadmin'` 。 NPR-17222；CQ-85878 的 Hotfix
+* 使用傳統和觸控式 UI 來移動頁面時，「移動」對話框不會顯示超過 150 個參考，導致使用者無法更新這些參考和重新發佈頁面。此問題已藉由為傳統UI引入「maxRefNo」屬性而解決，該屬性可在網站管理員節點： `'/libs/wcm/core/content/siteadmin'`上設定。 此屬性指定了進行大量移動作業之前顯示的最大參考數 (預設值 150)。如果頁面有許多參考數，則不會顯示在 movePage 對話框中。此設定也適用於DAM管理員和雜項管理員，方法是分別在以下節點上套用設定： `'/libs/wcm/core/content/damadmin'`和`'/libs/wcm/core/content/miscadmin'`。 NPR-17222；CQ-85878 的 Hotfix
 
 * 使用 WCM 元件時，觸控式 UI RTF 編輯器會移除含有空格的超連結。NPR-17698、NPR-17570；CQ-4206768 的 Hotfix
 * 從頁面屬性觸發「取消發佈請求」工作流程時，無複寫權限的使用者會出現 JavaScript 錯誤。NPR-17294；CQ-102064 的 Hotfix
@@ -1502,7 +1502,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 
 **調適型表單**
 
-* 對於帶有附件的自適應表單，第二次提交表單時，將在提交的XML中創建重複afSubmitInfo標記的條目。 NPR-17364
+* 針對具有附件的調適型表單，在第二次提交表單時，會在提交的XML中建立afSubmissionInfo標籤的重複專案。 NPR-17364
 * 使用 Google Chrome 瀏覽器時，從表單中移除附件後，嘗試重新附加相同的附件會擲回錯誤。NPR-17297
 * 如果 XSD 式或無表單模型式調適型表單中有可重複的巢狀延遲載入面板，則表單中填入的值不會保留在記錄文件 (DOR) 中。NPR-17176
 * 錯誤記錄中顯示的規則編輯器的錯誤記錄，應新增至 try/catch 區塊 JavaScript 程式碼的 catch 區塊中。NPR-16757
@@ -1541,7 +1541,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 
 #### AEM Forms JEE 套件組合套件 {#aem-forms-jee-bundles-package}
 
-* 無論是使用 JEE Admin UI 控制台還是 OSGi 主控台，表單使用者的功能都應該相同。 NPR-17670
+* 無論使用JEE管理員UI主控台或OSGi主控台，表單使用者的功能應相同。 NPR-17670
 
 ### CFP5 包含 Feature Pack {#feature-packs-included-in-cfp}
 
@@ -1556,7 +1556,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP5 為重要更新，包含自 AEM 6.2 SP1 正
 
 通信管理
 
-* 在字母預覽期間在文本編輯器中編輯片段時，應顯示處理后的文本以供編輯，而不是片段中使用的內聯條件。 NPR-15748、NPR-17504
+* 信函預覽期間在文字編輯器中編輯片段時，應顯示處理過的文字以供編輯，而不是顯示片段中使用的內嵌條件。 NPR-15748、NPR-17504
 
 ### CFP5 中包含的 OSGi 套件組合 {#osgi-bundles-included-in-cfp-3}
 
@@ -1587,7 +1587,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 
 ### 平台 {#platform-12}
 
-* 新增或自訂欄至 **Assets OmniSearch** 覆蓋的結果 `/apps` 無法運作。 NPR-16737：CQ-4206785 的 Hotfix
+* 無法藉由在`/apps`中覆蓋來將資料行新增或自訂至&#x200B;**Assets OmniSearch**&#x200B;結果。 NPR-16737：CQ-4206785 的 Hotfix
 * 從 AEM 6.1 SP2 就地升級至 AEM 6.2 SP1 後，**診斷工具**&#x200B;頁面無法運作。NPR-17121；CQ-4196786 的 Hotfix
 * HTL：選取論壇、建立主題和貼文時，`Sightly SightlyCompiledScript` 將不正確的 `addSelectors` 屬性新增到 `RequestDispatcherOption` 中。NPR-17008：GRANITE-16384 的 Hotfix
 
@@ -1613,20 +1613,20 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 ### 網站 {#sites-15}
 
 * `ContextHub` 中的檔案不會在製作執行個體上最小化。NPR-17022：CQ-79456 的 Hotfix
-* WCM啟動啟動 促銷活動需要很長時間來提升由頁面的大樹組成的啟動。 NPR-16480：CQ-82731 的 Hotfix
+* WCM-Launches啟動促銷活動需花很長時間才能提升由大型樹狀結構頁面組成的啟動。 NPR-16480：CQ-82731 的 Hotfix
 * 使用非運作中或未完成的規則建立區段 (或對象) 時，`ClientContext` 區段條件轉譯程式當機。NPR-16759：CQ-4205104 的 Hotfix
 * 在WCM Launches中，從觸控式UI的頁面屬性中起始動作時，與啟動相關聯的頁面無法取消發佈。 NPR-16560：CQ-4204681 的 Hotfix
 * 連結重寫器假設冒號「:」定義了 JCR 命名空間，因而錯誤重寫包含冒號的 href 值。NPR-16753：CQ-4203762 的 Hotfix
 * 在WCM-Design Importer中，開啟測試Importer頁面並嘗試上傳zip檔案時，如果檔案先前已上傳並刪除，則會引發問題。 NPR-16486：CQ-90962 的 Hotfix
-* 使用 Firefox 或 Google 鉻黃 瀏覽器流覽至 **[!UICONTROL 「全域導覽]** 」窗格會產生不同的使用者體驗。 Firefox 瀏覽器會顯示 **[!UICONTROL 工具]** 功能表。 Google 鉻黃 瀏覽器會顯示 **[!UICONTROL 導覽]** 功能表。 NPR-16770；CQ-4200456 的 Hotfix
+* 使用Firefox或Google Chrome瀏覽器導覽至&#x200B;**[!UICONTROL 全域導覽]**&#x200B;窗格時，會提供不同的使用者體驗。 Firefox瀏覽器會顯示&#x200B;**[!UICONTROL 工具]**&#x200B;功能表。 Google Chrome瀏覽器會顯示&#x200B;**[!UICONTROL 導覽]**&#x200B;功能表。 NPR-16770；CQ-4200456 的 Hotfix
 
 ### 行銷活動 {#campaign}
 
-* 在測試AEM 行銷活動範本並修改種子地址以包含“其他數據”時，Adobe Campaign下拉功能表會在觸摸UI上下文中心消失。 NPR-16771：CQ-105748 的 Hotfix
+* 測試AEM行銷活動範本並修改種子地址以包含「其他資料」時，觸控式UI內容中心的Adobe Campaign下拉式清單會消失。 NPR-16771：CQ-105748 的 Hotfix
 
 ### Mobile On-Demand {#mobile-on-demand-3}
 
-* 從 AEM 作者 預檢出版物時，預檢操作超過 5 秒會導致 AEMM - AEM PECS 集成 Splunk 儀表板上出現異常峰值，其中包含大量狀態請求。 NPR-16908：CQ-4207055 的 Hotfix
+* 從AEM Author預檢發佈內容時，若「預檢」動作耗時超過五秒，會導致「AEMM - AEM PECS整合」Splunk控制面板上出現異常尖峰，並產生大量狀態請求。 NPR-16908：CQ-4207055 的 Hotfix
 * 安裝 AEM-6.2-SP1-CFP1-1.0 更新後，AEM Mobile 設定管理會失敗。NPR-16909：CQ-4204892 的 Hotfix
 
 ### 轉換 {#translation-7}
@@ -1646,14 +1646,14 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 **調適型表單**
 
 * 在調適型Forms編輯器中，head.jsp中的「目標設定」註解應取代為新的context hub陳述式。 NPR-17173
-* 在最適化Forms規則編輯器中，選擇專案&#x200B;]**會將**[!UICONTROL &#x200B;事件顯示為「null」。NPR-17139
-* 使用向前箭頭 （>） 向前流覽，重新提交提交的表單。 NPR-17080
-* 通過AJAX提交自適應表單時，如果出現錯誤，則永遠不會調用“error”回調函數。 NPR-17034
+* 在最適化Forms規則編輯器中，**[!UICONTROL 選擇專案]**&#x200B;會將事件顯示為「null」。 NPR-17139
+* 透過使用前進箭頭(>)往前導覽，已提交的表單會重新提交。 NPR-17080
+* 透過AJAX提交調適型表單時，絕不會在發生錯誤時叫用「error」回呼函式。 NPR-17034
 * 在執行時間按一下規則編輯器中的&#x200B;**[!UICONTROL 「儲存表單」]**&#x200B;按鈕時，不會儲存表單。NPR-16905
 * 靜態文字應排除在調適型表單的 Tab 鍵瀏覽順序之外。NPR-16749
 * 不正確顯示小數欄位的計算值。NPR-16596
 * 顯示「說明」內容的圖示應包含在調適型表單的 Tab 鍵瀏覽順序中。NPR-16484
-* 支援型別的規則運算式 `dataRef=C:/Users/`在 **[!UICONTROL 預設預填服務組態]**. 此型別用於預填最適化Forms的資料。 NPR-16425
+* 在&#x200B;**[!UICONTROL 預設預填服務組態]**&#x200B;中，支援`dataRef=C:/Users/`型別的規則運算式。 此型別用於預填最適化Forms的資料。 NPR-16425
 
 * 如果有巢狀延遲載入情況，就無法對所有面板正確觸發驗證。NPR-15821
 
@@ -1666,7 +1666,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 * 預覽信函時，對齊的文字會以不同的字型轉譯。NPR-16976
 * 如果搜尋的文字出現多次，搜尋功能就無法正常運作。NPR-16920
 * 文字編輯器工具列在瀏覽器中間歇性顯示。NPR-16919
-* 建構 **[!UICONTROL 儲存表單]** 規則編輯器無法運作。 NPR-16905
+* 規則編輯器的建構&#x200B;**[!UICONTROL 儲存表單]**&#x200B;無法運作。 NPR-16905
 * 使用Internet Explorer根據資料字典建立文字模組時，「字型」下拉式清單不會填入字型系列。 NPR-16944
 * 建立文字片段後，信函字型會在預覽信函時變更。NPR-16830
 * 文件片段中，運算式開頭或之間有 Tab 空格的信函無法轉譯或預覽。NPR-16769
@@ -1679,7 +1679,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 
 * 按一下已提交表單的&#x200B;**[!UICONTROL 「下載」]**&#x200B;連結時，會開啟 HTML 頁面而非 PDF 表單。NPR-17082
 
-* `Upload Comments` 針對已提交的例項，儘管檔案附件的位於儲存在CRX存放庫中的XML中，卻不會顯示在UI中。 NPR-17075
+* 針對已提交的執行個體，儘管檔案附件的`Upload Comments`存在於儲存在CRX存放庫中的XML中，卻不會顯示在UI中。 NPR-17075
 
 **Reader 延伸模組服務**
 
@@ -1702,7 +1702,7 @@ AEM Cumulative Fix Pack 6.2 SP1-CFP4 為重要更新，包含自 AEM 6.2 SP1 正
 
 **輸出服務**
 
-* 輸出服務無法處理已修改為在「 」中納入額外「毫秒」欄位的PDF `date-time format` 中繼資料。 NPR-16838
+* 輸出服務無法處理已修改為在`date-time format`中繼資料中包含額外&#39;milli-sec&#39;欄位的PDF。 NPR-16838
 
 #### Forms Designer {#forms-designer}
 
@@ -1733,13 +1733,13 @@ CFP3 的關鍵重點為：
 ### 平台 {#platform-13}
 
 * **ModelAdapterFactory** 中的競爭情形 (可能發生在兩個執行緒嘗試插入同一欄位時) 會導致無法構建模型。NPR-16443：SLING-6584 的 Hotfix
-* 套件管理器中的驗證選項，可偵測下覆蓋的檔案(JSP或JavaScript檔案)之間的任何衝突 `/apps` 和包含在Hotfix中(位於 `/libs`. 接著受影響的覆蓋便可重訂基底以包含下檔案的變更 `/libs`. NPR-16216：CQ-81729 的 Hotfix
+* 套件管理員中的驗證選項，可偵測`/apps`底下覆蓋的檔案(JSP或JavaScript檔案)與`/libs`底下Hotfix中所包含的檔案之間的任何衝突。 接著受影響的覆蓋便可重新建立基礎，以包含`/libs`下檔案的變更。 NPR-16216：CQ-81729 的 Hotfix
 * 在 error.log 中記錄時有時會在啟動發佈工具後數秒內停止，而且必須清除才能再次執行。請求更新記錄架構和提供 Sling 記錄。NPR-15913：Granite-15452 的 Hotfix
 * 請求更新 JavaScript &quot;`use"` API 以避免 HTL JavaScript Use API 實作失敗。NPR-16461：SLING-6780 的 Hotfix
 
 ### 網站 {#sites-16}
 
-* 從 AEM 6.0 升級至 AEM 6.2 後，傳統 UI 會因為大量查詢而在搜尋標記時出現效能緩慢情形。若要解決此問題，請參閱底下所述的步驟： [在標籤控制檯中停用復寫狀態（傳統UI）](#disable-replication-status-in-tagging-console-classic-ui-npr) 可依循。 NPR-15842：CQ-4201748 的 Hotfix。
+* 從 AEM 6.0 升級至 AEM 6.2 後，傳統 UI 會因為大量查詢而在搜尋標記時出現效能緩慢情形。若要解決此問題，可以依照在標籤控制檯（傳統UI）](#disable-replication-status-in-tagging-console-classic-ui-npr)中[停用復寫狀態底下提及的步驟操作。 NPR-15842：CQ-4201748 的 Hotfix。
 
 * 在觸控式UI中建立頁面時，「名稱」欄位的輸入檢查不會檢查特殊字元縮寫符號（與傳統UI中相同）， 因此無法移動頁面。NPR-16404：CQ-4205321 的 Hotfix。
 * 在 RTF 編輯器中對兩列套用不同的樣式，然後再合併這兩列時，會移除對第二列套用的樣式。NPR-16389：CQ-4203835 的 Hotfix。
@@ -1754,16 +1754,16 @@ CFP3 的關鍵重點為：
 * 安裝 6.2 SP1 或 Hotfix12430 後，PDF 模擬轉譯器會停止運作，並造成記憶體不足問題。NPR-15991
 * 字串屬性 `documentNumber` 的中繼資料顯示為日期，但實為數字。NPR-16134：GRANITE-16916 的 Hotfix
 * 時間軸事件球形文字說明中截斷文字。NPR-16226：CQ-85226 的 Hotfix
-* 在標題包含特殊字元的內容 階層下創建資料夾時，將顯示這些字元的編碼版本。 NPR-15935：CQ-4202987 的 Hotfix
-* 由于使用“建立”按鈕時顯示不一致的行為，用戶在流覽資產時無法上傳 資產或創建資料夾。 NPR-16410：CQ-4204793 的 Hotfix
+* 在標題包含特殊字元的內容階層底下建立資料夾時，會顯示這些字元的編碼版本。 NPR-15935：CQ-4202987 的 Hotfix
+* 由於使用「建立」按鈕時顯示的行為不一致，使用者在瀏覽資產時無法上傳資產或建立資料夾。 NPR-16410：CQ-4204793 的 Hotfix
 * 從 AEM Authoring 的文章檢視上傳共用 HTML 資源時，會發生非預期的錯誤。NPR-16133：AEMM-4155970 的 Hotfix
 
 ### 整合 {#integration-14}
 
-* 使用 Digest Authentication 啟用代理身份驗證時，AEM Search元件會引發 ConcurrentModificationException。 NPR-15309：CQ-4199191 的 Hotfix
-* 在 AEM 中建立Target A/B 測試活動時，對象不會同步至Target，而且會顯示「無物件」。 NPR-16229：CQ-4204210 的 Hotfix
+* 啟用具有摘要式驗證的Proxy驗證時，AEM Search元件會擲回ConcurrentModificationException。 NPR-15309：CQ-4199191 的 Hotfix
+* 在AEM中建立Target A/B測試活動時，對象不會同步至Target且會顯示「無對象」。 NPR-16229：CQ-4204210 的 Hotfix
 * 安裝 SP1+NPR-11577 v1.2 後，在觸控式 UI 中進行目標定位期間，為目標量度選擇「使用 Analytics 量度」時，量度的下拉式清單不會載入。NPR-16129：CQ-4204316 的 Hotfix
-* 使用目標定位時，發佈行銷活動不會自動發佈整個樹，包括品牌和主要部分。 NPR-15855：CQ-94630 的 Hotfix
+* 使用目標定位時，發佈行銷活動不會自動發佈整個樹狀結構，包括品牌和主要部分。 NPR-15855：CQ-94630 的 Hotfix
 
 ### 轉換 {#translation-8}
 
@@ -1775,7 +1775,7 @@ CFP3 的關鍵重點為：
 
 **調適型表單**
 
-* 儲存含有附件的調適型表單時，附件的完整路徑會新增到 `fileAttachment` 標籤所產生的XML，而不是附件的名稱。 NPR-16529
+* 儲存含有附件的調適型表單時，附件的完整路徑會新增到所產生XML的`fileAttachment`標籤中，而不是附件的名稱中。 NPR-16529
 * 在 XDP 型調適型表單中，即使預填 XML 沒有 `afData/afBoundData` 包裝函式，`afData/afBoundData` 包裝函式也會出現在提交的 XML 中。NPR-16118
 
 * 數字欄位中的指數表示法：使用調適型表單時，如果所輸入帶有十進位小數的數字總共超過 10 個字元，則在提交的 XML 中該數字會轉變為指數表示法。NPR-16106
@@ -1786,9 +1786,9 @@ CFP3 的關鍵重點為：
 * 針對具有檔案附件小工具的適用性表單，預覽附加檔案後，表單的某些部分會被停用。NPR：16611
 
 * 針對允許多個附件的檔案附件小工具，在已有先前附件的小工具上提交具有附件的新表單例項時，會產生顯示的錯誤代碼。 開啟新增的附件而非實際內容時，會發生此錯誤。 NPR-16258
-* 保護表單預填服務不會因 `file://`、`http://` 和 `ftp://` 等通訊協定而遭到未經授權的存取。另請參閱 [使用Configuration Manager設定預填服務](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions). NPR-15414
+* 保護表單預填服務不會因 `file://`、`http://` 和 `ftp://` 等通訊協定而遭到未經授權的存取。請參閱[使用Configuration Manager設定預填服務](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。 NPR-15414
 
-* 請求在驗證步驟中以 PDF 格式而不是 HTML 呈現自適應表單，並將所有附件附加到 PDF，以便列印輸出顯示完整的表單。 NPR-9011
+* 請求在驗證步驟中以PDF格式而不是HTML格式轉譯調適型表單，並將所有附件附加至PDF，以便讓列印成品顯示完整的表單。 NPR-9011
 
 **通信管理**
 
@@ -1800,8 +1800,8 @@ CFP3 的關鍵重點為：
 * 編輯信函時新增的行距不會反映在「預覽」視窗中。針對文字片段中的清單，PDF 輸出不會顯示正確的間距。NPR-16267
 * 使用Internet Explorer瀏覽器處理文字檔案片段時，由於游標不允許文字縮排，因此嘗試為文字提供縮排會失敗。 NPR-16128
 * 將資料字典新增或修改至現有文字檔案片段需花很長時間，且使用者不一定會收到通知。 NPR-16102
-* 使用 Internet Explorer 瀏覽器預覽具有可滾動內容的字母時，瀏覽器的滾動條與字母的滾動條重疊。 因此，右側的片段無法查看整個內容。NPR-16068
-* 使用 Google 鉻黃 瀏覽器創建或編輯文字文件片段時，顏色選擇下拉列表會自動彈出且無法刪除。 用戶必須選擇清單作為數據輸入的類型，才能編輯片段。 NPR-16067
+* 使用Internet Explorer瀏覽器預覽具有可捲動內容的信函時，瀏覽器的卷軸與信函的卷軸重疊。 因此，右側的片段無法查看整個內容。NPR-16068
+* 使用Google Chrome瀏覽器建立或編輯文字檔案片段時，顏色選取下拉式清單會自動彈出，而且無法移除。 使用者必須選擇清單作為資料專案型別才能編輯片段。 NPR-16067
 * 使用 `Letterinstance` API 時，`import com.adobe.icc.services.api.LetterInstanceService` 方法無法運作。NPR-16008
 * 在「資產撰寫器設定」中將日期顯示格式變更為 `locale=en_US; dateFormat=MMM dd,yyyy;` 時無法如預期運作，且日期格式會顯示為無用字元。NPR-16007
 * 即使先前設定的型別不同，重新製作時，信函中的資料連結型別仍會顯示為「使用者」。 NPR-16619
@@ -1818,7 +1818,7 @@ CFP3 的關鍵重點為：
 
 **處理程序管理 - HTML 工作區**
 
-* 保護表單預填服務不會因「file://」、「http://」和「ftp://」等通訊協定而遭到未經授權的存取。 有關詳細資訊，請參閱 [使用 配置管理器](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 配置預填充服務。 NPR-15434
+* 保護表單預填服務不會因「file://」、「http://」和「ftp://」等通訊協定而遭到未經授權的存取。 如需詳細資訊，請參閱[使用Configuration Manager設定預填服務](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。 NPR-15434
 
 **使用者管理 **
 
@@ -1840,7 +1840,7 @@ CFP3 的關鍵重點為：
 
 AEM 6.2 SP1 和 CFP3 之間更新的 OSGi 套件組合清單
 
-[取得檔案](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt).
+[取得檔案](assets/do-not-localize/osgi_bundle_list_for_aem-6.2sp1-cfp3.txt)。
 Cumulative Fix Pack 2的關鍵重點為：
 
 * AEM平台的穩定性修正和效能改善，包括Sling架構和作業
@@ -1856,14 +1856,14 @@ Cumulative Fix Pack 2的關鍵重點為：
 
 * 如果編輯了直接參考 Sling 架構的頁面，便會觸發 `SlingPostProcessor`。NPR-15754：CQ-104153 的 Hotfix
 
-* 導航到頁面元件時，不會在“經典UI”對話框中提取具有屬性的標記 `tagBasePath` 的值。 NPR-15543：CQ-4199950 的 Hotfix
+* 導覽至頁面元件時，如果值的標籤具有`tagBasePath`屬性，傳統UI對話方塊中就不會擷取該值。 NPR-15543：CQ-4199950 的 Hotfix
 
 * 執行 Sling 作業時，如果有名為「chunk_n_n-1」的區塊，`SlingFileUpload handler.getLastChunk` 便會進入包含空區塊的無限迴圈中。NPR-15455：SLING-5701 的 Hotfix
 
 * 有一個介面延伸另一介面時，超級介面上的可插入方法無法正確插入。NPR-15202：SLING- 5710 的 Hotfix
 * 使用 `com.adobe.granite.infocollector.impl.FilesTraversal` 函數呼叫時，無法防止潛在的 Null 指標例外狀況。NPR-15169 CQ-4197640 的 Hotfix
 * 某些次要節點的工作流狀態不一致，且在為該節點發送觀察事件時會顯示錯誤。NPR-15701：GRANITE-13786 的 Hotfix
-* 使用者在CRXDE中選取節點(例如 `/content/dam/`)。 然後按一下「存取控制」標籤，確定存取控制清單存在。 現在，拖放某些元素會移動元素，而非選取的元素。 NPR-15696 GRANITE-16300 的 Hotfix
+* 使用者在CRXDE中選取節點（例如，`/content/dam/`）。 然後按一下「存取控制」標籤，確定存取控制清單存在。 現在，拖放某些元素會移動元素，而非選取的元素。 NPR-15696 GRANITE-16300 的 Hotfix
 * 嘗試進行模擬時若從下拉式清單中選取使用者，會導致整個使用者快顯視窗消失。NPR-15774：CQ-4201738/GRANITE-11895 的 Hotfix
 * 在 Omnisearch 中，無法使用自動填入建議的標記來搜尋。NPR-15088：GRANITE-14426 的 Hotfix。注意：此修正需要 Oak CFP 1.4.11 或更新版本。
 
@@ -1873,9 +1873,9 @@ Cumulative Fix Pack 2的關鍵重點為：
 
 ### 網站 {#sites-17}
 
-* 如果用戶在激活工作流程後修改頁面，則WCM核心中工作流收件箱的修改狀態不會更改。 NPR-15684：CQ-4196974 的 Hotfix
-* 當用戶按兩下錨點圖示並添加名稱時，適用於觸摸UI的富文本編輯器中的錨點 外掛程式會生成不合規的 HTML5。 它應在錨點元素的 HTML5 標記中新增「id」屬性，而非「name」屬性。NPR-15650：CQ-89782 的 Hotfix
-* 创建包含大量欄位的中繼資料 綱要並將其應用於內容片段中繼資料時，不會在“內容片段中繼資料”屏幕上創建滾動條，從而使字段不可編輯。 NPR-15478：CQ-4202622 的 Hotfix
+* 如果使用者在啟動工作流程後修改頁面，WCM核心中「工作流程收件匣」的修改狀態不會變更。 NPR-15684：CQ-4196974 的 Hotfix
+* 使用者按一下錨點圖示並新增名稱時，觸控式UI的RTF編輯器中，錨點外掛程式會產生不相容的HTML5。 它應在錨點元素的 HTML5 標記中新增「id」屬性，而非「name」屬性。NPR-15650：CQ-89782 的 Hotfix
+* 建立具有多個欄位的中繼資料結構並套用至內容片段中繼資料時，不會在內容片段中繼資料畫面中建立卷軸，導致無法編輯這些欄位。 NPR-15478：CQ-4202622 的 Hotfix
 * 編輯 `TagInput` 欄位元件不會針對對話框欄位顯示先前設定的值。NPR-15464：CQ-4200360 的 Hotfix
 
 * 在內容片段編輯器UI中，建立內容片段的變體時，側面板不會顯示用於導覽所有變體的卷軸。 NPR-15445：CQ-4199444 的 Hotfix
@@ -1888,23 +1888,23 @@ Cumulative Fix Pack 2的關鍵重點為：
 * 安裝 AEM 6.2 Service Pack 1 後，「包含子頁面」滑桿就不能用於頁面啟動。NPR-15230：CQ-4198449 的 Hotfix
 * 請求增強版本清除功能，以擷取和處理區塊中的版本，以及在 XPath 查詢中使用指定路徑的功能。NPR-15186：CQ-109205 的 Hotfix
 * Sites元件的頁面屬性縮圖索引標籤上缺少「清除」按鈕。 NPR-15143 CQ-4196997 的 Hotfix
-* 對於使用即時副本的網站，選中網站Admin Console「列」窗格中的“Live Copy”複選框無法正確顯示Live Copy狀態，僅顯示 HTML 標記。 NPR-15108：CQ-97086 的 Hotfix
+* 針對使用即時副本的網站，在網站Admin Console的「欄」窗格中選取「即時副本」核取方塊時，無法正確顯示即時副本狀態，且只會顯示HTML標籤。 NPR-15108：CQ-97086 的 Hotfix
 * 編輯內容片段時，如果使用者在收到貼文回應之前按下完成編輯 (「√」)，編輯過的內容便無法正確儲存。NPR-15014：CQ-4194095 的 Hotfix
-* 在「時間扭曲」模式期間關閉「編輯」頁面，並嘗試從網站管理員重新開啟該頁面，會導致出現狀態錯誤 `500`. NPR-14965：CQ-109647 的 Hotfix：
+* 在Timewarp模式期間關閉「編輯」頁面，並嘗試從網站管理員重新開啟該頁面時，會產生狀態`500`的錯誤。 NPR-14965：CQ-109647 的 Hotfix：
 * 在數位資產管理器 (DAM) UI 中，「使用者選擇器尋找可授權項目」搜尋會造成「記憶體不足」例外情況。NPR：15307：CQ-98542 的 Hotfix
 
 ### 資產 {#assets-17}
 
-* 在Omnisearch中搜尋資產後，選取資產並按一下「 」以嘗試編輯屬性 **檢視屬性**，然後 **儲存** 按鈕會將使用者重新導向至空白頁面。 NPR-15900：CQ-4202372 的 Hotfix
+* 在Omnisearch中搜尋資產後，選取資產並按一下&#x200B;**檢視屬性**&#x200B;以嘗試編輯屬性，然後&#x200B;**儲存**&#x200B;按鈕會將使用者重新導向至空白頁面。 NPR-15900：CQ-4202372 的 Hotfix
 * Assets 使用者介面不會回應事件。選取資產並按一下「發佈」或「轉譯」時不會產生任何活動。NPR-15828：CQ-4202247 的 Hotfix
-* 從“信息卡”視圖發佈資產時，不會更新“信息卡”以反映已發佈狀態。 而是會重新整理頁面。 NPR-15826：CQ-102732 的 Hotfix
+* 從卡片檢視發佈資產時，卡片不會更新以反映已發佈狀態。 而是會重新整理頁面。 NPR-15826：CQ-102732 的 Hotfix
 * 包含 Assets Hotfix 的累積 Hotfix。NPR-15225
 * 如果資產資料夾的名稱包含&amp;字元，則導覽至資產時，資料夾名稱無法正確顯示。 NPR-15775：CQ-4201735 的 Hotfix
 * 在資產檔案名稱中使用 &amp; 字元會在存取其屬性時造成問題。NPR-15770：CQ-4201737 的 Hotfix
-* 導航Assets並使用“列視圖”顯示模式時，如果用戶在選擇並按兩下資產後刷新頁面，則會顯示資產詳細信息，而不是刷新的內容。 NPR-15768：CQ-4201727 的 Hotfix
+* 導覽Assets並使用「欄檢視」顯示模式時，如果使用者在選取並按一下資產後重新整理頁面，則會顯示資產詳細資訊，而非重新整理的內容。 NPR-15768：CQ-4201727 的 Hotfix
 * 由於 PDF 服務的程式庫堆積，PDS 擷取作業的 CPU 使用率高達 100%。NPR-15606：GRANITE-12929 的 Hotfix
 * 使用Firefox瀏覽器存取「我的連結共用」UI時，不會顯示共用專案或使用者，且畫面無法使用。 NPR-15539：CQ-4200992 的 Hotfix
-* 使用Digital Asset Manager時，如果頁面與一組影像相關聯，將影像移至新資料夾會中斷頁面關聯。 因此，關聯的頁面會遺漏某些影像。 NPR-15538：CQ-111479 的 Hotfix
+* 使用Digital Asset Manager時，如果頁面與一組影像相關聯，將影像移至新資料夾會中斷頁面關聯。 因此，關聯的頁面會遺漏部分影像。 NPR-15538：CQ-111479 的 Hotfix
 * 在 Dam Viewer 元件中，使用「nosamplecontent」執行模式時，會導致動態媒體發生錯誤。NPR-15449：CQ-4195425 的 Hotfix
 * 建立視訊設定檔時，如果同時選擇高畫質和中畫質的視訊編碼預設集，就不會儲存所做的變更。NPR-15447：CQ-4195482 的 Hotfix
 * 即使將資產上傳至 Brand Portal 已因伺服器錯誤回應而失敗，Brand Portal UI 上的狀態仍會更新為「已發佈」，因此難以追蹤遺漏的檔案。NPR-15442：CQ-4197968 的 Hotfix
@@ -1919,11 +1919,11 @@ Cumulative Fix Pack 2的關鍵重點為：
 
 ### 使用者介面 {#user-interface-5}
 
-* 在 **[!UICONTROL Touch UI]**，則會針對使用Internet Chrome瀏覽器56.0.2924.87版時現在具有type=&#39;datetime&#39;的日期欄位顯示儲存的日期。NPR-15383：GRANITE-16481的Hotfix
+* 在&#x200B;**[!UICONTROL 觸控式UI]**&#x200B;中，使用Internet Chrome瀏覽器56.0.2924.87版時，針對現在具有type=&#39;datetime&#39;的日期欄位顯示儲存的日期。NPR-15383：GRANITE-16481的Hotfix
 * 在&#x200B;**[!UICONTROL 觸控式 UI]** 中，RTF 編輯器會在轉譯 HTML 表格時，從 HTML 表格中移除執行緒和註解元素。NPR-15267：CRTE-41 的 Hotfix
 * `FileUpload Validator` 不會處理 autostart 為 true 或手動呼叫了 `uploadFile()` 的情況，且會在這些情況下產生無效驗證報表。NPR-15295：GRANITE-13499 的 Hotfix
 
-* Omnisearch不允許客戶使用 `/apps` 新增欄資料來源，因為它假設位置設定列在 */libs/granite/omnisearch/content/metadata/*. NPR-13188 GRANITE-16479 的 Hotfix
+* Omnisearch不允許使用`/apps`的客戶新增欄資料來源，因為它假設位置設定列在&#x200B;*/libs/granite/omnisearch/content/metadata/*&#x200B;下。 NPR-13188 GRANITE-16479 的 Hotfix
 * 使用&#x200B;**[!UICONTROL 觸控式 UI]** 時，不會在與產品相同的層級建立產品變體。系統不會通知使用者變體建立程序的狀態。NPR-15345：CQ-4198948 的 Hotfix
 
 **Scene7**
@@ -1942,7 +1942,7 @@ Cumulative Fix Pack 2的關鍵重點為：
 
 ### 行銷活動 {#campaign-1}
 
-* 使用Campaign - 定位和 `MAC` - 測試和Target集成元件時，取消發佈活動不會更新主要UI中的活動狀態。 NPR-15401：CQ-4199839 的 Hotfix
+* 使用Campaign - Targeting和`MAC` - Test and Target整合元件時，取消發佈活動不會更新主要UI中的活動狀態。 NPR-15401：CQ-4199839 的 Hotfix
 * 在 AEM Commerce 中移動產品時，產品移動精靈會遺漏產品名稱、標題、參考頁面、建立作者和建立日期的預填值。NPR-15228：CQ-98617 的 Hotfix
 
 ### 安全性 {#security-4}
@@ -1956,7 +1956,7 @@ Cumulative Fix Pack 2的關鍵重點為：
 `**Adaptive Forms**`
 
 * 使用輸入 XML 預先填入調適型表單時，預設值會被 XML 中的空值覆寫。NPR-15721
-* `afData/afBoundData`包裝器存在於提交的XML中平均儘管預填充XML在基於XML綱要的自適應表單中沒有`afData/afBoundData`包裝器。NPR-15541
+* 即使預填XML的XML結構描述型適用性表單中沒有`afData/afBoundData`包裝函式，`afData/afBoundData`包裝函式仍存在於已提交的XML中。 NPR-15541
 
 * 摺疊式功能表列中的標題應為可編輯的 HTML「h2」標題，而非「a」標記。NPR-15475
 * 螢幕助讀程式使用者無法存取表單面板的摺疊式功能表版面。使用者若使用螢幕助讀程式軟體 (例如 JAWS 或 NVDA)，無法單獨透過鍵盤導覽至摺疊式功能表索引標籤。NPR-15474
@@ -1980,7 +1980,7 @@ Cumulative Fix Pack 2的關鍵重點為：
 
 `**XTG**`
 
-* 使用 Output 服務將特定表單與 dataxml 合併時，回應時間是 ES4 SP1 伺服器所花費時間的 20 倍。 NPR-15283
+* 使用輸出服務將特定表單與資料XML合併時，回應時間是ES4 SP1伺服器所花費的20倍。 NPR-15283
 
 #### AEM Forms 應用程式 {#aem-forms-app-1}
 
@@ -2009,7 +2009,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 * 移轉至 AEM 6.2 後，在頁面中使用 Sightly 元件會導致頁面的「屬性」對話框停止運作。NPR-14328：CQ-108355 的 Hotfix
 * 取消排程先前排程的工作時，不會刪除 */var/eventing/scheduled-jobs* 底下的對應節點。NPR-14253：SLING-5666 的 Hotfix
 * 管理員嘗試模擬已刪除的使用者時，使用者介面無法重新整理。NPR-14247：CQ-107446 的 Hotfix
-* XSS 防護檢查導致 Sightly 元件中的編碼不正確。 NPR-14004：CQ-93821 的 Hotfix
+* XSS保護檢查導致Sightly元件中的編碼不正確。 NPR-14004：CQ-93821 的 Hotfix
 * 請求將Jackrabbit檔案儲存庫升級至3.1.30以解決多個問題。 NPR-13454
 * Sling Distribution將散發套件從製作同步至發佈時，會發生快取錯誤。 NPR-13034：GRANITE-13970 的 Hotfix
 
@@ -2025,8 +2025,8 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 * 在AEM 6.2執行個體上安裝Hotfix-10936會停用Iparsys元件。 NPR-14330：CQ-106982 的 Hotfix
 * 移轉至 AEM 6.1 SP1 後，出現多個轉出元件問題和一個 Live Copy 問題。NPR-15256
 * 「頁面轉出」動作無法針對多個轉出設定建立超出第一層的子項。NPR-15055
-* 從編輯器提交「頁面屬性」對話框時，會覆寫即時副本標籤中未變更的數據。 NPR-14693
-* 從編輯器提交「頁面屬性」對話框時，MSM Post處理器會從請求寫入一些參數，而不是 `msm:writeLiveCopyConfig` 參數。 NPR-14434
+* 從編輯器提交PageProperties對話方塊時，會重寫LiveCopy索引標籤中未變更的資料。 NPR-14693
+* 從編輯器提交PageProperties對話方塊時，MSM Post處理器會寫入請求中的一些引數，而不是`msm:writeLiveCopyConfig`引數。 NPR-14434
 * 與轉出元件、Live Copy 和 MSM 其他方面相關的多個問題。NPR-12235
 
 ### 資產 {#assets-18}
@@ -2054,13 +2054,13 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 * 移動檔案 (或資料夾) 並重新命名後，`cq:name` 中繼資料不會反映新的檔案名稱 (資料夾名稱)。NPR-13036：CQ-99141 的 Hotfix
 * 無法從透過電子郵件共用的下載連結下載名稱包含特殊字元的資產。NPR-12872：CQ-95795 的 Hotfix
 * 具有大量資產時產生的現成可用資產報告，會造成嚴重的周遊情況，使搜尋不會比對到任何索引，且CPU使用量會達到尖峰。 NPR-12811：CQ-84409 的 Hotfix
-* AMS 上的使用者AEM Assets作者執行個體來自不同網络的訪問許可權，如果沒有資料夾的刪除許可權，無法使用区塊上傳進行上傳 資產。 NPR-12768：CQ-82715 的 Hotfix
+* AMS AEM Assets編寫執行個體上的使用者從不同的網路進行存取，若沒有資料夾的刪除許可權，便無法使用區塊上傳功能來上傳資產。 NPR-12768：CQ-82715 的 Hotfix
 * 使用「資產搜尋」邊欄的標記式資產搜尋功能時，「預先輸入」功能不會限制為根路徑，且會顯示來自所有命名空間的標記。NPR-12666
 * StaticRenditions 元件引發 Null 指標例外狀況。NPR-12665
 * 請求停用 MissingMetadataNotificationJob，因為它會導致徽章通知 UI 出現執行階段例外狀況「無法掃描輸入」而中斷頁面。NPR-12500：CQ-93573 的 Hotfix
 * 標記欄位的「停用編輯」選項無法在觸控式 UI 的資產屬性頁面中運作。NPR-12429：CQ-88835 的 Hotfix
 * AEM Assets 6.2 中適用於 Companion App SMB 實作的 API 修正。NPR-11099
-* 由於 `Jquery` 更新，使用者無法選取資產集合，以及在內容片段的「關聯內容」面板中確認選取專案。 NPR-14847：CQ-4194209 的反向移植
+* 自`Jquery`更新以來，使用者無法選取資產集合，以及在內容片段的「關聯內容」面板中確認選取專案。 NPR-14847：CQ-4194209 的反向移植
 * 即使在用戶端叫用了無限排序，目前 UI 中仍只會顯示文章/橫幅/集合。NPR-14493：CQ-109926 的 Hotfix
 * 請求為 AEM Mobile-on-demand 服務實作 Omnisearch 功能。對任何文章、集合或橫幅進行關鍵字搜尋都不會傳回任何相符項目。NPR-14093：CQ-101394 的 Hotfix
 * 在對話框中使用 Coral-select 元件 (*granite/ui/components/coral/foundation/form/select*)時，若選取的值包含單一項目，Internet Explorer (IE11 或 Edge 瀏覽器) 中的值初始化作業無法正常運作。NPR-13395：CQ-101013 的 Hotfix
@@ -2077,8 +2077,8 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 * 在工作流程主控台的Archive索引標籤中，按一下裝載連結時，會傳回一個回應代碼為「404」的錯誤。 NPR-14993：CQ-4194977 的 Hotfix
 * 使用 AEM 預設工作流程時，CQ Mailer 無法傳送電子郵件通知給遺漏單一成員電子郵件地址的群組。NPR-14804：CQ-91499 的 Hotfix 請求
 * 改善觸控式 UI 中收件匣和通知徽章的效能。NPR-14145：CQ-101125 的 Hotfix
-* 啟動工作流程時，用戶無法從工作流程收件匣控制台預覽裝載。 NPR-13226：CQ-100275 的 Hotfix
-* 使用 SAML Authentication處理程序設定的「saml_請求_path」Cookie會顯示多Cookie `?` 字元設定的。 此外，將 SAML 回應發佈回 AEM 時，AEM「saml_request_path」Cookie 會因為字元已編碼而傳回無效值。NPR-13517：GRANITE-11722 和 GRANITE-14414 的主動式 Hotfix
+* 起始工作流程時，使用者無法從「工作流程收件匣」控制檯預覽裝載。 NPR-13226：CQ-100275 的 Hotfix
+* 使用SAML驗證處理常式設定的「saml_request_path」Cookie會顯示以額外`?`字元設定的Cookie。 此外，將 SAML 回應發佈回 AEM 時，AEM「saml_request_path」Cookie 會因為字元已編碼而傳回無效值。NPR-13517：GRANITE-11722 和 GRANITE-14414 的主動式 Hotfix
 
 ### Dynamic Media {#dynamic-media}
 
@@ -2116,7 +2116,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 
 `**Forms Manager**`
 
-* 在 *表單和文檔* 目錄中導航時，當用戶複製任何資產然後導航到其他資料夾時，不會顯示貼上 按鈕。 CQ-111327
+* 在&#x200B;*FormsandDocuments*&#x200B;目錄中導覽時，當使用者複製任何資產然後導覽至其他資料夾時，不會顯示「貼上」按鈕。 CQ-111327
 
 #### Forms JEE 安裝程式 {#forms-jee-installer-19}
 
@@ -2139,7 +2139,7 @@ AEM 6.2 SP2-CFP1 的關鍵重點為：
 
 #### Forms Designer {#forms-designer-2}
 
-* 當用戶以法文（加拿大）的形式運行拼寫檢查實用程式時，Forms設計器崩潰。 NPR-13740
+* 使用者執行「表單地區設定」選為「法文（加拿大）」的「拼字檢查」公用程式時，Forms Designer會當機。 NPR-13740
 * 使用者為表單欄位選取計算事件或驗證事件，並將語言變更為 JavaScript，再於&#x200B;**[!UICONTROL 指令碼編輯器]**&#x200B;視窗中輸入 `this.` 時，Forms Designer 會當機。NPR-12974
 
 ### CFP1 包含 Feature Pack {#feature-packs-included-in-cfp-3}
@@ -2264,7 +2264,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 如果您是使用 CFP3 或更新版本，請依照下列指示，在傳統 UI 的「標記」控制台中停用「複寫狀態」：
 
-* *覆蓋 “/libs/cq/標記/widgets/source/widgets/admin/TagAdmin.js”**`/apps`*
+* 覆蓋&#x200B;*`/apps`*&#x200B;中的&#x200B;*&quot;/libs/cq/tagging/widgets/source/widgets/admin/TagAdmin.js&quot;*
 
 * 在第 416 行後面新增 `replicationStateRequired`: &quot;false&quot;。
 
@@ -2281,9 +2281,9 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 >
 >這些組態設定供使用Document Security的AEM Forms客戶專用。
 
-NPR-21355包含在CFP12.1中。如果要安裝 CFP12.1 或更高版本，請執行以下過程以在 JBoss® 應用程式 伺服器上設定 NPR-21355。 若您是在 Oracle WebLogic 或 IBM® WebSpehere 應用程式伺服器上所執行的 AEM Forms Server 上安裝 CFP12.1，則無需進行額外設定。
+CFP12.1包含NPR-21355。如果您是安裝CFP12.1或更新版本，請執行以下程式，在JBoss®應用程式伺服器上設定NPR-21355。 若您是在 Oracle WebLogic 或 IBM® WebSpehere 應用程式伺服器上所執行的 AEM Forms Server 上安裝 CFP12.1，則無需進行額外設定。
 
-1. 返回、刪除和創建 模組.xml 檔。 檔案的預設位置為 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
+1. 備份、刪除和建立module.xml檔案。 檔案的預設位置為 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
 1. 開啟新建立的 module.xml 檔案以進行編輯。將下列程式碼新增至檔案中：
 
@@ -2304,7 +2304,7 @@ name="com.adobe.livecycle">
 </module>
 ```
 
-1. 建立備份 `jsafeFIPS.jar`， `jsafeJCEFIPS.jar`、和 `certjFIPS.jar` 檔案位於 [AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/` 並從先前提及的目錄中刪除檔案。
+1. 在[AEM_Forms_Installation_directory]`/jboss/modules/system/layers/base/com/adobe/livecycle/main/`建立`jsafeFIPS.jar`、`jsafeJCEFIPS.jar`和`certjFIPS.jar`檔案的備份，並從先前提及的目錄中刪除檔案。
 
 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General#support)，以便取得新的 JAR 檔案。將向 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General#support)取得的 JAR 檔案放置於 [AEM_Forms_Installation_directory]/jboss/modules/system/layers/base/com/adobe/livecycle/main/
 
@@ -2340,7 +2340,7 @@ name="com.adobe.livecycle">
 
 1. 前往「管理員 UI -> 服務 -> 工作區 -> 全域管理」。
 1. 匯出全域設定。
-1. 在下載的 XML 檔中，添加標記 `<client_tasksPollingInterval>10</client_tasksPollingInterval>`。 十是以秒為單位的示例值。 您可以視情況修改此值。
+1. 在下載的XML檔案中，新增標籤`<client_tasksPollingInterval>10</client_tasksPollingInterval>`。 十是以秒為單位的範例值。 您可以視情況修改此值。
 1. 儲存檔案。
 1. 返回「管理員 UI -> 服務 -> 工作區 -> 全域管理」。
 1. 在「匯入全域設定」區段中匯入該 xml 檔案。
@@ -2366,7 +2366,7 @@ name="com.adobe.livecycle">
 不過因應措施是在升級後重新啟動 AEM 執行個體。
 
 * 開啟Web主控台元件詳細資訊頁面時，會收到HTTP 500內部伺服器錯誤。
-* 錯誤，例如 **建立元件實體** 和 **服務工廠傳回null** 由於存放庫重新啟動而發生：
+* 發生錯誤，例如&#x200B;**建立元件執行個體**&#x200B;和&#x200B;**Service Factory傳回null**，因為存放庫重新啟動：
 
 * com.day.cq.cq-personalization [com.day.cq.personalization.impl.DefaultProfileProvider(938)] 由於無法繫結參考 profileManager，故無法建立元件例項
 * org.apache.sling.commons.scheduler FrameworkEvent ERROR (org.osgi.framework.ServiceException：服務工廠傳回 null。(元件：com.day.cq.tagging.impl.TagGarbageCollector (1687)))

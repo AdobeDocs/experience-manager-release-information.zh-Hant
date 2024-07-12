@@ -3,7 +3,7 @@ title: AEM 6.3 Cumulative Fix Pack
 description: AEM 6.3 Cumulative Fix Pack 發行說明。
 exl-id: 04969587-a904-44cb-83e0-51707ac6a87f
 source-git-commit: e8c9b5343208458febe55d8c1a0b541b112d3911
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '17123'
 ht-degree: 100%
 
@@ -28,13 +28,13 @@ Adobe 針對發行修正推出單一交付模式。Adobe 現在改採每個月�
 * 提高品質保證
 * 簡化安裝程序 (使用者以無相依性的單一套件安裝 CFP 即可，但最新版 Service Pack 除外)
 
-如需更多有關 CFP 和其他發行版本的相關資訊，請參閱[維護版本工具定義](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
+如需更多有關 CFP 和其他發行版本的相關資訊，請參閱[維護版本工具定義](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
 
 ## 關於發行版本 {#about-the-release}
 
 AEM Cumulative Fix Pack 6.3.3.8 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -104,7 +104,7 @@ AEM Cumulative Fix Pack 6.3.3.8 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.7 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 ### 資產 {#assets-1}
 
@@ -172,7 +172,7 @@ AEM Cumulative Fix Pack 6.3.3.7 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.6 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 ### 資產 {#assets-2}
 
@@ -226,7 +226,7 @@ AEM Cumulative Fix Pack 6.3.3.6 依存於 AEM 6.3 Service Pack 3。因此，您�
 
 AEM Cumulative Fix Pack 6.3.3.5 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.5 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -294,7 +294,7 @@ AEM 6.3.3.5 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.4 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.4 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -402,7 +402,7 @@ AEM 6.3.3.4 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.3 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
+AEM Cumulative Fix Pack 6.3.3.3 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 發行說明。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -630,7 +630,7 @@ AEM 6.3.3.2 中包含的內容套件清單
 
 AEM Cumulative Fix Pack 6.3.3.1 為重要更新，包含自 2018 年 9 月正式發行 AEM 6.3 Service Pack 3 (6.3.3.0) 以來累積的多項內部及客戶修正。
 
-AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 中的發行說明。
+AEM Cumulative Fix Pack 6.3.3.1 依存於 AEM 6.3 Service Pack 3。因此，您必須先安裝 AEM 6.3 Service Pack 3，再安裝 AEM Cumulative Fix Pack 6.3.3.x 套件。如需安裝指示，請參閱 [AEM 6.3 Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions) 中的發行說明。
 
 **AEM Cumulative Fix Pack** 的關鍵重點為：
 
@@ -1804,7 +1804,7 @@ activity.log 是建立在 crx-quickstart/logs 資料夾中
 
 1. 確認您已安裝 AEM 6.3.3.x CFP 套件。
 1. 下載適用於您作業系統的 [AEM Forms 發行版本](aem-forms-releases.md)所列出的對應 Forms 附加套件。
-1. 依照[安裝 AEM Forms 附加元件套件](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)中的說明安裝 Forms 附加元件套件。
+1. 依照[安裝 AEM Forms 附加元件套件](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)中的說明安裝 Forms 附加元件套件。
 
 #### 安裝 AEM Forms JEE 套件組合套件 {#install-aem-forms-jee-bundles-package}
 
@@ -1954,7 +1954,7 @@ AEM Forms JEE 中的修正是透過單獨的安裝程式提供。如需更多有
 
 | 區域 | 功能 | 替代方案 | 版本 |
 |----|-----|-----|-----|
-| Assets 與 Adobe Creative Cloud 整合 | AEM 6.2 引入了 [AEM 對 Creative Cloud 資料夾共用](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)功能，作為讓 Creative 使用者存取 AEM 資產的方式。Creative Cloud 應用程式推出的新功能 Adobe Asset Link 提供了更優異的使用者體驗，以及更強大的存取功能，可直接從 Photoshop、InDesign 和 Illustrator 中存取 AEM 的資產。</br></br> Adobe 不會對資料夾共用功能提供更多增強項目。由於此功能包含在 AEM 中，建議客戶使用替代功能。 | Adobe Asset Link 或桌面應用程式。如需更多資訊，請參閱 [AEM Creative Cloud 整合](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)文章。 | AEM 6.3.3.x |
+| Assets 與 Adobe Creative Cloud 整合 | AEM 6.2 引入了 [AEM 對 Creative Cloud 資料夾共用](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)功能，作為讓 Creative 使用者存取 AEM 資產的方式。Creative Cloud 應用程式推出的新功能 Adobe Asset Link 提供了更優異的使用者體驗，以及更強大的存取功能，可直接從 Photoshop、InDesign 和 Illustrator 中存取 AEM 的資產。</br></br> Adobe 不會對資料夾共用功能提供更多增強項目。由於此功能包含在 AEM 中，建議客戶使用替代功能。 | Adobe Asset Link 或桌面應用程式。如需更多資訊，請參閱 [AEM Creative Cloud 整合](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)文章。 | AEM 6.3.3.x |
 
 ## 包含的 OSGi 套件組合和內容套件 {#osgi-bundles-and-content-packages-included-1}
 

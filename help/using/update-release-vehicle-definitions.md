@@ -69,7 +69,7 @@ ht-degree: 85%
 
 | 項目 | 詳細資料 |
 |--------|-----|
-| 定義 | <ul> <li>Feature Pack為附加元件功能，是透過Service Pack提供。 如果 [!DNL Experience Manager] 版本已發行最後一個Service Pack，Adobe未來將不會提供任何功能套件。 </li> <li> FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據[!DNL Adobe's]產品管理的決定預先提供。</li> <li>  功能會始終與下一個主要版本合併。 接著，這些檔案會移轉至 [!DNL Experience Manager] 客戶需要的版本 </li> <li>  Common Interest 和 GA 功能套件合併至下一個 Service Pack  </li> </ul> |
+| 定義 | <ul> <li>Feature Pack為附加元件功能，是透過Service Pack提供。 如果[!DNL Experience Manager]版本已發行最後一個Service Pack，Adobe未來將不會提供任何功能套件。 </li> <li> FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據[!DNL Adobe's]產品管理的決定預先提供。</li> <li>  功能會始終與下一個主要版本合併。 然後移植到客戶所需的[!DNL Experience Manager]版本 </li> <li>  Common Interest 和 GA 功能套件合併至下一個 Service Pack  </li> </ul> |
 | 命名 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 包含項目 | <ul> <li> 新功能 </li> <li> 改善功能 </li> <li> 錯誤修正 (增量產品更新) </li> </ul> |
 | 文件 | 說明文件可由 adobe.com 取得。 |

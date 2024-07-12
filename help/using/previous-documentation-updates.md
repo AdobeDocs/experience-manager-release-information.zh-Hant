@@ -56,7 +56,7 @@ ht-degree: 83%
   <tr>
    <td>2019 年 10 月 11 日</td> 
    <td>Activity Map</td> 
-   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。另請參閱 <a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Adobe Analytics提供的Activity Map外掛程式</a> 現在應該使用。 </p> </td> 
+   <td><p>由於 Adobe Analytics API 中的安全性變更，AEM 中包含的 Activity Map 版本已無法再使用。請參閱現在應該使用的Adobe Analytics</a>提供的<a href="https://experienceleague.adobe.com/en/docs/analytics/analyze/activity-map/getting-started/activitymap-install" target="_blank">Activity Map外掛程式。 </p> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 10 日</td> 
@@ -76,7 +76,7 @@ ht-degree: 83%
   <tr>
    <td>2019 年 10 月 01 日 </td> 
    <td>AEM Screens 專案的最佳實務指南</td> 
-   <td><p>這本新指南可提供全面的分析見解和實用建議，幫助您想像、設計並將特別的客戶體驗引入您的數位看板實施中。此指南還可指引您在 AEM Screens 中部署數位看板專案時，如何使用需遵守的一些最佳實務並對您的業務產生正面影響。</p> <p>請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens專案最佳作法指南</a> 以取得更多詳細資料。</p> </td> 
+   <td><p>這本新指南可提供全面的分析見解和實用建議，幫助您想像、設計並將特別的客戶體驗引入您的數位看板實施中。此指南還可指引您在 AEM Screens 中部署數位看板專案時，如何使用需遵守的一些最佳實務並對您的業務產生正面影響。</p> <p>如需詳細資訊，請參閱<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/using/about-guide">AEM Screens專案最佳實務指南</a>。</p> </td> 
   </tr>
   <tr>
    <td>2019 年 9 月 25 日</td> 
@@ -121,12 +121,12 @@ ht-degree: 83%
   <tr>
    <td>2019年8月21日</td> 
    <td>AEM 6.5 Screens 使用手冊</td> 
-   <td>有關網路部署基本須知的新章節現已上線。請參閱 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">使用手冊</a> 以取得更多詳細資料。</td> 
+   <td>有關網路部署基本須知的新章節現已上線。如需詳細資訊，請參閱<a href="https://experienceleague.adobe.com/en/docs/experience-manager-screens/user-guide/aem-screens-introduction">使用手冊</a>。</td> 
   </tr>
   <tr>
    <td>2019年8月20日</td> 
    <td>AEM Assets 智慧標記<br /> </td> 
-   <td>瞭解如何 <a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新憑證</a> 過期之後。</td> 
+   <td>瞭解在憑證</a>過期後如何<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/config-smart-tagging" target="_blank">更新。</td> 
   </tr>
   <tr>
    <td>2019年8月2日</td> 
@@ -136,7 +136,7 @@ ht-degree: 83%
   <tr>
    <td>2019年7月25</td> 
    <td>AEM Assets 不同授權底下的功能</td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">權能清單</a> 針對AEM 6.5版更新以獨立DAM授權和以AEM MediaLibrary提供的AEM Assets。<br /> </td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/assets/administer/medialibrary" target="_blank">針對AEM 6.5版更新以獨立DAM授權和以AEM MediaLibrary提供的AEM Assets功能清單</a>。<br /> </td> 
   </tr>
   <tr>
    <td>2019年7月12日</td> 
@@ -237,7 +237,7 @@ ht-degree: 83%
 
 ## 舊版內容 {#legacy-content}
 
-截至2023年5月1日，舊版AEM說明檔案已移至以下新位置： [舊版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions).
+截至2023年5月1日，舊版AEM說明檔案已移至新位置： [舊版Adobe Experience Manager、CQ和CRX](https://experienceleague.adobe.com/en/docs/experience-manager-release-information/aem-release-updates/previous-updates/aem-previous-versions)。
 
 下列版本已移動位置：
 
