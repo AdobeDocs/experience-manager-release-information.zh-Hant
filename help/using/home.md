@@ -1,23 +1,23 @@
 ---
-title: Adobe Experience Manager 版本更新和藍圖
-description: 進一步瞭解Adobe Experience Manager版本更新和藍圖。
+title: Adobe Experience Manager 發行更新和藍圖
+description: 進一步了解 Adobe Experience Manager 發行更新和藍圖。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '66'
-ht-degree: 84%
+ht-degree: 100%
 
 ---
 
-# Adobe Experience Manager 版本更新和藍圖
+# Adobe Experience Manager 發行更新和藍圖
 
-本指南包含 [!DNL Adobe Experience Manager] 發行藍圖、先前版本更新和說明文件更新的相關資訊。
+本指南包含 [!DNL Adobe Experience Manager] 發行藍圖、先前發行更新和說明文件更新的相關資訊。
 
-* [[!DNL Experience Manager] 版本更新](aem-releases-updates.md)
+* [[!DNL Experience Manager] 發行更新](aem-releases-updates.md)
 * [[!DNL Experience Manager] 發行藍圖](update-releases-roadmap.md)
 * [[!DNL Experience Manager] 發行工具定義](update-release-vehicle-definitions.md)
 
-## [!DNL Experience Manager] Forms 版本更新
+## [!DNL Experience Manager] Forms 發行更新
 
 * [[!DNL Experience Manager] Forms 版本](aem-forms-releases.md)
 * [在 [!DNL Experience Manager] Forms JEE 安裝 Cumulative Fix Pack](install-cfp-aem-forms-jee.md)
