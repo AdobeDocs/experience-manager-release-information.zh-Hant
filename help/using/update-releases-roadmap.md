@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 8283fce635bbd46a877047ed4fd89bab5c18a180
-workflow-type: ht
-source-wordcount: '423'
-ht-degree: 100%
+source-git-commit: 554160056b91f09616c923fbd3d8244e3ea1b190
+workflow-type: tm+mt
+source-wordcount: '456'
+ht-degree: 90%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 100%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過每季的 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5產品更新是透過Service Pack提供。 這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
 
 | 發行 | 版本 | 類型 | 計劃 | 狀態 |
 |---|---|---|---|---|
@@ -63,6 +63,10 @@ ht-degree: 100%
 | [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 2024 年 2 月 22 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.21.0 | Service Pack | 2024 年 6 月 6 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 Service Pack 22 | 6.5.22.0 | Service Pack | 2024 年 11 月 21 日 | 目標 |
+
+>[!NOTE]
+>
+> AEM 6.5 Service Pack的發行日期現在將個別規劃，而不是像之前那樣採用固定的季度週期。 請在此頁面上隨時瞭解即將發行的Service Pack。
 
 >[!NOTE]
 >
