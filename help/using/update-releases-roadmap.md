@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
 workflow-type: tm+mt
 source-wordcount: '458'
-ht-degree: 90%
+ht-degree: 99%
 
 ---
 
@@ -54,7 +54,7 @@ ht-degree: 90%
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5產品更新是透過Service Pack提供。 這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5 產品更新會透過 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
 
 | 發行 | 版本 | 類型 | 計劃 | 狀態 |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ ht-degree: 90%
 
 >[!NOTE]
 >
-> AEM 6.5 Service Pack的發行日期現在將個別規劃，而不是像之前那樣採用固定的季度週期。 請在此頁面上隨時瞭解即將發行的Service Pack。
+> AEM 6.5 Service Pack 的發行日期現在將單獨規劃，而不是像過去按固定的季度週期進行。請隨時到此頁面了解即將發行的 Service Pack 版本。
 
 >[!NOTE]
 >
