@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 334325784cf7d40203206a46ddeba5dd53e73699
-workflow-type: ht
-source-wordcount: '458'
-ht-degree: 100%
+source-git-commit: 617da2f08f7ae168f57b90517a4feb6be5145075
+workflow-type: tm+mt
+source-wordcount: '459'
+ht-degree: 92%
 
 ---
 
@@ -66,7 +66,7 @@ ht-degree: 100%
 
 >[!NOTE]
 >
-> AEM 6.5 Service Pack 的發行日期現在將單獨規劃，而不是像過去按固定的季度週期進行。請隨時到此頁面了解即將發行的 Service Pack 版本。
+> AEM 6.5 Service Pack的發行日期現在是個別計畫，而不是像之前那樣採用固定的季度週期。 請務必在本頁面上隨時瞭解即將發行的Service Pack。
 
 >[!NOTE]
 >
