@@ -2,7 +2,8 @@
 title: AEM Forms 發行版本
 description: 了解關於 AEM Forms 所有發行版本與對應套件。
 contentOwner: khsingh
-source-git-commit: 55e864d7cbed138167652c54e1dec58e7c07f19a
+exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
+source-git-commit: b6e94ed3826e6f6750d980a5622d600664cf2f2c
 workflow-type: tm+mt
 source-wordcount: '3156'
 ht-degree: 99%
@@ -14,7 +15,6 @@ ht-degree: 99%
 Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式。其增強了企業表單和文件的網頁和行動體驗。此功能使組織能夠完成複雜的數位互動、改善使用者體驗並擴展其業務範圍。AEM 快速入門附有現成可用的 AEM [!DNL Forms]，但只有幾項功能。AEM [!DNL Forms] 增益集套件提供進階功能，例如與 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文件服務、工作流程引擎等整合。
 
 >[!NOTE]
->
 >
 >調適型表單功能 (適用於 [AEM 6.5 QuickStart](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)) 僅用於探索和評估目的。若要供生產使用，必須獲得 AEM Forms 的有效許可；調適型表單的功能需要適當許可才可使用。
 
