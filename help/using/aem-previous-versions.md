@@ -3,7 +3,7 @@ title: 下載舊版 AEM、CQ 和 CRX 說明文件
 description: 下載舊版 Adobe Experience Manager、CQ 和 CRX 的說明文件套件。
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: b599547324e6c750050801ee64b9602d5068e4ef
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '571'
 ht-degree: 100%
 
