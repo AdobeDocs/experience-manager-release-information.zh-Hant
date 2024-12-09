@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 9bc7d082c4f68bd076dcbcb9c9ab9352e871a24a
 workflow-type: tm+mt
 source-wordcount: '451'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -59,7 +59,7 @@ ht-degree: 94%
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
-針對受支援的[!DNL Experience Manager]內部部署和Managed Services的新功能、增強功能和錯誤修正，產品更新會透過Service Pack和Cumulative Fix Pack (CFP)提供。 如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
+透過 Service Pack 和 Cumulative Fix Pack (CFP) 為受支援的 [!DNL Experience Manager] 內部部署和 Managed Services 提供包含新功能、增強功能與錯誤修正的產品更新。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
