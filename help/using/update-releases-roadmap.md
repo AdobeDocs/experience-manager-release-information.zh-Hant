@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: c7dfe54cbb913afbf09ea38b9dcdeb9345362b8e
+source-git-commit: 11ecba7047019b1d4508bfb0926f7d0f7c526dcc
 workflow-type: tm+mt
-source-wordcount: '448'
-ht-degree: 99%
+source-wordcount: '442'
+ht-degree: 97%
 
 ---
 
@@ -44,17 +44,12 @@ ht-degree: 99%
 | 維護版本 | 自動更新 | 2025 年 2 月 24 至 26 日 | 目標 |
 | 功能版本 2025.2.0 | 功能啟用 | 2025 年 2 月 27 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 3 月 10 至 12 日 | 目標 |
-| 維護版本 | 自動更新 | 2025 年 3 月 24 至 26 日 | 目標 |
 | 功能版本 2025.3.0 | 功能啟用 | 2025 年 3 月 27 日 | 目標 |
-
->[!CAUTION]
->
->**計劃維護排除期**
->
-> 以下時間範圍內不會執行自動 AEMaaCS 維護，於午夜 (00:00) CET 開始和結束：
->
->* 2024 年 11 月 25 日星期一至 12 月 3 日星期二
->* 2024 年 12 月 16 日星期一至 2025 年 1 月 3 日星期五。
+| 維護版本 | 自動更新 | 2025年3月31日至4月2日 | 目標 |
+| 維護版本 | 自動更新 | 2025 年 4 月 14-16 日 | 目標 |
+| 功能版本 2025.4.0 | 功能啟用 | 2025年4月24日 | 目標 |
+| 維護版本 | 自動更新 | 2025 年 4 月 28-30 日 | 目標 |
+| 維護版本 | 自動更新 | 2025年5月12至14日 | 目標 |
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
