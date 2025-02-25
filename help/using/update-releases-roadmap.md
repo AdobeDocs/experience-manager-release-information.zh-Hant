@@ -2,7 +2,7 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 0e7ee37bb33347b968a9ece5d0d880d860d20ab1
+source-git-commit: 753ed2e44a1af21917f28c0ef33c478346e9d1f4
 workflow-type: tm+mt
 source-wordcount: '439'
 ht-degree: 99%
@@ -42,7 +42,7 @@ ht-degree: 99%
 | 發行 | 事件 | 計劃 | 狀態 |
 |---|---|---|---|
 | 維護版本 [19586](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025 年 2 月 24 至 26 日 | 目標 |
-| 功能版本 2025.2.0 | 功能啟用 | 2025 年 2 月 27 日 | 目標 |
+| 功能版本 2025.2.0 | 功能啟用 | 2025年3月4日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 3 月 10 至 12 日 | 目標 |
 | 功能版本 2025.3.0 | 功能啟用 | 2025 年 3 月 27 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 3 月 31 日至 4 月 2 日 | 目標 |
