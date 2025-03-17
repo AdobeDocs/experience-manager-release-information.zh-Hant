@@ -12,7 +12,7 @@ ht-degree: 98%
 
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
-[!DNL Adobe Experience Manager] 持續提出新功能，並改善現有功能。它為 [!DNL Cloud Service]、Managed Services 和內部部署版本的使用者提供錯誤修正。本文列出 [!DNL Experience Manager] 即將發行的版本。
+[!DNL Adobe Experience Manager] 持續提供新功能，並改善現有功能。它為 [!DNL Cloud Service]、Managed Services 和內部部署版本的使用者提供錯誤修正。本文列出 [!DNL Experience Manager] 即將發行的版本。
 
 >[!NOTE]
 >
@@ -20,12 +20,12 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-透過[每月功能啟用](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供 [!DNL Experience Manager] as a [!DNL Cloud Service] 新功能，同時透過每月兩次的[維護版本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)提供增強功能和錯誤修正。
+[!DNL Experience Manager] as a [!DNL Cloud Service] 的新功能會透過[每月功能啟用](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供，而增強功能和錯誤修正則透過每月兩次的[維護版本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)提供。
 [!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行的版本預定如下：
 
 ### [!DNL Cloud Service] 舊版本 {#past}
 
-| 發行 | 事件 | 計劃 | 狀態 |
+| 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
 | 維護版本 [18175](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自動更新 | 2024 年 10 月 14-16 日 | 已更新 |
 | 維護版本 [18311](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自動更新 | 2024 年 10 月 28-30 日 | 已更新 |
@@ -42,7 +42,7 @@ ht-degree: 98%
 
 ### 即將[!DNL Cloud Service] 發布的版本 {#upcoming}
 
-| 發行 | 事件 | 計劃 | 狀態 |
+| 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
 | 功能版本 2025.3.0 | 功能啟用 | 2025 年 3 月 27 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 4 月 7-10 日 | 目標 |
@@ -53,13 +53,13 @@ ht-degree: 98%
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
-透過 Service Pack 和 Cumulative Fix Pack (CFP) 為受支援的 [!DNL Experience Manager] 內部部署和 Managed Services 提供包含新功能、增強功能與錯誤修正的產品更新。如此可透過頻繁發行讓您更快採用產品更新。即將發行的產品更新排程如下。
+受支援的 [!DNL Experience Manager] 內部部署和 Managed Services 會透過 Service Pack 和 Cumulative Fix Pack (CFP) 提供產品更新，包含新功能、增強功能與錯誤修正。如此可透過頻繁發行，讓您更快採用產品更新。即將發行的產品更新排程如下。
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
-[!DNL Experience Manager] 6.5 產品更新會透過 Service Pack 提供。這些包括新功能、增強功能和錯誤修正。最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5 產品更新會透過 Service Pack 提供。這些產品更新包括新功能、增強功能和錯誤修正。如需最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 Service Pack 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes)。
 
-| 發行 | 版本 | 類型 | 計劃 | 狀態 |
+| 發行 | 版本 | 類型 | 排程 | 狀態 |
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 [Service Pack 20](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-20) | 6.5.20.0 | Service Pack | 2024 年 2 月 22 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 [Service Pack 21](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-21) | 6.5.21.0 | Service Pack | 2024 年 6 月 6 日 | 已啟用 |
@@ -69,7 +69,7 @@ ht-degree: 98%
 
 >[!NOTE]
 >
->[!DNL Experience Manager] Forms 會在預定的 [!DNL Experience Manager] Service Pack 發行日期一週後發行附加元件的套件。
+>[!DNL Experience Manager] Forms 會在排定的 [!DNL Experience Manager] Service Pack 發行日期一週後，發行附加元件套件。
 
 >[!MORELIKETHIS]
 >
