@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f1d7dbd4a6ddba756ce9a438282969361a47d71d
+source-git-commit: 2ec3c4f14009d804a6a935ae310705be6a547f59
 workflow-type: tm+mt
-source-wordcount: '443'
-ht-degree: 98%
+source-wordcount: '434'
+ht-degree: 95%
 
 ---
 
@@ -27,11 +27,6 @@ ht-degree: 98%
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 維護版本 [18175](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#release-18175) | 自動更新 | 2024 年 10 月 14-16 日 | 已更新 |
-| 維護版本 [18311](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-10-0#18311) | 自動更新 | 2024 年 10 月 28-30 日 | 已更新 |
-| 功能版本 [2024.10.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-10-0) | 功能啟用 | 2024 年 10 月 31 日 | 已啟用 |
-| 維護版本 [18598](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2024/2024-11-0) | 自動更新 | 2024 年 11 月 11-13 日 | 已更新 |
-| 功能版本 [2024.11.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2024/release-notes-2024-11-0) | 功能啟用 | 2024 年 11 月 21 日 | 已啟用 |
 | 維護版本 [18751](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#18751) | 自動更新 | 2025 年 1 月 13 至 15 日 | 已啟用 |
 | 維護版本 [19149](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-1-0#19149) | 自動更新 | 2025 年 1 月 27 至 29 日 | 已更新 |
 | 功能版本 [2025.1.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-1-0) | 功能啟用 | 2025 年 1 月 30 日 | 已啟用 |
@@ -45,11 +40,16 @@ ht-degree: 98%
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
 | 功能版本 2025.3.0 | 功能啟用 | 2025 年 3 月 27 日 | 目標 |
-| 維護版本 | 自動更新 | 2025 年 4 月 7-10 日 | 目標 |
+| 維護版本 | 自動更新 | 2025 年 4 月 7-9 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 4 月 21-23 日 | 目標 |
 | 功能版本 2025.4.0 | 功能啟用 | 2025 年 4 月 24 日 | 目標 |
 | 維護版本 | 自動更新 | 2025年5月5日至7日 | 目標 |
 | 維護版本 | 自動更新 | 2025年5月19至21日 | 目標 |
+| 功能版本 2025.5.0 | 功能啟用 | 2025年5月29日 | 目標 |
+| 維護版本 | 自動更新 | 2025年6月2-4日 | 目標 |
+| 維護版本 | 自動更新 | 2025年6月16至18日 | 目標 |
+| 功能版本 2025.6.0 | 功能啟用 | 2025年6月26日 | 目標 |
+| 維護版本 | 自動更新 | 2025年6月30日至7月2日 | 目標 |
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
