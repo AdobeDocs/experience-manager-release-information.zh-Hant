@@ -58,4 +58,4 @@ A已簽署 [貢獻者授權合約(CLA)](https://opensource.adobe.com/cla.html) �
 
 ## 更多資訊
 
-如需 GitHub 製作平台使用方式的詳細資訊，請參閱 [Adobe 文件貢獻者指南](https://experienceleague.adobe.com/en/docs/contributor/contributor-guide/introduction)。
+如需 GitHub 製作平台使用方式的詳細資訊，請參閱 [Adobe 文件貢獻者指南](https://experienceleague.adobe.com/zh-hant/docs/contributor/contributor-guide/introduction)。
