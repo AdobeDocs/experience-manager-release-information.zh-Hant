@@ -5,7 +5,7 @@ exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: 15c9a8197e64ecc50fcaed8a699a94d8871a34bd
 workflow-type: tm+mt
 source-wordcount: '478'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -56,11 +56,11 @@ ht-degree: 93%
 
 ### [!DNL Experience Manager] 6.5 LTS {#aem65lts}
 
-[!DNL Experience Manager] 6.5 LTS產品更新是透過Service Pack提供。 這些產品更新包括新功能、增強功能和錯誤修正。如需最新發行Service Pack的詳細資訊，請參閱[[!DNL Experience Manager] 6.5 LTS發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes)。
+[!DNL Experience Manager] 6.5 LTS 產品更新會透過 Service Pack 提供。這些產品更新包括新功能、增強功能和錯誤修正。如需最新發行 Service Pack 的相關詳細資訊，請參閱 [[!DNL Experience Manager] 6.5 LTS 發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes)。
 
 | 發行 | 版本 | 類型 | 排程 | 狀態 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 2025年8月21日 | 目標 |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 2025 年 8 月 21 日 | 目標 |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
