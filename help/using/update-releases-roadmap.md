@@ -32,7 +32,7 @@ ht-degree: 99%
 | 功能版本 [2025.4.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-4-0) | 功能啟用 | 2025 年 4 月 24 日 | 已啟用 |
 | 維護版本 [20626](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#20626) | 自動更新 | 2025 年 5 月 5 至 7 日 | 已更新 |
 | 維護版本 [21005](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-5-0#21005) | 自動更新 | 2025 年 6 月 2 至 4 日 | 已更新 |
-| 功能版本 [2025.5.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) | 功能啟用 | 2025 年 6 月 5 日 | 已啟用 |
+| 功能版本 [2025.5.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-5-0) | 功能啟用 | 2025 年 6 月 5 日 | 已啟用 |
 | 維護版本 [21193](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-6-0) | 自動更新 | 2025 年 6 月 16 至 18 日 | 已更新 |
 | 功能版本 [2025.6.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2025 年 6 月 26 日 | 已啟用 |
 
