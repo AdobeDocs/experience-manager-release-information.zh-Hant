@@ -51,7 +51,7 @@ ht-degree: 97%
   <tr>
    <td>2019 年 10 月 18 日<br /> </td> 
    <td>Headless 體驗管理<br /> </td> 
-   <td>已經以文件說明用於在伺服器端轉譯單頁應用程式的<a href="https://experienceleague.adobe.com/en/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">遠端內容轉譯器</a>功能。<br /> </td> 
+   <td>已經以文件說明用於在伺服器端轉譯單頁應用程式的<a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/developing/spas/spa-walkthrough">遠端內容轉譯器</a>功能。<br /> </td> 
   </tr>
   <tr>
    <td>2019 年 10 月 11 日</td> 
