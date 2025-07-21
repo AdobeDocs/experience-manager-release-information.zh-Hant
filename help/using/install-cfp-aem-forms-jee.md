@@ -3,10 +3,10 @@ title: 在 AEM Forms JEE 上安裝累積修正套件
 description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
-workflow-type: ht
-source-wordcount: '905'
-ht-degree: 100%
+source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
+workflow-type: tm+mt
+source-wordcount: '904'
+ht-degree: 97%
 
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 100%
 
 若要在 AEM 6.3 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack，以下列順序執行步驟。
 
-1. 若要取得 AEM 6.3 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&amp;support-tab=home#support)。
+1. 若要取得 AEM 6.3 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
 1. 安裝最新的 AEM CFP 6.3.3.x
 1. 安裝適用於 AEM CFP [6.3.3.x](aem-forms-releases.md) 的 [!DNL Forms] 附加元件套件
@@ -42,7 +42,7 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 若要在 AEM 6.2 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack，以下列順序執行步驟。
 
-1. 若要取得 AEM 6.2 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&amp;support-tab=home#support)。
+1. 若要取得 AEM 6.2 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
 1. 安裝 AEM Hotfix 12785 7.0 版。
 1. 安裝 AEM 6.2 Service Pack 1。
@@ -59,7 +59,7 @@ AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM 
 >
 >在安裝 AEM 6.2 CFP4 後，您可透過下列說明為 DSC 操作設定逾時，以防在升級程序中因逾時遇到問題。
 
-DSC 部署因可能失敗，所花時間不一定。若要變更 DSC 操作 (如安裝、載入、啟動和停止) 的逾時，必須使用具「-D」選項的 JVM 引數設定 `adobe.component.registry.timeout`。
+DSC 部署因可能失敗，所花時間不一定。若要變更DSC操作（例如安裝、載入、啟動和停止）的逾時，必須使用具有`adobe.component.registry.timeout`選項的JVM引數設定`-D`。
 
 以秒為單位指定機碼的值。例如：`-Dadobe.component.registry.timeout=300`
 
