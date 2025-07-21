@@ -10,7 +10,7 @@ ht-degree: 97%
 
 ---
 
-# 在 AEM[!DNL  Forms] JEE 上安裝 Cumulative Fix Pack{#installing-cumulative-fix-packs-on-aem-forms-jee}
+# 在 AEM[!DNL &#x200B; Forms] JEE 上安裝 Cumulative Fix Pack{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## 在 AEM 6.3 [!DNL Forms JEE] 上安裝 CFP  {#install-cfp-forms-6-3}
 
@@ -23,7 +23,7 @@ ht-degree: 97%
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package}
 
-AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
+AEM[!DNL &#x200B; Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
 ### CQ-4208044 的更多說明 {#additional-instructions-for-cq}
 
@@ -38,7 +38,7 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 1. 再次匯入修改的檔案，然後重新執行同步。
 
-## 在 AEM 6.2 [!DNL  Forms JEE] 上安裝 CFP  {#install-cfp-on-aem-62-forms-jee}
+## 在 AEM 6.2 [!DNL &#x200B; Forms JEE] 上安裝 CFP  {#install-cfp-on-aem-62-forms-jee}
 
 若要在 AEM 6.2 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack，以下列順序執行步驟。
 
