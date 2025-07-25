@@ -4,9 +4,9 @@ description: 了解 Experience Manager 文件中的新增、更新或變更內�
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
 source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1934'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 99%
 | 2020 年 8 月 27 日 | Dynamic Media 中的 CDN 失效 | 您現在可以從 Dynamic Media 傳送要求，讓 CDN 快取在數分鐘內過期。當您更新資產，並希望這些變更立即在您的網站上生效時，這項功能相當實用。<br>請參閱[透過 Dynamic Media 使 CDN 快取失效。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/invalidate-cdn-cache-dynamic-media) |
 | 2020 年 8 月 11 日 | 發佈頁面的 On Time 和 Off Time | 當您使用 [On Time 和 Off Time](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/sites/authoring/sites-console/page-properties) 發佈頁面時，請參閱「頁面屬性」的「Basic」索引標籤，您現在可以[預設自動複製。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/operations/replication) |
 | 2020 年 7 月 23 日 | 核心元件 | 核心元件 2.11.0 版推出 AMP 支援，並且提供 [Authoring 說明文件](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-core-components/using/introduction)和[開發人員詳細資訊，並可透過 GitHub 下載專案。](https://github.com/adobe/aem-core-wcm-components) |
-| 2020 年 7 月 15 日 | Sling 速查表 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/sling-cheatsheet)已更新為參考[HTL。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-htl/content/overview) |
+| 2020 年 7 月 15 日 | Sling 速查表 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/implementing/developing/full-stack/sling-cheatsheet) 已更新，以參考 [HTL。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-htl/content/overview) |
 | 2020 年 6 月 24 日 | 內容片段 | [說明文件已更新，目前為標準模型。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/content-fragments/content-fragments) |
 | 2020 年 6 月 19 日 | Experience Manager | Adobe 目標是讓程式碼、文件和服務體驗都使用同等的專業用語。<br>因此，此文件集已進行更新。 |
 | 2020 年 6 月 19 日 | 核心元件 | 核心元件 2.10.0 版推出 PDF Viewer 元件，並且提供 [Authoring 說明文件](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-core-components/using/introduction)和[開發人員詳細資訊，並可透過 GitHub 下載專案。](https://github.com/adobe/aem-core-wcm-components) |
@@ -77,7 +77,7 @@ ht-degree: 99%
 | 2020 年 9 月 3 日 | 在 Dynamic Media 中使用選擇性發佈 | 您可以選擇在檔案夾層級向或從 Experience Manager 或 Dynamic Media 發佈或取消發佈資產。您可以使用「**[!UICONTROL 管理發佈]**」或「**[!UICONTROL 快速發佈]**」來完成此任務。此方法避免了僅依賴 **Dynamic Media 設定**，該設定將設定全域套用至 Dynamic Media 執行個體中的所有資料夾。<br>請參閱[在 Dynamic Media 中使用選擇性發佈](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/dynamic/selective-publishing)。 |
 | 2020 年 9 月 3 日 | Experience Manager 6.5 Service Pack 6 | [Experience Manager 6.5 Service Pack 6 ](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-6) 現已推出。 |
 | 2020 年 7 月 29 日 | 多網站管理員 | [建立同步化動作](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-msm)和[建立轉出設定](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/developing/extending-aem/extending-msm)程序已更新。 |
-| 2020 年 7 月 15 日 | Sling 速查表 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/developing/platform/sling-cheatsheet)已更新為參考[HTL。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-htl/content/overview) |
+| 2020 年 7 月 15 日 | Sling 速查表 | [`Sling Cheatsheet`](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/developing/platform/sling-cheatsheet) 已更新，以參考 [HTL。](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-htl/content/overview) |
 | 2020 年 6 月 19 日 | Adobe Experience Manager | Adobe 目標是讓程式碼、文件和服務體驗都使用同等的專業用語。<br>因此，此文件進行了更新，以反映該同等性。 |
 | 2020 年 6 月 4 日 | 透過 Brand Portal 設定 Experience Manager Assets | Adobe Developer Console 擁有新的使用者介面和工作流程以及新的品牌化。此文件是根據最新 Adobe Developer Console 工作流程進行更新，以便能透過 Brand Portal 設定 Experience Manager Assets：<br>- [透過 Brand Portal 設定 Experience Manager Assets](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/brandportal/configure-aem-assets-with-brand-portal)<br>- [將舊組態升級為 Adobe Developer Console](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/brandportal/configure-aem-assets-with-brand-portal) |
 | 2020 年 6 月 4 日 | Experience Manager 6.5 Service Pack 5 | [Experience Manager 6.5 Service Pack 5 ](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-5) 現已推出。 |
