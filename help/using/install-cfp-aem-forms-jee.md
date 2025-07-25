@@ -16,7 +16,7 @@ ht-degree: 100%
 
 若要在 AEM 6.3 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack，以下列順序執行步驟。
 
-1. 若要取得 AEM 6.3 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
+1. 若要取得 AEM 6.3 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
 1. 安裝最新的 AEM CFP 6.3.3.x
 1. 安裝適用於 AEM CFP [6.3.3.x](aem-forms-releases.md) 的 [!DNL Forms] 附加元件套件
@@ -42,7 +42,7 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 若要在 AEM 6.2 [!DNL Forms JEE] 上安裝 Cumulative Fix Pack，以下列順序執行步驟。
 
-1. 若要取得 AEM 6.2 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)。
+1. 若要取得 AEM 6.2 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
 1. 安裝 AEM Hotfix 12785 7.0 版。
 1. 安裝 AEM 6.2 Service Pack 1。
