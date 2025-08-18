@@ -3,9 +3,9 @@ title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
 source-git-commit: b1d6332f485665eb693f6f8277168d477f231209
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '515'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -51,11 +51,11 @@ ht-degree: 94%
 
 >[!CAUTION]
 >
->**計劃維護排除期**
+>**規劃維護排除期**
 >
-> 以下時間範圍內不會執行自動AEMaaCS維護，開始和結束於午夜(00:00) CET：
+> 以下時間範圍內 (於午夜 (00:00) CET 開始和結束) 不會執行自動 AEMaaCS 維護：
 >
->* 2025年11月24日星期一至2025年12月2日星期二。
+>* 2025 年 11 月 24 日星期一至 2025 年 12 月 2 日星期二。
 >* 2025 年 12 月 8 日星期一至 2026 年 1 月 2 日星期五。
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
