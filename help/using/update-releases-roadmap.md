@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3ebaf5e0257cf289904e5018013086ad0e213e28
+source-git-commit: 161c472d9a394da18711d04e85eb7af1278e6f2f
 workflow-type: tm+mt
 source-wordcount: '517'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
@@ -68,7 +68,7 @@ ht-degree: 99%
 
 | 發行 | 版本 | 類型 | 排程 | 狀態 |
 |---|---|---|---|---|
-| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 2025 年 8 月 21 日 | 目標 |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 1 | 6.5.LTS.SP1 | Service Pack | 2025 年 8 月 28 日 | 目標 |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
