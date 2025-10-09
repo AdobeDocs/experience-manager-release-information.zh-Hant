@@ -21,7 +21,7 @@ ht-degree: 85%
 
 [!DNL Experience Manager]as a [!DNL Cloud Service] 通常以新功能的每月發行節奏為目標。
 
-如需了解目前/最新版本的詳細資訊，請參閱 [ [!DNL Experience Manager] as a [!DNL Cloud Service] 現有發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
+如需了解目前/最新版本的詳細資訊，請參閱 [&#x200B; [!DNL Experience Manager] as a [!DNL Cloud Service] 現有發行說明](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)。您還可以從那裡瀏覽至先前版本的詳細資訊 (按時間順序排列)。
 
 ## [!DNL Experience Manager] 內部部署和 Managed Services {#aem-on-prem-managed-services}
 
