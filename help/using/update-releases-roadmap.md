@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 3d62c485b218bb650c13293acbc366861e061107
+source-git-commit: 53b6ab54aa768747ff6153b529315ad9190d8dd5
 workflow-type: tm+mt
-source-wordcount: '554'
+source-wordcount: '556'
 ht-degree: 99%
 
 ---
@@ -36,15 +36,15 @@ ht-degree: 99%
 | 維護版本 [22171](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22171) | 自動更新 | 2025 年 9 月 8 至 10 日 | 已更新 |
 | 維護版本 [22450](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-9-0#22450) | 自動更新 | 2024 年 9 月 22 至 24 日 | 已更新 |
 | 功能版本 [2025.9.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2025 年 9 月 25 日 | 已啟用 |
-| 維護版本 [22758](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自動更新 | 2025 年 10 月 6 至 8 日 | 已更新 |
+| 維護版本 [22758](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22758) | 自動更新 | 2025 年 10 月 6 至 8 日 | 已更新 |
+| 維護版本 [22943](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-10-0#22943) | 自動更新 | 2025 年 10 月 20 至 22 日 | 已更新 |
 
 ### 即將[!DNL Cloud Service] 發布的版本 {#upcoming}
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 維護版本 [22943](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025 年 10 月 20 至 22 日 | 目標 |
 | 功能版本 2025.10.0 | 功能啟用 | 2025 年 10 月 30 日 | 目標 |
-| 維護版本 | 自動更新 | 2025 年 11 月 3 至 5 日 | 目標 |
+| 維護版本 [23122](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2025 年 11 月 3 至 5 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 11 月 17 至 19 日 | 目標 |
 | 功能版本 2025.11.0 | 功能啟用 | 2025 年 11 月 20 日 | 目標 |
 | 維護版本 | 自動更新 | 2025 年 12 月 8 至 10 日 | 目標 |
