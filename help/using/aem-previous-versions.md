@@ -4,9 +4,9 @@ description: 下載舊版 Adobe Experience Manager、CQ 和 CRX 的說明文件�
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
 source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '571'
-ht-degree: 100%
+workflow-type: tm+mt
+source-wordcount: '579'
+ht-degree: 96%
 
 ---
 
@@ -95,7 +95,7 @@ ht-degree: 100%
 
 1. 在確認對話框中，再次選取&#x200B;**[!UICONTROL 安裝]**。安裝需要幾分鐘時間。
 
-1. 在網頁瀏覽器中，啟動說明文件頁面。以 AEM 5.6.1 當作範例，URL 會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在網頁瀏覽器中，啟動說明文件頁面。以AEM 5.6.1為例，URL會是： http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 取得 [!DNL Experience Manager] 社群的協助 {#get-help-from-aem-community}
 
