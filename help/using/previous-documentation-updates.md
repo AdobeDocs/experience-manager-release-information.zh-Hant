@@ -3,10 +3,10 @@ title: 先前文件更新
 description: 了解更多關於  [!DNL Adobe Experience Manager] 的先前重要說明文件變更和更新內容。
 contentOwner: alvawb
 exl-id: e68cdadf-43c1-47d9-99cf-420d582cb575
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 4789d586a9222d7f94283c56b7b71680f68726fe
+workflow-type: tm+mt
 source-wordcount: '1172'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -176,7 +176,7 @@ ht-degree: 100%
   <tr>
    <td>2019 年 5 月 31 日</td> 
    <td>AEM 和 Adob​​e Commerce 整合 </td> 
-   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/content-and-commerce/integrations/magento">Commerce 整合架構</a>。</td> 
+   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">商務整合架構</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 24 日</td> 
