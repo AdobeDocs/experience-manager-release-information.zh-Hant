@@ -176,7 +176,7 @@ ht-degree: 99%
   <tr>
    <td>2019 年 5 月 31 日</td> 
    <td>AEM 和 Adob​​e Commerce 整合 </td> 
-   <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">商務整合架構</a>。</td> 
+   <td><a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/content-and-commerce/cif-storefront/integrations/magento#">商務整合架構</a>。</td> 
   </tr>
   <tr>
    <td>2019 年 5 月 24 日</td> 
