@@ -35,7 +35,7 @@ ht-degree: 94%
 | 功能版本 [2025.10.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-10-0) | 功能啟用 | 2025 年 10 月 30 日 | 已啟用 |
 | 維護版本 [23385](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-11-0#23385) | 自動更新 | 2025 年 11 月 17 至 19 日 | 已更新 |
 | 功能版本 [2025.11.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2025/release-notes-2025-11-0) | 功能啟用 | 2025 年 11 月 20 日 | 已啟用 |
-| 維護版本 [23482](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 自動更新 | 2025 年 12 月 8 至 10 日 | 已更新 |
+| 維護版本 [23482](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2025/2025-12-0#23482) | 自動更新 | 2025 年 12 月 8 至 10 日 | 已更新 |
 | 功能版本 [2025.12.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2025 年 12 月 11 日 | 已啟用 |
 
 ### 即將發布的 [!DNL Cloud Service] 版本 {#upcoming}
