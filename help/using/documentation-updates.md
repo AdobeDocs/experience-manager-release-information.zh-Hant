@@ -3,10 +3,10 @@ title: Experience Manager 最近文件更新
 description: 了解 Experience Manager 文件中的新增、更新或變更內容。
 contentOwner: trushton
 exl-id: 8c136a03-f961-4854-af38-45457b85d289
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
+source-git-commit: 19c14469de7ac389ca49bd321550ecafce5ef618
+workflow-type: tm+mt
 source-wordcount: '1934'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -33,7 +33,7 @@ ht-degree: 100%
 | 日期 | 主題 | 變更 |
 | --- | --- | --- |
 | 2021 年 11 月 25 日 | AEM 含 Dynamic Media 設定 | 您現在可以直接在 AEM 的 Dynamic Media 中設定「一般設定」和「發佈設定」，而無需使用 Dynamic Media 桌面應用程式。<br>請參閱[進行 Dynamic Media 一般設定](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/dynamic/dm-general-settings)和[進行影像伺服器的 Dynamic Media 發佈設定](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/dynamic/dm-publish-settings)。<br>另請參閱[設定 Dynamic Media - Scene7 模式](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/assets/dynamic/config-dms7) |
-| 2021 年 11 月 4 日 | AEM 含 Dynamic Media - 智慧裁切 | 已使用最新 Adobe Sensei 服務改良影像資產的智慧裁切與智慧色樣。文件更新包括以下內容：<br>•「影像設定檔」中「裁切選項」對話框內的全新&#x200B;**[!UICONTROL 保留所有目標解析度的裁切內容]**&#x200B;選項。<br>• 其增強了企業表單和文件的網頁和行動體驗。此功能使組織能夠完成複雜的數位互動、改善使用者體驗並擴展其業務範圍。然而，如果您在「影像設定檔」的&#x200B;**[!UICONTROL 回應式影像裁切]**&#x200B;區域中編輯寬度或/及高度，這些資產就需要重新處理。<br>• 智慧裁切與色票支援的新影像檔案格式表格。<br>如需這些更新內容，請參閱[影像設定檔](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)。 |
+| 2021 年 11 月 4 日 | AEM 含 Dynamic Media - 智慧裁切 | 已使用最新Adobe AI服務改良影像資產的智慧型裁切與智慧型色票功能。 文件更新包括以下內容：<br>•「影像設定檔」中「裁切選項」對話框內的全新&#x200B;**[!UICONTROL 保留所有目標解析度的裁切內容]**&#x200B;選項。<br>• 其增強了企業表單和文件的網頁和行動體驗。此功能使組織能夠完成複雜的數位互動、改善使用者體驗並擴展其業務範圍。然而，如果您在「影像設定檔」的&#x200B;**[!UICONTROL 回應式影像裁切]**&#x200B;區域中編輯寬度或/及高度，這些資產就需要重新處理。<br>• 智慧裁切與色票支援的新影像檔案格式表格。<br>如需這些更新內容，請參閱[影像設定檔](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/image-profiles)。 |
 | 2021 年 11 月 3 日 | 智慧裁切視訊檢視器 API | 現在 Dynamic Media 檢視器參考指南中有提供全新[智慧裁切視訊檢視器 API 文件](https://experienceleague.adobe.com/zh-hant/docs/dynamic-media-developer-resources/library/viewers-for-aem-assets-only/smartcropvideo/c-html5-aem-smartcropvideo-viewer-reference)。 |
 | 2020 年 12 月 2 日 | `Batch Set Presets` | 了解如何使用 Dynamic Media 中的批次集預設集自動建立影像集和迴轉集。請參閱[批次集預設集](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/batch-set-presets-dm)。 |
 | 2020 年 12 月 2 日 | Dynamic Media 無障礙內容 | Dynamic Media 和 Dynamic Media 檢視器支援 Authoring 使用者介面的鍵盤控制和輔助技術，例如 JAWS 和 NVDA 螢幕閱讀器。請參閱 [Dynamic Media 無障礙內容](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/assets/dynamicmedia/accessibility-dm)。 |
