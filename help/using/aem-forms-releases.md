@@ -3,7 +3,7 @@ title: AEM Forms 發行版本
 description: 了解關於 AEM Forms 所有發行版本與對應套件。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 6a222f920c79c624b9c70cbf95e89c0a6d43f8a4
+source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
 workflow-type: tm+mt
 source-wordcount: '3577'
 ht-degree: 97%
@@ -132,7 +132,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>組建版本</strong></td>
     </tr>
     <tr>
-      <td>2025年1月28日</td>
+      <td>2026年1月28日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes">
           適用於 AEM 6.5.24.0 的 AEM 6.5 Forms Service Pack 24 Forms 增益集封裝
@@ -1001,7 +1001,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
 `[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。macOS X 套件無法使用 PDF Generator 功能。
 
