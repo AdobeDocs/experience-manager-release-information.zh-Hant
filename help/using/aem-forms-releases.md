@@ -3,20 +3,20 @@ title: AEM Forms 發行版本
 description: 了解關於 AEM Forms 所有發行版本與對應套件。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: 41b9970bbde35a85f6de1e558eb9531f7f1b4816
+source-git-commit: b377e40acf38c2b056e4e2061a498f5950d9655b
 workflow-type: tm+mt
-source-wordcount: '3577'
-ht-degree: 97%
+source-wordcount: '15125'
+ht-degree: 96%
 
 ---
 
 # AEM [!DNL Forms] 版本 {#aem-forms-releases}
 
-Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式，旨在增強企業表單和文件的網頁和行動體驗。此功能使組織能夠完成複雜的數位互動、改善使用者體驗，並擴展其業務範圍。AEM 快速入門附有現成可用的 AEM [!DNL Forms]，但僅提供一組有限的功能。AEM [!DNL Forms] 增益集套件提供進階功能，例如與 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文件服務、工作流程引擎等整合。
+Adobe Experience Manager [!DNL Forms] 是部署在 AEM 上的應用程式， 旨在增強企業表單和文件的網頁和行動體驗。 此功能使組織能夠完成複雜的數位互動、改善使用者體驗，並擴展其業務範圍。 AEM 快速入門附有現成可用的 AEM [!DNL Forms]，但僅提供一組有限的功能。 AEM [!DNL Forms] 增益集套件提供進階功能，例如與 [!DNL Adobe Analytics]、[!DNL Adobe Sign]、文件服務、工作流程引擎等整合。
 
 >[!NOTE]
 >
->調適型表單功能 (適用於 [AEM 6.5 QuickStart](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)) 僅用於探索和評估目的。若要供生產使用，必須獲得 AEM Forms 的有效許可；調適型表單的功能需要適當許可才可使用。
+>調適型表單功能 (適用於 [AEM 6.5 QuickStart](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/implementing/deploying/deploying/deploy)) 僅用於探索和評估目的。 若要供生產使用，必須獲得 AEM Forms 的有效許可；調適型表單的功能需要適當許可才可使用。
 
 <!--
 >[!NOTE]
@@ -111,6 +111,10 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/fd/adobe-aemfd-osx-pkg-6.1.152.zip">適用於 macOS X 的 AEM Forms 6.5 LTS 附加元件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq660/compatpack/adobe-aemfd-compat-pkg-2.1.2.zip">AEM Forms 6.5 LTS 相容性套件</a></li>
         </ul>
+                  <b style="display:block; margin:10px 0;">SDK</b>
+         <ul>
+           <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.1.152/">AEM Forms Client SDK</a>    </li>
+         </ul>
       </td>
       <td>
         <p>AEM Forms 6.5 LTS 套件附加元件：6.1.152</p>
@@ -154,7 +158,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <b style="display:block; margin:10px 0;">JEE 上的 AEM Forms 修補安裝程式</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss® Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® Windows</a></li>
@@ -174,7 +178,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
       </td>
       <td>
-        <p>AEM Forms OSGI修補程式安裝程式：6.0.1452<br/><p>AEM Forms JEE 修補安裝程式：6-5-0-0115 <br/><p>AEM Forms 相容性套件：6.0.1448 <br/></p></td>
+        <p>AEM Forms OSGI修補程式安裝程式：6.0.1452<br/><p>AEM Forms JEE修補程式安裝程式：6-5-0-0115 <br/><p>AEM Forms 相容性套件：6.0.1448 <br/></p></td>
     </tr>
     <tr>
       <td>2025 年 6 月 6 日</td>
@@ -1001,21 +1005,21 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
-`[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。macOS X 套件無法使用 PDF Generator 功能。
+`[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。 macOS X 套件無法使用 PDF Generator 功能。
 
 6.5.4.0 適用的 `[3]` AEM [!DNL Forms] 相容性套件與 6.5.3.0 版本相同。
 
 ## 注意事項 {#things-to-remember}
 
 * 上述 AEM Forms 增益集套件適用於 OSGi 上的 AEM [!DNL Forms] 和 JEE 上的 AEM [!DNL Forms]。
-* 所有 AEM [!DNL Forms] 套件和快速修正程式均為累積式；也就是說，套件和快速修正包含對應版本元件的所有先前附加元件和快速修正。舉例來說，如果您安裝快速修正程式 2.4.50，其中已包含 AEM [!DNL Forms] 增益集套件 2.4.26。
+* 所有 AEM [!DNL Forms] 套件和快速修正程式均為累積式；也就是說，套件和快速修正包含對應版本元件的所有先前附加元件和快速修正。 舉例來說，如果您安裝快速修正程式 2.4.50，其中已包含 AEM [!DNL Forms] 增益集套件 2.4.26。
 
   >[!NOTE]
   >
   >累積增益集套件和快速修正程式表示版本的前兩個數字完全相同。
 
-* 務必安裝最新推出的 Service Pack/Feature Pack 增益集套件。強烈建議安裝，因具安全性、效能、穩定性，以及基礎版本全面推出以來發行的重要客戶修正和增強功能。
-* 安裝 Service Pack 或從舊版 AEM 升級至更新版本時，務必安裝對應的 AEM [!DNL Forms] 增益集套件。舉例來說，如果您從 AEM 6.1 [!DNL Forms] 增益集套件 2.2.4 版升級至 AEM 6.1 Service Pack 1，安裝 AEM 6.1 Service Pack 1 後，請安裝 AEM [!DNL Forms] 增益集套件 2.4.50 版。
+* 務必安裝最新推出的 Service Pack/Feature Pack 增益集套件。 強烈建議安裝，因具安全性、效能、穩定性，以及基礎版本全面推出以來發行的重要客戶修正和增強功能。
+* 安裝 Service Pack 或從舊版 AEM 升級至更新版本時，務必安裝對應的 AEM [!DNL Forms] 增益集套件。 舉例來說，如果您從 AEM 6.1 [!DNL Forms] 增益集套件 2.2.4 版升級至 AEM 6.1 Service Pack 1，安裝 AEM 6.1 Service Pack 1 後，請安裝 AEM [!DNL Forms] 增益集套件 2.4.50 版。
 * 不支援解除安裝 AEM [!DNL Forms] 增益集套件。
