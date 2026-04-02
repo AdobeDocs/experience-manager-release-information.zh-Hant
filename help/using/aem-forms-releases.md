@@ -3,10 +3,10 @@ title: AEM Forms 發行版本
 description: 了解關於 AEM Forms 所有發行版本與對應套件。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: b377e40acf38c2b056e4e2061a498f5950d9655b
+source-git-commit: 7ec2156ec3af9cdd9d5176a885a6d3b024703c40
 workflow-type: tm+mt
-source-wordcount: '15125'
-ht-degree: 96%
+source-wordcount: '15313'
+ht-degree: 94%
 
 ---
 
@@ -44,6 +44,32 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>可用的套件</strong></td>
       <td><strong>組建版本</strong></td>
     </tr>
+    <tr>
+      <td>2026年2月19日</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 2 
+        </a>
+      </td>
+      <td>
+        JEE安裝程式上的<b style="display:block; margin:10px 0;">AEM Forms 6.5 LTS SP2</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]0327-1-12345/jboss/aemforms_server_6_6_0_jboss_all_win.zip">Experience Manager 6.5 LTS SP2 JBoss EAP和Microsoft Windows的Forms安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]-1-12345/jboss/aemforms_server_6_6_0_jboss_all_unix.tar.gz">Experience Manager 6.5 LTS SP2 JBoss EAP和Linux的Forms安裝程式
+</a></li>
+<li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]ges/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.206.zip">適用於Linux®的AEM Forms 6.5 LTS SP2附加元件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]kages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.206.zip">適用於Windows的AEM Forms 6.5 LTS SP2附加元件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?pack[...]kages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.206.zip">適用於macOS X的AEM Forms 6.5 LTS SP2附加元件</a></li>
+        </ul>
+      </td>
+      <td>
+      </td>
+     </tr>
      <tr>
       <td>2025年12月19日</td>
       <td>
@@ -139,7 +165,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2026年1月28日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes">
-          適用於 AEM 6.5.24.0 的 AEM 6.5 Forms Service Pack 24 Forms 增益集封裝
+          適用於AEM 6.5.24.0的AEM 6.5 Forms Service Pack 24 Forms附加元件套件
         </a>
       </td>
       <td>
@@ -184,7 +210,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025 年 6 月 6 日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes">
-          適用於 AEM 6.5.23.0 的 AEM 6.5 Forms Service Pack 23 Forms 增益集封裝
+          適用於AEM 6.5.23.0的AEM 6.5 Forms Service Pack 23 Forms附加元件套件
         </a>
       </td>
       <td>
@@ -467,7 +493,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
       </td>
       <td>
-        <p>AEM Forms JEE 完整安裝程式：
+        <p>AEM Forms JEE完整安裝程式： 
     6-5-0-20230913-1-12345 <br/><p>AEM Forms JEE 修補安裝程式：aemforms-6-5-0-0069<br/><p>AEM Forms 增益集套件：6.5.18.0 </p></td>
     </tr>
    <tr>
@@ -1005,7 +1031,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
 `[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。 macOS X 套件無法使用 PDF Generator 功能。
 
