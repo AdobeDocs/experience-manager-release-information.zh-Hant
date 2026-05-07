@@ -2,9 +2,9 @@
 title: Adobe Experience Manager 發行更新和藍圖
 description: 進一步了解 Adobe Experience Manager 發行更新和藍圖。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
-source-git-commit: 4390791c7698fb476af4d7f74e6e919875031608
+source-git-commit: ff508bf61f024474b6c15d836686ff6dbe7587e4
 workflow-type: tm+mt
-source-wordcount: '57'
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -21,4 +21,3 @@ ht-degree: 100%
 
 * [[!DNL Experience Manager] Forms 版本](aem-forms-releases.md)
 * [在 [!DNL Experience Manager] Forms JEE 安裝 Cumulative Fix Pack](install-cfp-aem-forms-jee.md)
-
