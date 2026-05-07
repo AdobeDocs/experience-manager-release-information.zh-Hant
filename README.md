@@ -1,10 +1,16 @@
 ---
-source-git-commit: d5c82c53f144aa1cae3ef6a85e67c133a5700390
+source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: tm+mt
-source-wordcount: '7'
-ht-degree: 0%
+source-wordcount: '73'
+ht-degree: 5%
 
 ---
-# 已封存
+# Adobe Experience Manager發行資訊
 
-此存放庫已移轉至<https://github.com/Adobe-Enterprise-Docs/experience-manager-release-information.zh-Hant>。
+此存放庫是供Adobe Experience Manager版本資訊使用。
+
+歡迎您協助撰寫說明檔案。 請參閱下列資源：
+
+* [contributing.md](contributing.md)如何協助撰寫本檔案的概述。
+* [guidelines.md](guidelines.md)預期貢獻內容以及如何協助編寫說明檔案的概述。
+* [code-of-conduct.md](code-of-conduct.md)概述Adobe期望在您貢獻本說明檔案專案時的行為標準。
