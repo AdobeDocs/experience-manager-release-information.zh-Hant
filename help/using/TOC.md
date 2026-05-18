@@ -15,7 +15,7 @@ level: Beginner, Intermediate, Experienced
 source-git-commit: e4acffb44dc17f6651139d6561c5aec39e4a576f
 workflow-type: tm+mt
 source-wordcount: 63
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -28,6 +28,6 @@ ht-degree: 93%
 + [AEM 更新發行工具定義](update-release-vehicle-definitions.md)
 + 先前版本更新 {#previous-updates}
    + [AEM、CQ 和 CRX 的較舊版本](aem-previous-versions.md)
-+ AEM Forms版本更新 {#forms-updates}
++ AEM Forms 發行更新 {#forms-updates}
    + [AEM Forms 發行版本](aem-forms-releases.md)
    + [在 AEM Forms JEE 上安裝累積修正套件](install-cfp-aem-forms-jee.md)
