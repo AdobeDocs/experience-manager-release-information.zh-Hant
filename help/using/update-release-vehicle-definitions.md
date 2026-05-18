@@ -5,7 +5,7 @@ contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
 workflow-type: ht
-source-wordcount: '740'
+source-wordcount: '743'
 ht-degree: 100%
 
 ---
@@ -35,7 +35,7 @@ ht-degree: 100%
 | 項目 | 說明 |
 |-----|-----|
 | 定義 | <ul> <li> 排程發行 </li> <li> 目前無法恢復 </li> </ul> |
-| 命名 | <ul> <li> 修補程式版本編號為單一數字 </li> <li> 安裝完成後，將根據公式 X.Y.Z.SPx 增加已安裝發行版本編號的修補程式數字 </li> </ul> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。X 代表 Service Pack 編號。 |
+| 命名 | <ul> <li> 修補程式版本編號為單一數字 </li> <li> 安裝完成後，將根據公式 X.Y.Z.SPx 增加已安裝發行版本編號的修補程式數字 </li> </ul> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 X 代表 Service Pack 編號。 |
 | 包含項目 | <ul> <li> 新功能</li> <li>  改善功能 </li> <li> 錯誤修正 </li> <li> Common Interest Feature Pack (如適用) </li> </ul> |
 | 文件 | <ul> <li> 說明文件入口網站會提供發行說明 </li> <li> 說明文件入口網站提供功能、改善功能和錯誤修正的說明文件 </li> </ul> |
 | 頻率 | 每季 |
@@ -47,11 +47,11 @@ ht-degree: 100%
 | 項目 | 說明 |
 |-----|-----|
 | 定義 | <ul> <li> 發行修正的單一傳送模型 </li> <li> 包含個別元件之內容套件的聚合器內容套件 </li> <li>  CFP 是 Hotfix 的變換版本，但並未提供任何改善功能。  </li> </ul> |
-| 命名 | X.Y.Z.CFPx <br> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。X 代表累積 Service pack 編號。 |
-| 包含項目 | CFP 是包含指定日期中所有元件修正的 Cumulative Fix Pack。例如，如果客戶套用 CFP3，則 CFP3 = CFP1 + CFP2。 |
+| 命名 | X.Y.Z.CFPx <br> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 X 代表累積 Service pack 編號。 |
+| 包含項目 | CFP 是包含指定日期中所有元件修正的 Cumulative Fix Pack。 例如，如果客戶套用 CFP3，則 CFP3 = CFP1 + CFP2。 |
 | 文件 | 說明文件入口網站會提供發行說明 |
 | 頻率 | 每季 |
-| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 不具相依性。客戶無需尋找/解決相依性問題。CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 不具相依性。 客戶無需尋找/解決相依性問題。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
 | 測試等級 | 已在整合層級和回歸測試中通過 QA 驗證 |
 
 ## 覆蓋 {#overlay}
@@ -69,12 +69,12 @@ ht-degree: 100%
 
 | 項目 | 詳細資料 |
 |--------|-----|
-| 定義 | <ul> <li>Feature Pack 為附加元件功能，是透過 Service Pack 提供。如果 [!DNL Experience Manager] 版本已發行最後一個 Service Pack，Adobe 將不再提供任何 Feature Pack。 </li> <li> FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據 [!DNL Adobe's] 產品管理的決定預先提供。</li> <li>  功能一律與下一個主要版本合併。然後移植到客戶所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA Feature Pack合併至下一個 Service Pack  </li> </ul> |
+| 定義 | <ul> <li>Feature Pack 為附加元件功能，是透過 Service Pack 提供。 如果 [!DNL Experience Manager] 版本已發行最後一個 Service Pack，Adobe 將不再提供任何 Feature Pack。 </li> <li> FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據 [!DNL Adobe's] 產品管理的決定預先提供。</li> <li>  功能一律與下一個主要版本合併。 然後移植到客戶所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA Feature Pack合併至下一個 Service Pack  </li> </ul> |
 | 命名 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
 | 包含項目 | <ul> <li> 新功能 </li> <li> 改善功能 </li> <li> 錯誤修正 (增量產品更新) </li> </ul> |
 | 文件 | 說明文件可由 adobe.com 取得。 |
 | 頻率 | 視產品區域而定 |
-| 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |
+| 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。 客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |
 | 測試等級 | 「一般可用性」Feature Pack已通過 QA 驗證。 |
 
-* 1：OAK 修正不會以單獨 Hotfix 的形式提供。然而，上述修正會包含在後續的累積 Oak Hotfix 中。如有需要，可以在最新的 COFP 之上提供診斷版本，但前提是客戶需運行最新的 COFP。診斷版本僅提供與 Hotfix 相同程度的品質保證，因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。最終修正將與下個 CFP 一併提供。
+* 1：OAK 修正不會以單獨 Hotfix 的形式提供。 然而，上述修正會包含在後續的累積 Oak Hotfix 中。 如有需要，可以在最新的 COFP 之上提供診斷版本， 但前提是客戶需運行最新的 COFP。 診斷版本僅提供與 Hotfix 相同程度的品質保證， 因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。 最終修正將與下個 CFP 一併提供。
