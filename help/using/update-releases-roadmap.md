@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 60391b5638d0a29c185ee30bb1c31bdc39d49bb5
+source-git-commit: 89520017766392e9e72e7bf3053f213ba26ba98b
 workflow-type: tm+mt
-source-wordcount: '1163'
-ht-degree: 66%
+source-wordcount: '1215'
+ht-degree: 69%
 
 ---
 
@@ -19,8 +19,7 @@ ht-degree: 66%
 
 ## [!DNL Experience Manager] as a [!DNL Cloud Service] {#aem-as-cloud-service}
 
-[!DNL Experience Manager] as a [!DNL Cloud Service]新功能是透過[每月啟動功能](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供，而增強功能和錯誤修正是透過[維護版本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)每月提供兩次。
-即將發行的[!DNL Experience Manager] as a [!DNL Cloud Service]版本規劃如下：
+[!DNL Experience Manager] as a [!DNL Cloud Service] 的新功能會透過[每月功能啟用](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current)提供，而增強功能和錯誤修正則透過每月兩次的[維護版本](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest)提供。[!DNL Experience Manager] as a [!DNL Cloud Service] 即將發行的版本預定如下：
 
 >[!IMPORTANT]
 >
@@ -48,14 +47,14 @@ ht-degree: 66%
 | 維護版本[26309](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-5-0#release-26309) | 自動更新 | 2026 年 5 月 25 至 27 日 | 已更新 |
 | 功能版本[2026.5.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-5-0) | 功能啟用 | 2026 年 5 月 28 日 | 已啟用 |
 | 維護版本[26353](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 自動更新 | 2026 年 6 月 8 至 10 日 | 已更新 |
-| 維護版本[26773](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026 年 6 月 22 至 24 日 | 已更新 |
+| 維護版本[26773](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 自動更新 | 2026 年 6 月 22 至 24 日 | 已更新 |
 | 功能版本[2026.6.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2026 年 6 月 25 日 | 已啟用 |
 
 ### 即將發布的 [!DNL Cloud Service] 版本 {#upcoming}
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 維護版本 | 自動更新 | 2026年7月6-8日 | 目標 |
+| 維護版本[26908](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年7月6-8日 | 目標 |
 | 維護版本 | 自動更新 | 2026年7月20至22日 | Target |
 | 2026.7.0版功能 | 功能啟用 | 2026年7月30日 | 目標 |
 
@@ -90,8 +89,7 @@ ht-degree: 66%
 >
 >針對 AEM 6.5：
 >
->* 6.5.26.0是AEM 6.5最後支援的Service Pack版本。
->  每個Service Pack自發行之日起最多可支援18個月 — 直到2027年2月28日。
+>* 6.5.26.0 是 AEM 6.5 最後支援的 Service Pack 版本。每個 Service Pack 自發行起最多可支援 18 個月，直到 2027 年 2 月 28 日為止。
 >* 適用於 **Adobe Managed Service** 客戶的 AEM 6.5 支援將於 2026 年 8 月 31 日終止。
 >* 適用於 **On Prem** 客戶的 AEM 6.5 核心支援目前計畫於 2027 年 2 月終止。
 >* AEM 6.5的支援繼續透過AEM 6.5 LTS提供。 請參閱[AEM 6.5 LTS常見問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/faq)。
