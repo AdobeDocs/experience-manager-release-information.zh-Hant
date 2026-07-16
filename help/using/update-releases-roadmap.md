@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: f99ec47fc6f25fa3582f6108cd36fb5c833c865e
+source-git-commit: af8a6e57c31622c80eb0b5db724bbd3909f4935b
 workflow-type: tm+mt
-source-wordcount: '1298'
-ht-degree: 66%
+source-wordcount: '1314'
+ht-degree: 61%
 
 ---
 
@@ -50,7 +50,7 @@ ht-degree: 66%
 | 維護版本[26353](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26353) | 自動更新 | 2026 年 6 月 8 至 10 日 | 已更新 |
 | 維護版本[26773](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-6-0#release-26773) | 自動更新 | 2026年6月22至24日 | 已更新 |
 | 功能版本[2026.6.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2026 年 6 月 25 日 | 已啟用 |
-| 維護版本[26908](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | 自動更新 | 2026年7月6-8日 | 已更新 |
+| 維護版本[26908](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-7-0#release-26908) | 自動更新 | 2026年7月6-8日 | 已更新 |
 | 維護版本[27083](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026年7月20至22日 | 目標 |
 
 ### 即將發布的 [!DNL Cloud Service] 版本 {#upcoming}
@@ -93,15 +93,20 @@ ht-degree: 66%
 | [!DNL Experience Manager] 6.5 [Service Pack 25](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服務包 | 2026 年 5 月 21 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | 服務包 | 2026 年 11 月 19 日 | 目標 |
 
+>[!AVAILABILITY]
+>
+> AEM 6.5可繼續透過AEM 6.5 LTS提供支援。 目前的6.5支援時間表：
+>
+> * **Adobe Managed Services**&#x200B;客戶：於2026年8月31日前結束。
+> * **內部部署**&#x200B;客戶：目前計畫於2027年2月結束核心支援。
+> 
+>AEM 6.5 LTS會涵蓋這兩個路徑。 如需詳細資訊，請參閱[AEM 6.5 LTS常見問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/faq)。
+
 >[!NOTE]
 >
->針對 AEM 6.5：
+> 6.5.26.0 是 AEM 6.5 最後支援的 Service Pack 版本。
 >
->* 6.5.26.0 是 AEM 6.5 最後支援的 Service Pack 版本。
->  每個 Service Pack 自發行起最多可支援 18 個月，直到 2027 年 2 月 28 日為止。
->* 適用於 **Adobe Managed Service** 客戶的 AEM 6.5 支援將於 2026 年 8 月 31 日終止。
->* 適用於 **On Prem** 客戶的 AEM 6.5 核心支援目前計畫於 2027 年 2 月終止。
->* AEM 6.5的支援繼續透過AEM 6.5 LTS提供。 請參閱[AEM 6.5 LTS常見問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/faq)。
+> 每個Service Pack自發行起最多可支援18個月，直到2027年2月28日為止。 請參閱[產品與技術支援期間](https://helpx.adobe.com/tw/support/programs/eol-matrix.html#cq)。
 
 >[!NOTE]
 >
