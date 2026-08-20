@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: 5aaa2a857065a1ec24c8f8996a2a474184bcd436
+source-git-commit: 1039b2dd92f3219f9cd2d45f6ec09f458bee2c96
 workflow-type: tm+mt
-source-wordcount: '1107'
+source-wordcount: '1112'
 ht-degree: 54%
 
 ---
@@ -26,9 +26,9 @@ ht-degree: 54%
 >
 >對於使用過時版本的客戶：為了協助確保AEM環境和相關執行個體的安全性和穩定性，您的程式必須以[!DNL Cloud Service]版本更新到最新的[!DNL Experience Manager]。
 >
->若要協調將您的環境帶入目前版本的計畫，請聯絡您的Adobe技術代表(CSME、TAM)。 目前版本較後六個月以上&#x200B;**的版本**&#x200B;需要透過Adobe協助進行逐步計畫更新。
+>若要協調將您的環境更新至目前版本的計畫，請聯絡您的Adobe技術代表(CSME、TAM)。 若版本比目前版本舊&#x200B;**超過六個月**，則需要透過Adobe協助排程更新。
 >
->請注意，如果&#x200B;**2026年4月30日**&#x200B;之前未採取任何動作，部署管道可能會停用，並且其他AEMaaCS功能可能會受到影響。 在不支援的版本上繼續操作，可能會對應用程式的穩定性和運作時間造成負面影響，並進一步增加安全性暴露風險。
+>請注意，如果您在&#x200B;**2026年4月30日**&#x200B;前未採取任何動作，Adobe可能會停用部署管道並影響其他AEMaaCS功能。 在不支援的版本上繼續操作，可能會對應用程式的穩定性和運作時間造成負面影響，並進一步增加安全性暴露風險。
 
 ### [!DNL Cloud Service] 舊版本 {#past}
 
@@ -68,7 +68,7 @@ ht-degree: 54%
 |---|---|---|---|---|
 | [!DNL Experience Manager] 6.5 LTS [服務包 1](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP1 | 服務包 | 2025 年 8 月 28 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 2](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | 服務包 | 2026 年 2 月 19 日 | 已啟用 |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 3 | 6.5.LTS.SP3 | 服務包 | 2026 年 8 月 20 日 | 目標 |
+| [!DNL Experience Manager] 6.5 LTS [Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | 服務包 | 2026 年 8 月 20 日 | 已啟用 |
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
 
@@ -90,7 +90,7 @@ ht-degree: 54%
 > * **Adobe Managed Services**&#x200B;客戶：於2026年8月31日前結束。
 > * **內部部署**&#x200B;客戶：目前計畫於2027年2月結束核心支援。
 > 
->AEM 6.5 LTS會涵蓋這兩個路徑。 如需詳細資訊，請參閱[AEM 6.5 LTS常見問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/faq)。
+>AEM 6.5 LTS涵蓋兩個路徑。 如需詳細資訊，請參閱[AEM 6.5 LTS常見問題](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/faq)。
 
 >[!NOTE]
 >
