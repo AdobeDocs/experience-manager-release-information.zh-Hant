@@ -3,7 +3,7 @@ title: Adobe Experience Manager 發行更新和藍圖
 description: 進一步了解 Adobe Experience Manager 發行更新和藍圖。
 exl-id: 861337af-1604-4a8d-aeda-23d80315c544
 source-git-commit: ff508bf61f024474b6c15d836686ff6dbe7587e4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '56'
 ht-degree: 100%
 
