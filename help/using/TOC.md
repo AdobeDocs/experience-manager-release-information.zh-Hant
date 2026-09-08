@@ -14,7 +14,7 @@ feature: Release Information
 role: Leader, Developer, Admin, User
 level: Beginner, Intermediate, Experienced
 source-git-commit: f64130f85d9a259c30ed679d067f43944c07c790
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: 63
 ht-degree: 100%
 
@@ -28,7 +28,7 @@ ht-degree: 100%
 + [AEM 發行藍圖](update-releases-roadmap.md)
 + [AEM 更新發行工具定義](update-release-vehicle-definitions.md)
 + 先前版本更新 {#previous-updates}
-   + [AEM、CQ 和 CRX 的較舊版本](aem-previous-versions.md)
+  + [AEM、CQ 和 CRX 的較舊版本](aem-previous-versions.md)
 + AEM Forms 發行更新 {#forms-updates}
-   + [AEM Forms 發行版本](aem-forms-releases.md)
-   + [在 AEM Forms JEE 上安裝累積修正套件](install-cfp-aem-forms-jee.md)
+  + [AEM Forms 發行版本](aem-forms-releases.md)
+  + [在 AEM Forms JEE 上安裝累積修正套件](install-cfp-aem-forms-jee.md)
