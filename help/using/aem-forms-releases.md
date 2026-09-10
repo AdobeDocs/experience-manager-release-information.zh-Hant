@@ -1,12 +1,12 @@
 ---
 title: AEM Forms 發行版本
-description: 了解關於 AEM Forms 所有發行版本與對應套件。
+description: 了解 AEM Forms 的所有發行版本及對應套件。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: abfe88b2d9d499ca10e26a198d99c52f8724ccd1
-workflow-type: ht
-source-wordcount: '16241'
-ht-degree: 100%
+source-git-commit: 71e0cf1e14117e9e7b6e09501af6140b1fbc8482
+workflow-type: tm+mt
+source-wordcount: '16443'
+ht-degree: 98%
 
 ---
 
@@ -45,6 +45,41 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>建置版本</strong></td>
     </tr>
     <tr>
+      <td>2026年9月8日</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
+          AEM 6.5 LTS Forms Service Pack 3
+        </a>
+      </td>
+      <td>
+        <strong style="display:block; margin:10px 0;">AEM Forms 6.5 LTS Service Pack 3 OSGi附加元件</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.1.238.zip">
+              適用於Microsoft Windows的AEM Forms 6.5 LTS Service Pack 3附加元件
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.1.238.zip">
+              適用於Linux®的AEM Forms 6.5 LTS Service Pack 3附加元件
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.1.238.zip">
+              適用於macOS的AEM Forms 6.5 LTS Service Pack 3附加元件
+            </a>
+          </li>
+        </ul>
+        <p>AEM Forms 6.5 LTS Service Pack 3 JEE安裝程式將於稍後推出。</p>
+      </td>
+      <td>6.1.238</td>
+    </tr>
+    <tr>
       <td>2026 年 6 月 18 日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
@@ -77,12 +112,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2026 年 2 月 19 日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 2
+          AEM 6.5 LTS Forms Service Pack 2 
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms Service Pack 2
+          AEM 6.5 LTS Forms Service Pack 2 
         </a>
       </td>
       <td>
@@ -103,12 +138,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td>2025 年 12 月 19 日</td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 LTS Forms 
         </a>
       </td>
       <td>
         <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes">
-          AEM 6.5 LTS Forms
+          AEM 6.5 LTS Forms 
         </a>
       </td>
       <td>
@@ -906,7 +941,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.434.zip">適用於 Linux® 的 AEM Forms 增益集套件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.434.zip">適用於 Windows 的 AEM Forms 增益集套件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.434.zip">適用於 macOS X 的 AEM Forms 增益集套件 [2]</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">JEE 嵌入套件上的 AEM Forms</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/featurepack/livecycle-embed-pkg-5.0.14.zip">AEM Forms on JEE 嵌入套件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/zh-hant/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20210524-1-938669/Workbench_DVD.zip">AEM Forms Workbench</a>      </li>
         </ul>
         <b style="display:block; margin:10px 0;">JEE 修補安裝程式</b>
@@ -924,7 +959,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
       <td>
-        <p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0028<br /> </p> AEM Forms 增益集套件：6.0.434</p> <p>Client SDK：6.0.434<br /> </p><p>AEM Forms Workbench：6.5.0.20210524.1.938669</p><p>JEE 上的 AEM Forms 嵌入套件：5.0.14</p></td>
+        <p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0028<br /> </p> AEM Forms 增益集套件：6.0.434</p> <p>Client SDK：6.0.434<br /> </p><p>AEM Forms 工作台：6.5.0.20210524.1.938669</p><p>JEE 上的 AEM Forms 嵌入套件：5.0.14</p></td>
     </tr>
    <tr>
     <td>2021 年 3 月 18 日</td>
@@ -953,7 +988,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>AEM Forms Client SDK [1]</li>  
      </ul> </td>
       <td>
-        <p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0025<br /> </p> AEM Forms 增益集套件：6.0.334</p> <p>AEM Forms 相容性套件：2.0.36</p><p>Client SDK：6.0.334<br /> </p><p>AEM Forms Designer 修補程式：650.014</p></td>
+        <p>AEM Forms JEE 安裝程式：AEMForms-6.5.0-0025<br /> </p> AEM Forms 增益集套件：6.0.334</p> <p>AEM Forms 相容性套件：2.0.36</p><p>Client SDK：6.0.334<br /> </p><p>AEM Forms 設計工具修補程式：650.014</p></td>
     </tr>
    <tr>
    <tr>
@@ -1025,7 +1060,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-WIN.zip">適用於 Windows 的 AEM Forms 增益集套件</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/AEM-FORMS-6.5.4.0-OSX.zip">適用於 macOS X 的 AEM Forms 增益集套件 [2]</a> </li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/compatpack/AEM-FORMS-6.5.3.0-COMPAT.zip">AEM Forms 相容性套件 [3]</a></li>
-          <li>AEM Workbench [1]</li>
+          <li>AEM 工作台 [1]</li>
           <li>AEM Forms Client SDK [1]</li>
           <li>AEM Forms JEE 安裝程式 [1]</li>
      </ul> </td>
@@ -1095,12 +1130,12 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li><a href="https://licensing.adobe.com/">AEM Forms JEE 安裝程式</a><sup> [1]</sup></li>
           <li><a href="https://licensing.adobe.com/">AEM Workbench</a> <sup>[1]</sup></li>
           <li><a href="https://licensing.adobe.com/">AEM Designer 安裝程式</a> <sup>[1]</sup></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms 應用程式來源</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 參照站台套件</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms 政府參照站台套件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FORMS-APP-SRC-PKG">AEM Forms 應用程式原始碼</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-FSI-REF-SITE">AEM Forms FSI 參照網站套件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/AEM-FORMS-6.5-GOV-REF-SITE">AEM Forms 政府參照網站套件</a></li>
      </ul> </td>
       <td>
-        <p>AEM Forms 增益集套件和用戶端 SDK：6.0.80</p> <p>AEM Websphere® 全域安全設定套件：6.5.0.20190329.1.935745</p> <p>AEM Forms 應用程式來源：5.0.16</p> <p> </p> </td>
+        <p>AEM Forms 增益集套件和用戶端 SDK：6.0.80</p> <p>AEM WebSphere® 全域安全設定套件：6.5.0.20190329.1.935745</p> <p>AEM Forms 應用程式來源：5.0.16</p> <p> </p> </td>
     </tr>
   </tbody>
  </table>
@@ -1120,6 +1155,6 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   >
   >累積增益集套件和快速修正程式表示版本的前兩個數字完全相同。
 
-* 務必安裝最新推出的服務包/Feature Pack 增益集套件。 強烈建議安裝，因具安全性、效能、穩定性，以及基礎版本全面推出以來發行的重要客戶修正和增強功能。
+* 務必安裝最新推出的服務包/Feature Pack 增益集套件。 強烈建議安裝此版本，因為其中包含自基礎版本正式推出以來發行的安全性、效能、穩定性，以及重要的客戶修正與增強功能。
 * 安裝服務包或從舊版 AEM 升級至更新版本時，務必安裝對應的 AEM [!DNL Forms] 增益集套件。 舉例來說，如果您從 AEM 6.1 [!DNL Forms] 增益集套件 2.2.4 版升級至 AEM 6.1 服務包 1，安裝 AEM 6.1 服務包 1 後，請安裝 AEM [!DNL Forms] 增益集套件 2.4.50 版。
 * 不支援解除安裝 AEM [!DNL Forms] 增益集套件。
