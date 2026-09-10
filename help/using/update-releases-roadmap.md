@@ -2,9 +2,9 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: e9efc525560e748137d4884ad4ec6b6e288bc732
+source-git-commit: 855946eca93d2e4f8a3efe274e4842e75b6e46b7
 workflow-type: tm+mt
-source-wordcount: '1143'
+source-wordcount: '1134'
 ht-degree: 94%
 
 ---
@@ -49,7 +49,6 @@ ht-degree: 94%
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 維護版本 | 自動更新 | 2026 年 9 月 14 至 16 日 | 目標 |
 | 功能版本 2026.9.0 | 功能啟用 | 2026 年 9 月 24 日 | 目標 |
 | 維護版本 | 自動更新 | 2026 年 9 月 28 至 30 日 | 目標 |
 | 維護版本 | 自動更新 | 2026年10月12至14日 | 目標 |
@@ -90,7 +89,7 @@ ht-degree: 94%
 | [!DNL Experience Manager] 6.5 [Service Pack 22](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-22) | 6.5.22.0 | Service Pack | 2024 年 11 月 21 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 [Service Pack 23](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-23) | 6.5.23.0 | Service Pack | 2025 年 5 月 22 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 [Service Pack 24](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/service-pack/6-5-24) | 6.5.24.0 | Service Pack | 2025 年 11 月 26 日 | 已啟用 |
-| [!DNL Experience Manager]&#x200B;[&#x200B; 6.5 Service Pack 25](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服務包 | 2026 年 5 月 21 日 | 已啟用 |
+| [!DNL Experience Manager][ 6.5 Service Pack 25](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes) | 6.5.25.0 | 服務包 | 2026 年 5 月 21 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 Service Pack 26 | 6.5.26.0 | 服務包 | 2026 年 11 月 19 日 | 目標 |
 
 >[!AVAILABILITY]
