@@ -3,9 +3,9 @@ title: AEM Forms 發行版本
 description: 了解 AEM Forms 的所有發行版本及對應套件。
 contentOwner: khsingh
 exl-id: 65cb9c6b-fb3f-4bf1-aa42-2d724914439a
-source-git-commit: ab26b8a8240bc8547f5becb68d180e78b9bc68b5
+source-git-commit: b52bcd4a3340a127cbd68657a0bbac64ca0d5548
 workflow-type: tm+mt
-source-wordcount: '16662'
+source-wordcount: '16700'
 ht-degree: 98%
 ---
 # AEM [!DNL Forms] 版本 {#aem-forms-releases}
@@ -93,6 +93,14 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               適用於WebSphere®和Linux®的AEM Forms 6.5 LTS Service Pack 3安裝程式
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Workbench 安裝程式</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/workbench/6-5-0-20260902-1-45/Workbench_DVD.zip">
+              AEM Forms工作台安裝程式
             </a>
           </li>
         </ul>
@@ -268,7 +276,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <b style="display:block; margin:10px 0;">AEM Forms on JEE 修補安裝程式</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/jboss/adobe-aem-forms-jee-service-pack-6.5.25.0-win-jboss.zip">JBoss® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/jboss/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-jboss.tar.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/jboss/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-jboss.tar.gz">JBoss® Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/weblogic/adobe-aem-forms-jee-service-pack-6.5.25.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/weblogic/adobe-aem-forms-jee-service-pack-6.5.25.0-linux-weblogic.tar.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-127/websphere/adobe-aem-forms-jee-service-pack-6.5.25.0-windows-websphere.zip">WebSphere® Windows</a></li>
@@ -1164,7 +1172,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
 `[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。 macOS X 套件無法使用 PDF Generator 功能。
 
