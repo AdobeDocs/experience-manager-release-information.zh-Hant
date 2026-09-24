@@ -2,10 +2,10 @@
 title: '[!DNL Adobe Experience Manager] 發行藍圖'
 description: '[!DNL Adobe Experience Manager] 發行藍圖'
 exl-id: c106d7a1-8810-4328-b99d-dad862a50640
-source-git-commit: aaad21bcbc053d4d2a587b371f0d7b01befbe64d
+source-git-commit: e019b22050582da4ad85e3e8986b2f74c3afea59
 workflow-type: tm+mt
-source-wordcount: '1153'
-ht-degree: 98%
+source-wordcount: '1170'
+ht-degree: 96%
 ---
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
@@ -40,14 +40,14 @@ ht-degree: 98%
 | 功能版本 [2026.7.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-7-0) | 功能啟用 | 2026 年 7 月 30 日 | 已啟用 |
 | 維護版本 [27293](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27293) | 自動更新 | 2026 年 8 月 3 至 5 日 | 已更新 |
 | 維護版本 [27673](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-8-0#release-27673) | 自動更新 | 2026 年 8 月 17 至 19 日 | 已更新 |
-| 功能版本 [2026.8.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2026 年 8 月 27 日 | 已啟用 |
+| 功能版本 [2026.8.0](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 功能啟用 | 2026 年 8 月 27 日 | 已啟用 |
 | 維護版本 [27830](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 自動更新 | 2026 年 8 月 31 日至 9 月 2 日 | 已更新 |
+| 功能版本[2026.9.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2026 年 9 月 24 日 | 已啟用 |
 
 ### 即將發布的 [!DNL Cloud Service] 版本 {#upcoming}
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 功能版本 2026.9.0 | 功能啟用 | 2026 年 9 月 24 日 | 目標 |
 | 維護版本[28386](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026 年 9 月 28 至 30 日 | 目標 |
 | 維護版本 | 自動更新 | 2026 年 10 月 12-14 日 | 目標 |
 | 維護版本 | 自動更新 | 2026 年 10 月 26-28 日 | 目標 |
