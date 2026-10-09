@@ -1,15 +1,32 @@
 ---
 title: 更新發行工具定義
-description: 本文章詳細說明各種類型的 [!DNL Experience Manager] 版本，包括完整版本、Feature Pack和服務套件。
+description: 本文章詳細說明各種型別的[!DNL Experience Manager]版本，包括完整版本、功能套件和Service Pack。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
-source-git-commit: 10cbece451b46e8d4dbf473d728a20994a5e42cd
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
 workflow-type: tm+mt
-source-wordcount: '743'
-ht-degree: 100%
-
+source-wordcount: '744'
+ht-degree: 97%
 ---
-
 # [!DNL Experience Manager] 更新發行工具定義 {#update-release-vehicle-definitions}
 
 本文件包含各種類型[!DNL Adobe Experience Manager]版本的詳細資訊，包括[!DNL Adobe]提供給客戶的完整版本、Feature Pack和服務套件。
@@ -46,12 +63,12 @@ ht-degree: 100%
 
 | 項目 | 說明 |
 |-----|-----|
-| 定義 | <ul> <li> 發行修正的單一傳送模型 </li> <li> 包含個別元件之內容套件的聚合器內容套件 </li> <li>  CFP 是 Hotfix 的變換版本，但並未提供任何改善功能。  </li> </ul> |
+| 定義 | <ul> <li> 發行修正的單一傳送模型 </li> <li> 包含個別元件之內容套件的聚合器內容套件 </li> <li>  CFP 是 Hotfix 的累積彙總，且不包含任何改善功能。  </li> </ul> |
 | 命名 | X.Y.Z.CFPx <br> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 X 代表累積 Service pack 編號。 |
 | 包含項目 | CFP 是包含指定日期中所有元件修正的 Cumulative Fix Pack。 例如，如果客戶套用 CFP3，則 CFP3 = CFP1 + CFP2。 |
 | 文件 | 說明文件入口網站會提供發行說明 |
 | 頻率 | 每季 |
-| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 不具相依性。 客戶無需尋找/解決相依性問題。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 可獨立運作。 客戶無需尋找/解決相依性問題。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
 | 測試等級 | 已在整合層級和回歸測試中通過 QA 驗證 |
 
 ## 覆蓋 {#overlay}
@@ -77,4 +94,4 @@ ht-degree: 100%
 | 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。 客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |
 | 測試等級 | 「一般可用性」Feature Pack已通過 QA 驗證。 |
 
-* 1：OAK 修正不會以單獨 Hotfix 的形式提供。 然而，上述修正會包含在後續的累積 Oak Hotfix 中。 如有需要，可以在最新的 COFP 之上提供診斷版本， 但前提是客戶需運行最新的 COFP。 診斷版本僅提供與 Hotfix 相同程度的品質保證， 因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。 最終修正將與下個 CFP 一併提供。
+* 1：OAK 修正不會以單獨 Hotfix 的形式提供。 然而，上述修正會包含在後續的累積 Oak Hotfix 中。 如有需要，可以在最新的 COFP 之上提供診斷版本。 但前提是客戶需運行最新的 COFP。 診斷版本僅提供與 Hotfix 相同程度的品質保證。 因此無法提供與 Cumulative Fix Pack、Service Pack 或產品發行相同等級的品質保證。 最終修正將與下個 CFP 一併提供。
