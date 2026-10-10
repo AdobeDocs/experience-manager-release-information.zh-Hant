@@ -3,13 +3,30 @@ title: 在 AEM Forms JEE 上安裝累積修正套件
 description: 在 AEM Forms JEE 上安裝和設定 Cumulative Fix Pack (CFP) 步驟摘要。
 contentOwner: AK
 exl-id: eed01a42-f4ab-4392-8b8e-eb5bbe2410a0
-source-git-commit: 953752d32794cbc32fd6e9747928b809bfe68066
-workflow-type: ht
-source-wordcount: '932'
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '946'
 ht-degree: 100%
-
 ---
-
 # 在 AEM[!DNL  Forms] JEE 上安裝 Cumulative Fix Pack{#installing-cumulative-fix-packs-on-aem-forms-jee}
 
 ## 在 AEM 6.3 [!DNL Forms JEE] 上安裝 CFP {#install-cfp-forms-6-3}
@@ -23,7 +40,7 @@ ht-degree: 100%
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package}
 
-AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。 在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
+AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者，提供與 AEM [!DNL Forms OSGi] 上相同的權限和功能。 在封裝管理器中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
 ### CQ-4208044 的更多說明 {#additional-instructions-for-cq}
 
@@ -44,14 +61,14 @@ AEM[!DNL  Forms JEE] 套件 (aemfd-jee-bundles-package-6.3CFP1；1.0.2 版) 為 
 
 1. 若要取得 AEM 6.2 [!DNL Forms JEE] 安裝程式以安裝 CFP，請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)。
 1. 執行 CFP 安裝程式，依照[安裝和設定 AEM  [!DNL Forms JEE]](install-cfp-aem-forms-jee.md#install-and-configure-aem-forms-jee) 中所述設定 AEM [!DNL Forms JEE]。
-1. 安裝 AEM Hotfix 12785 7.0 版。
+1. 安裝 AEM Hotfix 12785 的 7.0 版。
 1. 安裝 AEM 6.2 服務包 1。
 1. 安裝最新的 release-notes-aem-6-2-cumulative-fix-pack.md。
 1. 安裝適用於 AEM 6.2 服務包 1 CFP 的 [!DNL Forms] 附加元件套件。
 
 ### 安裝 AEM [!DNL Forms JEE] 套件組合套件 {#install-aem-forms-jee-bundles-package-1}
 
-AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者提供在與 AEM [!DNL Forms OSGi] 上相同的權限和功能。 在 Package Manager 中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
+AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM [!DNL Forms] 的 [!DNL Forms JEE] 使用者提供在與 AEM [!DNL Forms OSGi] 上相同的權限和功能。 在封裝管理器中查看已安裝的套件，且若尚未安裝該套件，請加以安裝。
 
 ### 為元件層級操作設定逾時 (NPR-16774) {#configuring-timeout-for-operations-at-component-level-npr}
 
@@ -59,7 +76,7 @@ AEM Forms JEE 套件 (aemfd-jee-bundles-package-6.2CFP5；1.0.2 版) 會為 AEM 
 >
 >在安裝 AEM 6.2 CFP4 後，您可透過下列說明為 DSC 操作設定逾時，以防在升級程序中因逾時遇到問題。
 
-DSC 部署因可能失敗，所花時間不一定。 若要變更 DSC 操作 (如安裝、載入、啟動和停止) 的逾時，必須使用 JVM 引數搭配 `-D` 選項來設定 `adobe.component.registry.timeout`。
+DSC 部署所需時間不定，因此可能會失敗。 若要變更 DSC 操作 (如安裝、載入、啟動和停止) 的逾時，必須使用 JVM 引數搭配 `-D` 選項來設定 `adobe.component.registry.timeout`。
 
 以秒為單位指定機碼的值。 例如：`-Dadobe.component.registry.timeout=300`
 
@@ -67,7 +84,7 @@ DSC 部署因可能失敗，所花時間不一定。 若要變更 DSC 操作 (�
 
 1. `adobe.all-component.timeout`：覆寫產品所有服務的逾時。
 1. `adobe.<serviceName>.timeout`：僅覆寫機碼中提及之服務 (&lt;serviceName>) 的逾時。 如果已設定服務層級的值，則使用此命令只會覆寫指定服務的逾時值 (如果在應用程式層級設定)。
-1. `adobe.<serviceName>.<operationName>.timeout`：僅覆寫機碼中提及之特定服務操作 (&lt;serviceName>.&lt;operationName>) 的逾時。如果在操作層級設定值，則使用此命令只會覆寫指定服務的逾時值 (如果在應用程式層級或服務層級設定)。
+1. `adobe.<serviceName>.<operationName>.timeout`：僅覆寫機碼中提及之特定服務操作 (&lt;serviceName>.&lt;operationName>) 的逾時。 如果在操作層級設定值，則使用此命令只會覆寫指定服務的逾時值 (如果在應用程式層級或服務層級設定)。
 
 **範例：**
 

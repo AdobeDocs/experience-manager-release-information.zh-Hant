@@ -3,20 +3,37 @@ title: 下載舊版 AEM、CQ 和 CRX 說明文件
 description: 下載舊版 Adobe Experience Manager、CQ 和 CRX 的說明文件套件。
 recommendations: noCatalog
 exl-id: c210eadb-58ec-4d40-ba72-5e4b11564510
-source-git-commit: 21b1429ca747fdef9a2d1ffe441c86d07ae281c7
-workflow-type: ht
-source-wordcount: '964'
-ht-degree: 100%
-
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+role_v2:
+  - id: f8a45b24-4be7-4f1b-909b-60d06b483a20
+    internal-label: Leader
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+workflow-type: tm+mt
+source-wordcount: '965'
+ht-degree: 97%
 ---
-
 # 舊版 [!DNL Adobe Experience Manager]、CQ 和 CRX 說明文件 {#older-versions-aem-cq-crx}
 
 尋找舊版 AEM、CQ 和 CRX 的先前說明指南。
 
 ## 舊版 [!DNL Experience Manager] 說明文件 {#older-version-aem-documentation}
 
-本頁所列的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已終止服務，Adobe 不再正式販售。 您可自助使用這些較舊版本的 Adobe 最新版本官方說明文件。 Adobe 建議您升級至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service)。
+本頁所列的 [!DNL Adobe Experience Manager]、CQ 和 CRX 版本已終止服務，Adobe 不再正式販售。 Adobe 提供這些舊版產品的最新版官方說明文件，供您自行參考。 Adobe 建議您升級至最新版本 - [[!DNL Adobe Experience Manager] as a Cloud Service](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service)。
 
 >[!NOTE]
 >
@@ -27,7 +44,7 @@ ht-degree: 100%
 下載套件前，請先決定要使用內容的對象。 此決定會決定其部署方式：
 
 * 開發人員可在本機安裝，以供快速參考。
-* 若為更廣泛的組織說明文件需求，Adobe 建議將此套件部署在內部可存取、非生產的 AEM Author 執行個體上。
+* 若為更廣泛的組織說明文件需求，Adobe 建議將此套件部署在內部可存取、非生產的 AEM 作者執行個體上。
 
 >[!NOTE]
 >
@@ -95,7 +112,7 @@ ht-degree: 100%
 
 1. 在確認對話框中，再次選取&#x200B;**[!UICONTROL 安裝]**。 安裝需要幾分鐘時間。
 
-1. 在網頁瀏覽器中，啟動說明文件頁面。 以 AEM 5.6.1 當作範例，URL 會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在網頁瀏覽器中，啟動說明文件頁面。 以AEM 5.6.1當作範例，URL會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 取得 [!DNL Experience Manager] 社群的協助 {#get-help-from-aem-community}
 
