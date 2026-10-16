@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
+source-git-commit: 81cdbe635093d2225a7d69b5123cb27af52dbda6
 workflow-type: tm+mt
-source-wordcount: '1222'
-ht-degree: 100%
+source-wordcount: '1268'
+ht-degree: 97%
 ---
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
@@ -62,16 +62,20 @@ ht-degree: 100%
 | 功能版本 [2026.8.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/2026/2026-8-0) | 功能啟用 | 2026 年 8 月 27 日 | 已啟用 |
 | 維護版本 [27830](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-9-0#release-27830) | 自動更新 | 2026 年 8 月 31 日至 9 月 2 日 | 已更新 |
 | 功能版本 [2026.9.0](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/release-notes/release-notes-current) | 功能啟用 | 2026 年 9 月 24 日 | 已啟用 |
-| 維護版本 [28386](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026 年 9 月 28 至 30 日 | 已更新 |
+| 維護版本 [28386](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/release-notes/maintenance/2026/2026-10-0#release-28386) | 自動更新 | 2026 年 9 月 28 至 30 日 | 已更新 |
+| 維護版本[28871](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-cloud-service/content/release-notes/maintenance/latest) | 自動更新 | 2026 年 10 月 12-14 日 | 已更新 |
 
 ### 即將發布的 [!DNL Cloud Service] 版本 {#upcoming}
 
 | 發行 | 事件 | 排程 | 狀態 |
 |---|---|---|---|
-| 維護版本 | 自動更新 | 2026 年 10 月 12-14 日 | 目標 |
-| 維護版本 | 自動更新 | 2026 年 10 月 26-28 日 | 目標 |
+| 維護版本 | 自動更新 | 2026年10月26至28日 | 目標 |
 | 功能版本 2026.10.0 | 功能啟用 | 2026 年 10 月 29 日 | 目標 |
 | 維護版本 | 自動更新 | 2026 年 11 月 9-11 日 | 目標 |
+| 功能版本2026.11.0 | 功能啟用 | 2026 年 11 月 19 日 | 目標 |
+| 維護版本 | 自動更新 | 2026年12月7-9日 | 目標 |
+| 功能版本2026.12.0 | 功能啟用 | 2026年12月10日 | 目標 |
+
 
 >[!CAUTION]
 >
@@ -96,7 +100,7 @@ ht-degree: 100%
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 2](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP2 | Service Pack | 2026 年 2 月 19 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 LTS [Service Pack 3](https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65-lts/content/release-notes/release-notes) | 6.5.LTS.SP3 | Service Pack | 2026 年 8 月 20 日 | 已啟用 |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 4 | 6.5.LTS.SP4 | Service Pack | 2027 年 2 月 18 日 | 目標 |
-| [!DNL Experience Manager] 6.5 LTS Service Pack 5 | 6.5.LTS.SP5 | 服務包 | 2027 年 5 月 20 日 | 目標 |
+| [!DNL Experience Manager] 6.5 LTS Service Pack 5 | 6.5.LTS.SP5 | Service Pack | 2027 年 5 月 20 日 | 目標 |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 6 | 6.5.LTS.SP6 | 服務包 | 2027 年 8 月 19 日 | 目標 |
 | [!DNL Experience Manager] 6.5 LTS Service Pack 7 | 6.5.LTS.SP7 | Service Pack | 2027 年 11 月 18 日 | 目標 |
 
