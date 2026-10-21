@@ -1,6 +1,6 @@
 ---
 title: 更新發行工具定義
-description: 本文章詳細說明各種型別的[!DNL Experience Manager]版本，包括完整版本、功能套件和Service Pack。
+description: 本文詳細說明各種 [!DNL Experience Manager] 版本類型，包括完整版本、功能套件與服務套件。
 contentOwner: AK
 exl-id: 936b8136-9edb-4e11-9c29-f0c3108c35bd
 product_v2:
@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '744'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # [!DNL Experience Manager] 更新發行工具定義 {#update-release-vehicle-definitions}
 
@@ -41,10 +41,10 @@ ht-degree: 97%
 |-------|------|
 | 定義 | <ul> <li> 排程發行 </li> <li> 支援特定版本的升級路徑 (於發行說明定義) </li> </ul> |
 | 命名 | <ul> <li> 主要版本的版本編號會依公式 X+1.Y.Z 而增加。 </li> <li> 次要版本的版本號碼會依公式 X.Y+1.Z 而增加 </li> </ul> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 |
-| 包含項目 | <ul> <li> 新功能 </li> <li>  改善功能 </li> <li>  錯誤修正 </li> </ul> |
+| 包含項目 | <ul> <li> 新功能 </li> <li>改善功能</li> <li>  錯誤修正 </li> </ul> |
 | 文件 | <ul> <li> 說明文件入口網站會提供發行說明 </li> <li> 說明文件入口網站會提供功能、改善功能和錯誤修正的說明文件 </li> </ul> |
 | 頻率 | 每年 |
-| 可用性與安裝 | <ul> <li> 以獨立產品安裝程式的形式提供 </li> <li>  可由授權網站和託管服務取得 </li> <li> 授權網站可能需要移轉內容存放庫 </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以獨立產品安裝程式的形式提供 </li> <li>可由授權網站和託管服務取得</li> <li> 授權網站可能需要移轉內容存放庫 </li> </ul> |
 | 測試等級 | 通過完整 QA 驗證 |
 
 ## Service Pack {#service-pack}
@@ -53,22 +53,22 @@ ht-degree: 97%
 |-----|-----|
 | 定義 | <ul> <li> 排程發行 </li> <li> 目前無法恢復 </li> </ul> |
 | 命名 | <ul> <li> 修補程式版本編號為單一數字 </li> <li> 安裝完成後，將根據公式 X.Y.Z.SPx 增加已安裝發行版本編號的修補程式數字 </li> </ul> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 X 代表 Service Pack 編號。 |
-| 包含項目 | <ul> <li> 新功能</li> <li>  改善功能 </li> <li> 錯誤修正 </li> <li> Common Interest Feature Pack (如適用) </li> </ul> |
+| 包含項目 | <ul> <li> 新功能</li> <li>改善功能</li> <li>錯誤修正</li> <li> Common Interest Feature Pack (如適用) </li> </ul> |
 | 文件 | <ul> <li> 說明文件入口網站會提供發行說明 </li> <li> 說明文件入口網站提供功能、改善功能和錯誤修正的說明文件 </li> </ul> |
 | 頻率 | 每季 |
-| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li> 在 Software Distribution 上提供</li> <li>  需要安裝現有功能 </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>在 Software Distribution 上提供</li> <li>  需要安裝現有功能 </li> </ul> |
 | 測試等級 | <ul> <li> 所有修正已通過 QA 驗證 </li> <li>  自動執行以維護整體套件的健全度 </li> </ul> |
 
 ## Cumulative Fix Pack {#cumulative-fix-pack-aem}
 
 | 項目 | 說明 |
 |-----|-----|
-| 定義 | <ul> <li> 發行修正的單一傳送模型 </li> <li> 包含個別元件之內容套件的聚合器內容套件 </li> <li>  CFP 是 Hotfix 的累積彙總，且不包含任何改善功能。  </li> </ul> |
+| 定義 | <ul> <li> 發行修正的單一傳送模型 </li> <li>包含個別元件之內容套件的聚合器內容套件</li> <li>  CFP 是 Hotfix 的累積彙總，且不包含任何改善功能。  </li> </ul> |
 | 命名 | X.Y.Z.CFPx <br> 其中 X 代表主要版本編號，Y 代表次要版本編號，而 Z 是修補程式編號。 X 代表累積 Service pack 編號。 |
 | 包含項目 | CFP 是包含指定日期中所有元件修正的 Cumulative Fix Pack。 例如，如果客戶套用 CFP3，則 CFP3 = CFP1 + CFP2。 |
 | 文件 | 說明文件入口網站會提供發行說明 |
 | 頻率 | 每季 |
-| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>  在 Software Distribution 上提供 </li> <li>  取決於最新發行的 Service Pack </li> <li>  CFP 可獨立運作。 客戶無需尋找/解決相依性問題。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
+| 可用性與安裝 | <ul> <li> 以套件形式提供 </li> <li>在 Software Distribution 上提供</li> <li>取決於最新發行的 Service Pack</li> <li>  CFP 可獨立運作。 客戶無需尋找/解決相依性問題。 CFP 應安裝在最新發行的 Service Pack。 </li> <li>  CFP 可作為單一套件進行安裝，用於改善客戶體驗。  </li> </ul> |
 | 測試等級 | 已在整合層級和回歸測試中通過 QA 驗證 |
 
 ## 覆蓋 {#overlay}
@@ -86,9 +86,9 @@ ht-degree: 97%
 
 | 項目 | 詳細資料 |
 |--------|-----|
-| 定義 | <ul> <li>Feature Pack 為附加元件功能，是透過 Service Pack 提供。 如果 [!DNL Experience Manager] 版本已發行最後一個 Service Pack，Adobe 將不再提供任何 Feature Pack。 </li> <li> FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據 [!DNL Adobe's] 產品管理的決定預先提供。</li> <li>  功能一律與下一個主要版本合併。 然後移植到客戶所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA Feature Pack合併至下一個 Service Pack  </li> </ul> |
+| 定義 | <ul> <li>Feature Pack 為附加元件功能，是透過 Service Pack 提供。 如果 [!DNL Experience Manager] 版本已發行最後一個 Service Pack，Adobe 將不再提供任何 Feature Pack。 </li> <li>FP 包含產品增強功能，已排定在後續產品發行時提供，但可能根據 [!DNL Adobe's] 產品管理的決定預先提供。</li> <li>  功能一律與下一個主要版本合併。 然後移植到客戶所需的 [!DNL Experience Manager] 版本 </li> <li>  Common Interest 和 GA Feature Pack合併至下一個 Service Pack  </li> </ul> |
 | 命名 | `cq-<Release Version>-featurepack-<feature pack ID>-<feature pack version>` |
-| 包含項目 | <ul> <li> 新功能 </li> <li> 改善功能 </li> <li> 錯誤修正 (增量產品更新) </li> </ul> |
+| 包含項目 | <ul> <li> 新功能 </li> <li>改善功能</li> <li> 錯誤修正 (增量產品更新) </li> </ul> |
 | 文件 | 說明文件可由 adobe.com 取得。 |
 | 頻率 | 視產品區域而定 |
 | 可用性與安裝 | <ul> <li>透過 Service Pack 提供 </li> <li> 在 Software Distribution 上提供。 客戶透過 Software Distribution 接受 [!DNL Adobe's] 條款與條件。 </li> </ul> |

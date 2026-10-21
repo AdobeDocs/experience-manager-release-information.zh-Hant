@@ -23,9 +23,9 @@ level_v2:
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
 source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '965'
-ht-degree: 97%
+ht-degree: 100%
 ---
 # 舊版 [!DNL Adobe Experience Manager]、CQ 和 CRX 說明文件 {#older-versions-aem-cq-crx}
 
@@ -112,7 +112,7 @@ ht-degree: 97%
 
 1. 在確認對話框中，再次選取&#x200B;**[!UICONTROL 安裝]**。 安裝需要幾分鐘時間。
 
-1. 在網頁瀏覽器中，啟動說明文件頁面。 以AEM 5.6.1當作範例，URL會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
+1. 在網頁瀏覽器中，啟動說明文件頁面。 使用 AEM 5.6.1 範例時，URL 會是：http://localhost:4502/libs/aem-docs/content/en/cq/5-6-1.html。
 
 ## 取得 [!DNL Experience Manager] 社群的協助 {#get-help-from-aem-community}
 
