@@ -22,10 +22,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 6aaf624fd330076bc64a1dc51ee8e21f8f435ec0
-workflow-type: ht
-source-wordcount: '16723'
-ht-degree: 100%
+source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+workflow-type: tm+mt
+source-wordcount: '16896'
+ht-degree: 98%
 ---
 # AEM [!DNL Forms] 版本 {#aem-forms-releases}
 
@@ -112,6 +112,34 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
           <li>
             <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-6-0-20260919-1-12345/websphere/aemforms_server_6_6_0_websphere_all_unix.tar.gz">
               適用於 WebSphere® 和 Linux® 的 AEM Forms 6.5 LTS Service Pack 3 安裝程式
+            </a>
+          </li>
+        </ul>
+        <strong style="display:block; margin:10px 0;">Forms Designer 64位元完整安裝程式(LTS 3)</strong>
+        <ul>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/english/aemforms_designer_6_6_0_wwe_win.zip">
+              英文安裝程式
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/french/aemforms_designer_6_6_0_wwf_win.zip">
+              法文安裝程式
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/german/aemforms_designer_6_6_0_d_win.zip">
+              德文安裝程式
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/japanese/aemforms_designer_6_6_0_j_win.zip">
+              日文安裝程式
+            </a>
+          </li>
+          <li>
+            <a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/designer-full-installer/spanish/aemforms_designer_6_6_0_wws_win.zip">
+              西班牙文安裝程式
             </a>
           </li>
         </ul>
@@ -319,11 +347,11 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         </ul>
         <b style="display:block; margin:10px 0;">Forms Designer 64 位元修補安裝程式</b>
         <ul>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">英文版安裝程式</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_French_Cumulative_QF.msp">法文版安裝程式</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">德文版安裝程式</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日文版安裝程式</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙文版安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_English_Cumulative_QF.msp">英文版安裝程式</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_French_Cumulative_QF.msp">法文版安裝程式</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_German_Cumulative_QF.msp">德文版安裝程式</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日文版安裝程式</a> </li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp25_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙文版安裝程式</a> </li>
         </ul>
       </td>
       <td>
@@ -352,7 +380,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <b style="display:block; margin:10px 0;">JEE 上的 AEM Forms 修補安裝程式</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-win-jboss.zip">JBoss® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/jboss/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-jboss.gz">JBoss® Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/weblogic/adobe-aem-forms-jee-service-pack-6.5.24.0-linux-weblogic.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-115/websphere/adobe-aem-forms-jee-service-pack-6.5.24.0-windows-websphere.zip">WebSphere® Windows</a></li>
@@ -396,7 +424,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <b style="display:block; margin:10px 0;">JEE 上的 AEM Forms 完整安裝程式</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/jboss/aemforms_server_6_5_0_jboss_all_win.zip">JBoss® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/jboss/aemforms_server_6_5_0_jboss_all_unix.tar.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/jboss/aemforms_server_6_5_0_jboss_all_unix.tar.gz">JBoss® Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/weblogic/aemforms_server_6_5_0_weblogic_all_win.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/weblogic/aemforms_server_6_5_0_weblogic_all_unix.tar.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/full-installer/6-5-0-20250606-1-12345/websphere/aemforms_server_6_5_0_websphere_all_win.zip">WebSphere® Windows</a></li>
@@ -405,7 +433,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
         <b style="display:block; margin:10px 0;">JEE 上的 AEM Forms 修補安裝程式</b>
         <ul>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/jboss/adobe-aem-forms-jee-service-pack-6.5.23.0-win-jboss.zip">JBoss® Windows</a></li>
-          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/jboss/adobe-aem-forms-jee-service-pack-6.5.23.0-linux-jboss.gz">JBoss®Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/jboss/adobe-aem-forms-jee-service-pack-6.5.23.0-linux-jboss.gz">JBoss® Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/weblogic/adobe-aem-forms-jee-service-pack-6.5.23.0-win-weblogic.zip">WebLogic Windows</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/weblogic/adobe-aem-forms-jee-service-pack-6.5.23.0-linux-weblogic.gz">WebLogic Linux®</a></li>
           <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/aemforms-6-5-0-0100/websphere/adobe-aem-forms-jee-service-pack-6.5.23.0-windows-websphere.zip">WebSphere® Windows</a></li>
@@ -1199,7 +1227,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
 `[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。 macOS X 套件無法使用 PDF Generator 功能。
 
