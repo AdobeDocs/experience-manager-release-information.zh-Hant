@@ -22,10 +22,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 39a9a4644f61255c183c0a0ec732d9974b20818d
+source-git-commit: 1ba38fca4b11858c2ad3a5a3f4cebb9a151b8ed3
 workflow-type: tm+mt
-source-wordcount: '16896'
-ht-degree: 98%
+source-wordcount: '17500'
+ht-degree: 96%
 ---
 # AEM [!DNL Forms] 版本 {#aem-forms-releases}
 
@@ -307,6 +307,54 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
       <td><strong>必備條件</strong></td>
       <td><strong>可用的套件</strong></td>
       <td><strong>組建版本</strong></td>
+    </tr>
+    <tr>
+      <td>2026年11月23日</td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes">
+          適用於AEM 6.5.26.0的AEM 6.5 Forms Service Pack 26 Forms附加元件套件
+        </a>
+      </td>
+      <td>
+        <a href="https://experienceleague.adobe.com/zh-hant/docs/experience-manager-65/content/release-notes/release-notes">
+          AEM 6.5.26.0
+        </a>
+      </td>
+      <td>
+        <b style="display:block; margin:10px 0;">AEM Forms on OSGi 修補安裝程式</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-linux-pkg-6.0.1540.zip">適用於 Linux® 的 AEM Forms 增益集套件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-win-pkg-6.0.1540.zip">適用於 Windows 的 AEM Forms 增益集套件</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/adobe-aemfd-osx-pkg-6.0.1540.zip">適用於 macOS X 的 AEM Forms 增益集套件[2]</a></li>
+        </ul>
+        <b style="display:block; margin:10px 0;">AEM Forms on JEE 修補安裝程式</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/jboss/adobe-aem-forms-jee-service-pack-6.5.26.0-win-jboss.zip">JBoss® Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/jboss/adobe-aem-forms-jee-service-pack-6.5.26.0-linux-jboss.tar.gz">JBoss® Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/weblogic/adobe-aem-forms-jee-service-pack-6.5.26.0-win-weblogic.zip">WebLogic Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/weblogic/adobe-aem-forms-jee-service-pack-6.5.26.0-linux-weblogic.tar.gz">WebLogic Linux®</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/websphere/adobe-aem-forms-jee-service-pack-6.5.26.0-windows-websphere.zip">WebSphere® Windows</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/fd/aemforms-6-5-0-136/websphere/adobe-aem-forms-jee-service-pack-6.5.26.0-linux-websphere.gz">WebSphere® Linux®</a></li>
+        </ul>
+        <p>相容性套件和Workbench未在SP26中發行。</p>
+        <b style="display:block; margin:10px 0;">SDK</b>
+        <ul>
+          <li><a href="https://repo1.maven.org/maven2/com/adobe/aemfd/aemfd-client-sdk/6.0.1540/">AEM Forms Client SDK</a></li>
+        </ul>
+        <b style="display:block; margin:10px 0;">Forms Designer 64 位元修補安裝程式</b>
+        <ul>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp26_x64/Designer6.5.0_English_Cumulative_QF.msp">英文安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp26_x64/Designer6.5.0_French_Cumulative_QF.msp">法文安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp26_x64/Designer6.5.0_German_Cumulative_QF.msp">德文安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp26_x64/Designer6.5.0_Japanese_Cumulative_QF.msp">日文安裝程式</a></li>
+          <li><a href="https://experience.adobe.com/#/downloads/content/software-distribution/en/aem.html?package=/content/software-distribution/en/details.html/content/dam/aem/public/adobe/packages/cq650/servicepack/fd/Designer-Patch/sp26_x64/Designer6.5.0_Spanish_Cumulative_QF.msp">西班牙文安裝程式</a></li>
+        </ul>
+      </td>
+      <td>
+        <p>AEM Forms OSGi修補程式安裝程式：6.0.1540</p>
+        <p>AEM Forms JEE修補程式安裝程式：6-5-0-136</p>
+        <p>AEM Forms使用者端SDK：6.0.1540</p>
+      </td>
     </tr>
     <tr>
       <td>2026 年 6 月 10 日</td>
@@ -1227,7 +1275,7 @@ The following list contains all the AEM [!DNL Forms] add-in packages released un
   </tbody>
  </table>
 
-`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/zh-hant?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
+`[1]` 請聯絡 [Adobe 支援](https://experienceleague.adobe.com/?support-solution=General&support-tab=home#support)，取得 Workbench、Rights Management SDK、Portable Protection Library (PPL) 和 Enhanced PPL 的安裝程式。
 
 `[2]` 生產環境不支援適用於 macOS X 的 AEM [!DNL Forms] 增益集套件，其應僅用於示範用途。 macOS X 套件無法使用 PDF Generator 功能。
 
