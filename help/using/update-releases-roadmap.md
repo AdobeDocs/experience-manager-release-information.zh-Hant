@@ -21,10 +21,10 @@ level_v2:
     internal-label: Intermediate
   - id: d378ca77-2da1-4f39-ad92-1917fe974a38
     internal-label: Experienced
-source-git-commit: 3d6fb57a76993b1acc466b266957ba6f3ed55d94
+source-git-commit: 1ad2d335425f6b3b89073449ff17d50dec880e19
 workflow-type: tm+mt
-source-wordcount: '1300'
-ht-degree: 88%
+source-wordcount: '1325'
+ht-degree: 86%
 ---
 # [!DNL Experience Manager] 發行藍圖 {#aem-releases-roadmap}
 
@@ -105,7 +105,9 @@ ht-degree: 88%
 
 >[!NOTE]
 >
-> 安全性修正僅於最後發行的Service Pack上提供。
+> Adobe建議在每個AEM 6.5 LTS Service Pack上市時採用。 規劃每季更新，以受益於最新功能、增強功能和錯誤修正。
+> 
+> 安全性修正僅適用於最新Service Pack。
 
 
 ### [!DNL Experience Manager] 6.5 {#aem65}
